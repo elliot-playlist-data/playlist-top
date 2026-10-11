@@ -788,24 +788,24 @@
   "top": [
    {
     "position": 1,
-    "title": "92982.3",
-    "artists": "William Basinski",
-    "uri": "spotify:track:5iTMWX6wdY27SoiEK0mylf",
-    "url": "https://open.spotify.com/track/5iTMWX6wdY27SoiEK0mylf"
-   },
-   {
-    "position": 2,
-    "title": "When I See Scissors I Can't Help But Think of You",
-    "artists": "The Dead Texan",
-    "uri": "spotify:track:3xjhSs614NqALivarSVYhV",
-    "url": "https://open.spotify.com/track/3xjhSs614NqALivarSVYhV"
-   },
-   {
-    "position": 3,
     "title": "Blood Rainbow",
     "artists": "Tim Hecker",
     "uri": "spotify:track:1vOKECbjDJzzPi17GWo0DZ",
     "url": "https://open.spotify.com/track/1vOKECbjDJzzPi17GWo0DZ"
+   },
+   {
+    "position": 2,
+    "title": "Dive",
+    "artists": "Infinite Body",
+    "uri": "spotify:track:7yQdHww50VTat6ah8ErpqZ",
+    "url": "https://open.spotify.com/track/7yQdHww50VTat6ah8ErpqZ"
+   },
+   {
+    "position": 3,
+    "title": "Limited Space",
+    "artists": "Yellow Swans",
+    "uri": "spotify:track:1UTm1iOn5dyA1VShiuTONx",
+    "url": "https://open.spotify.com/track/1UTm1iOn5dyA1VShiuTONx"
    }
   ]
  },
@@ -815,24 +815,24 @@
   "top": [
    {
     "position": 1,
-    "title": "Bonny at Morn",
-    "artists": "Home Service",
-    "uri": "spotify:track:0k23ma8SYzo7ew7N4xdQDI",
-    "url": "https://open.spotify.com/track/0k23ma8SYzo7ew7N4xdQDI"
-   },
-   {
-    "position": 2,
     "title": "Sallow Buckthorn",
     "artists": "Quinie",
     "uri": "spotify:track:7A6MYfvHWcTay8om1SJPVJ",
     "url": "https://open.spotify.com/track/7A6MYfvHWcTay8om1SJPVJ"
    },
    {
-    "position": 3,
+    "position": 2,
     "title": "The Rise",
     "artists": "Skerryvore",
     "uri": "spotify:track:6gcHT2hrKEdGffwGzG3Roe",
     "url": "https://open.spotify.com/track/6gcHT2hrKEdGffwGzG3Roe"
+   },
+   {
+    "position": 3,
+    "title": "Take My Hand",
+    "artists": "Skerryvore",
+    "uri": "spotify:track:4677uIumVPOwbxchq7pg1V",
+    "url": "https://open.spotify.com/track/4677uIumVPOwbxchq7pg1V"
    }
   ]
  },
@@ -1044,24 +1044,24 @@
   "top": [
    {
     "position": 1,
-    "title": "Superstylin'",
-    "artists": "Rude Boy, Chassy",
-    "uri": "spotify:track:2atKKT0vkdXdSUzM51k1PO",
-    "url": "https://open.spotify.com/track/2atKKT0vkdXdSUzM51k1PO"
-   },
-   {
-    "position": 2,
     "title": "Love Will Tear Us Apart - Full Vocal Dub",
     "artists": "Capitol 1212, Earl Sixteen",
     "uri": "spotify:track:7sL2Ssg5AuWz2zTGnrOT2O",
     "url": "https://open.spotify.com/track/7sL2Ssg5AuWz2zTGnrOT2O"
    },
    {
-    "position": 3,
+    "position": 2,
     "title": "All I Do is Think About You - Far East Dub",
     "artists": "Quantic",
     "uri": "spotify:track:3ljYNdIvT5PuOH4hZAYViC",
     "url": "https://open.spotify.com/track/3ljYNdIvT5PuOH4hZAYViC"
+   },
+   {
+    "position": 3,
+    "title": "Caroline No",
+    "artists": "Zoe Devlin Love, Tim Hutton",
+    "uri": "spotify:track:1NhwXkaz4wKkPO8zlkMzVM",
+    "url": "https://open.spotify.com/track/1NhwXkaz4wKkPO8zlkMzVM"
    }
   ]
  },
