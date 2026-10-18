@@ -680,24 +680,24 @@
   "top": [
    {
     "position": 1,
-    "title": "Finland Awakes",
-    "artists": "Jean Sibelius, Lahti Symphony Orchestra, Osmo Vänskä",
-    "uri": "spotify:track:16WWvxfxEKasd3DRZFbeoe",
-    "url": "https://open.spotify.com/track/16WWvxfxEKasd3DRZFbeoe"
-   },
-   {
-    "position": 2,
     "title": "King Christian II, Suite, Op. 27: I. Nocturne. Molto moderato",
     "artists": "Jean Sibelius, Gothenburg Symphony Orchestra, Neeme Järvi",
     "uri": "spotify:track:2vVKHXburNESjw9hV4roYq",
     "url": "https://open.spotify.com/track/2vVKHXburNESjw9hV4roYq"
    },
    {
-    "position": 3,
+    "position": 2,
     "title": "King Christian II, Suite, Op. 27: II. Elegy. Andante sostenuto",
     "artists": "Jean Sibelius, Gothenburg Symphony Orchestra, Neeme Järvi",
     "uri": "spotify:track:333VzB8ZxMqTvQtuxZG6wf",
     "url": "https://open.spotify.com/track/333VzB8ZxMqTvQtuxZG6wf"
+   },
+   {
+    "position": 3,
+    "title": "King Christian II, Suite, Op. 27: III. Musette. Allegretto",
+    "artists": "Jean Sibelius, Gothenburg Symphony Orchestra, Neeme Järvi",
+    "uri": "spotify:track:7JA5sdoTLvKKpRACzk0ljW",
+    "url": "https://open.spotify.com/track/7JA5sdoTLvKKpRACzk0ljW"
    }
   ]
  },
@@ -761,24 +761,24 @@
   "top": [
    {
     "position": 1,
-    "title": "Blue Morpho",
-    "artists": "Ed O'Brien",
-    "uri": "spotify:track:6CrBJ6hZyIrDQo8V8VQhT1",
-    "url": "https://open.spotify.com/track/6CrBJ6hZyIrDQo8V8VQhT1"
-   },
-   {
-    "position": 2,
     "title": "Fur",
     "artists": "Blue Lake",
     "uri": "spotify:track:0gCSRpNBTP6M74KQZlXdGf",
     "url": "https://open.spotify.com/track/0gCSRpNBTP6M74KQZlXdGf"
    },
    {
-    "position": 3,
+    "position": 2,
     "title": "Impossible Air",
     "artists": "Nathan Salsburg",
     "uri": "spotify:track:7C23d5jyOZiXIjBiqvBEDp",
     "url": "https://open.spotify.com/track/7C23d5jyOZiXIjBiqvBEDp"
+   },
+   {
+    "position": 3,
+    "title": "Fleeting Future",
+    "artists": "Akusmi",
+    "uri": "spotify:track:0E6OeTjxy9dDJGuHmVWIBy",
+    "url": "https://open.spotify.com/track/0E6OeTjxy9dDJGuHmVWIBy"
    }
   ]
  },
@@ -788,51 +788,24 @@
   "top": [
    {
     "position": 1,
-    "title": "82ºs 62ºe",
-    "artists": "Sleep Research Facility",
-    "uri": "spotify:track:0JwWKowr0RcH11RSkhrj1p",
-    "url": "https://open.spotify.com/track/0JwWKowr0RcH11RSkhrj1p"
-   },
-   {
-    "position": 2,
     "title": "Like a Slow River",
     "artists": "Lull",
     "uri": "spotify:track:1URjjd7gL36o5W0bY9Vh7a",
     "url": "https://open.spotify.com/track/1URjjd7gL36o5W0bY9Vh7a"
    },
    {
-    "position": 3,
+    "position": 2,
     "title": "Use Your Hands",
     "artists": "Fia Fiell",
     "uri": "spotify:track:3fNgY3CwqmLDGVu58wNMbW",
     "url": "https://open.spotify.com/track/3fNgY3CwqmLDGVu58wNMbW"
-   }
-  ]
- },
- "7qAJS8xiHaHfd49EIXiKPU": {
-  "name": "Early Bird Show w/ Maria Somerville (Feb–Nov 2026)",
-  "url": "https://open.spotify.com/playlist/7qAJS8xiHaHfd49EIXiKPU",
-  "top": [
-   {
-    "position": 1,
-    "title": "Toska",
-    "artists": "Jessica Bailiff",
-    "uri": "spotify:track:2OYxpWwWdginA8C1fBUWeN",
-    "url": "https://open.spotify.com/track/2OYxpWwWdginA8C1fBUWeN"
-   },
-   {
-    "position": 2,
-    "title": "Guitar Duo",
-    "artists": "Gia Margaret",
-    "uri": "spotify:track:0j7MEA5Lct5zuTdHzrmxl5",
-    "url": "https://open.spotify.com/track/0j7MEA5Lct5zuTdHzrmxl5"
    },
    {
     "position": 3,
-    "title": "Dancing in the Club - MJ Lenderman Version",
-    "artists": "This Is Lorelei, MJ Lenderman",
-    "uri": "spotify:track:2aFkH4wK9nZbgtmlq411f2",
-    "url": "https://open.spotify.com/track/2aFkH4wK9nZbgtmlq411f2"
+    "title": "Upon the Hydra",
+    "artists": "Enisle",
+    "uri": "spotify:track:2Q9HSp7uHZEwVYbcTDmjL9",
+    "url": "https://open.spotify.com/track/2Q9HSp7uHZEwVYbcTDmjL9"
    }
   ]
  },
@@ -1179,24 +1152,24 @@
   "top": [
    {
     "position": 1,
-    "title": "Goin’ Back",
-    "artists": "Neil Young",
-    "uri": "spotify:track:4MsbDRAy1XIqfGvdoe8fI2",
-    "url": "https://open.spotify.com/track/4MsbDRAy1XIqfGvdoe8fI2"
-   },
-   {
-    "position": 2,
     "title": "Human Highway",
     "artists": "Neil Young",
     "uri": "spotify:track:4mVCe7JwmVN3h39K1YZmby",
     "url": "https://open.spotify.com/track/4mVCe7JwmVN3h39K1YZmby"
    },
    {
-    "position": 3,
+    "position": 2,
     "title": "Field of Opportunity",
     "artists": "Neil Young",
     "uri": "spotify:track:2q7qTSpBBtDWqJZJ33qjsi",
     "url": "https://open.spotify.com/track/2q7qTSpBBtDWqJZJ33qjsi"
+   },
+   {
+    "position": 3,
+    "title": "Dance Dance Dance",
+    "artists": "Neil Young",
+    "uri": "spotify:track:7aoThRoN8Rj3Y7N9p0hNsN",
+    "url": "https://open.spotify.com/track/7aoThRoN8Rj3Y7N9p0hNsN"
    }
   ]
  },
@@ -1440,24 +1413,24 @@
   "top": [
    {
     "position": 1,
-    "title": "angel heart",
-    "artists": "The Crying Nudes",
-    "uri": "spotify:track:0DB3BoQCtYW4FKC06VjH3S",
-    "url": "https://open.spotify.com/track/0DB3BoQCtYW4FKC06VjH3S"
-   },
-   {
-    "position": 2,
     "title": "Over",
     "artists": "Angel Investor",
     "uri": "spotify:track:3qBOcRROfGDRFE3Sgkk0YF",
     "url": "https://open.spotify.com/track/3qBOcRROfGDRFE3Sgkk0YF"
    },
    {
-    "position": 3,
+    "position": 2,
     "title": "The Loom",
     "artists": "Bark Psychosis",
     "uri": "spotify:track:5GbOaR6pcywF3y60jnN36Z",
     "url": "https://open.spotify.com/track/5GbOaR6pcywF3y60jnN36Z"
+   },
+   {
+    "position": 3,
+    "title": "Turn of the Century - 2007 Remaster",
+    "artists": "Beat Rhythm Fashion",
+    "uri": "spotify:track:7kPtoZKTYxCfgVkzdAz6lt",
+    "url": "https://open.spotify.com/track/7kPtoZKTYxCfgVkzdAz6lt"
    }
   ]
  },
