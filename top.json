@@ -680,24 +680,24 @@
   "top": [
    {
     "position": 1,
-    "title": "King Christian II, Suite, Op. 27: III. Musette. Allegretto",
-    "artists": "Jean Sibelius, Gothenburg Symphony Orchestra, Neeme Järvi",
-    "uri": "spotify:track:7JA5sdoTLvKKpRACzk0ljW",
-    "url": "https://open.spotify.com/track/7JA5sdoTLvKKpRACzk0ljW"
-   },
-   {
-    "position": 2,
     "title": "King Christian II, Suite, Op. 27: IV. Serenade. Moderato assai. Quasi menuetto",
     "artists": "Jean Sibelius, Gothenburg Symphony Orchestra, Neeme Järvi",
     "uri": "spotify:track:6scKlSoMC0seiBiNTZpo7s",
     "url": "https://open.spotify.com/track/6scKlSoMC0seiBiNTZpo7s"
    },
    {
-    "position": 3,
+    "position": 2,
     "title": "King Christian II, Suite, Op. 27: V. Ballade. Allegro molto – Vivace",
     "artists": "Jean Sibelius, Gothenburg Symphony Orchestra, Neeme Järvi",
     "uri": "spotify:track:0jzDiKzxhVl4oubu8TBFVj",
     "url": "https://open.spotify.com/track/0jzDiKzxhVl4oubu8TBFVj"
+   },
+   {
+    "position": 3,
+    "title": "Bagatelles, Op. 34: Valse, Op. 34: No. 1",
+    "artists": "Jean Sibelius, Janne Mertanen",
+    "uri": "spotify:track:3NsIEtNiyNr2oTCeludDFb",
+    "url": "https://open.spotify.com/track/3NsIEtNiyNr2oTCeludDFb"
    }
   ]
  },
@@ -809,30 +809,57 @@
    }
   ]
  },
+ "2eTrG6TA2k2yR2zptaZCTt": {
+  "name": "Early Bird Show w/ Maria Somerville (Feb–Nov 2026)",
+  "url": "https://open.spotify.com/playlist/2eTrG6TA2k2yR2zptaZCTt",
+  "top": [
+   {
+    "position": 1,
+    "title": "118",
+    "artists": "d'Eon",
+    "uri": "spotify:track:0iyKus8cgS771bxe3YIjrl",
+    "url": "https://open.spotify.com/track/0iyKus8cgS771bxe3YIjrl"
+   },
+   {
+    "position": 2,
+    "title": "Modena",
+    "artists": "Keith Fullerton Whitman",
+    "uri": "spotify:track:3OYsujdCY8Wr1qmLOA7zOo",
+    "url": "https://open.spotify.com/track/3OYsujdCY8Wr1qmLOA7zOo"
+   },
+   {
+    "position": 3,
+    "title": "I'm Late for Something",
+    "artists": "Memotone",
+    "uri": "spotify:track:2bmAgmV0BxnXm10PrWsmjc",
+    "url": "https://open.spotify.com/track/2bmAgmV0BxnXm10PrWsmjc"
+   }
+  ]
+ },
  "2QIpmavz5TLWnEk1jbLfVi": {
   "name": "Folk Show",
   "url": "https://open.spotify.com/playlist/2QIpmavz5TLWnEk1jbLfVi",
   "top": [
    {
     "position": 1,
-    "title": "Delia - Remastered",
-    "artists": "Muireann Bradley",
-    "uri": "spotify:track:36l167Xlv9qcGPIAP1UWo3",
-    "url": "https://open.spotify.com/track/36l167Xlv9qcGPIAP1UWo3"
-   },
-   {
-    "position": 2,
     "title": "Courting Is A Pleasure",
     "artists": "Ranagri",
     "uri": "spotify:track:2GTzyTXFGiRMaABHxUsZjE",
     "url": "https://open.spotify.com/track/2GTzyTXFGiRMaABHxUsZjE"
    },
    {
-    "position": 3,
+    "position": 2,
     "title": "New Allemand / Quick Step",
     "artists": "Granny's Attic",
     "uri": "spotify:track:1vg4keFQND6d9yM2cUBiQh",
     "url": "https://open.spotify.com/track/1vg4keFQND6d9yM2cUBiQh"
+   },
+   {
+    "position": 3,
+    "title": "The Strangler",
+    "artists": "Ranagri",
+    "uri": "spotify:track:6pLsYhoQN9QAtPExJDX2lQ",
+    "url": "https://open.spotify.com/track/6pLsYhoQN9QAtPExJDX2lQ"
    }
   ]
  },
@@ -842,24 +869,24 @@
   "top": [
    {
     "position": 1,
-    "title": "Seeds",
-    "artists": "A. G. Cook, Alaska Reid",
-    "uri": "spotify:track:6ciksCozTekRq3OYkqXhKL",
-    "url": "https://open.spotify.com/track/6ciksCozTekRq3OYkqXhKL"
-   },
-   {
-    "position": 2,
     "title": "The Morning",
     "artists": "Danielle Haim",
     "uri": "spotify:track:4PuWMfnRri76zj3Vqt03GS",
     "url": "https://open.spotify.com/track/4PuWMfnRri76zj3Vqt03GS"
    },
    {
-    "position": 3,
+    "position": 2,
     "title": "Fly On",
     "artists": "Karen Elson",
     "uri": "spotify:track:3dmuVrfOV6Ub6iSoHGYLGb",
     "url": "https://open.spotify.com/track/3dmuVrfOV6Ub6iSoHGYLGb"
+   },
+   {
+    "position": 3,
+    "title": "Fly Away (with the Songs)",
+    "artists": "Michael Rother, Vittoria Maccabruni",
+    "uri": "spotify:track:2ntQE6NkMfagaORmBab2Ml",
+    "url": "https://open.spotify.com/track/2ntQE6NkMfagaORmBab2Ml"
    }
   ]
  },
@@ -1071,24 +1098,24 @@
   "top": [
    {
     "position": 1,
-    "title": "Sixteen Tons of Dub",
-    "artists": "O.B.F",
-    "uri": "spotify:track:2Y96aEid15eh6KycQGG7lV",
-    "url": "https://open.spotify.com/track/2Y96aEid15eh6KycQGG7lV"
-   },
-   {
-    "position": 2,
     "title": "Ain't No Sunshine - Space Dub Mix - Exclusive Remix",
     "artists": "Yasushi Ide",
     "uri": "spotify:track:1rxB34p8GFNfsUL6UPbxu8",
     "url": "https://open.spotify.com/track/1rxB34p8GFNfsUL6UPbxu8"
    },
    {
-    "position": 3,
+    "position": 2,
     "title": "Baltimore",
     "artists": "The Tamlins",
     "uri": "spotify:track:4fEu5b3Np1DIveiIsgQ8oq",
     "url": "https://open.spotify.com/track/4fEu5b3Np1DIveiIsgQ8oq"
+   },
+   {
+    "position": 3,
+    "title": "15 16 17 - Emotion - Dennis Bovel Remix",
+    "artists": "Dennis Bovell",
+    "uri": "spotify:track:3lHclWpbIHuHsorjJ4q9C0",
+    "url": "https://open.spotify.com/track/3lHclWpbIHuHsorjJ4q9C0"
    }
   ]
  },
@@ -1184,24 +1211,24 @@
   "top": [
    {
     "position": 1,
-    "title": "Some",
-    "artists": "Nils Frahm",
-    "uri": "spotify:track:1fQ1BiRCJETaTNBPaoKKXt",
-    "url": "https://open.spotify.com/track/1fQ1BiRCJETaTNBPaoKKXt"
-   },
-   {
-    "position": 2,
     "title": "Circling",
     "artists": "Nils Frahm",
     "uri": "spotify:track:2LlLgnfXLI0nY564NoUI8P",
     "url": "https://open.spotify.com/track/2LlLgnfXLI0nY564NoUI8P"
    },
    {
-    "position": 3,
+    "position": 2,
     "title": "Merry",
     "artists": "Nils Frahm",
     "uri": "spotify:track:1XmgXLBM2mocS2DdZHUne0",
     "url": "https://open.spotify.com/track/1XmgXLBM2mocS2DdZHUne0"
+   },
+   {
+    "position": 3,
+    "title": "Chant",
+    "artists": "Nils Frahm",
+    "uri": "spotify:track:25tHOqLzB0YoL4qYsYY82L",
+    "url": "https://open.spotify.com/track/25tHOqLzB0YoL4qYsYY82L"
    }
   ]
  },
@@ -1211,24 +1238,24 @@
   "top": [
    {
     "position": 1,
-    "title": "Good-bye Mother Nature",
-    "artists": "Erin",
-    "uri": "spotify:track:4pV4MGO43kMnoiPoGYqnoL",
-    "url": "https://open.spotify.com/track/4pV4MGO43kMnoiPoGYqnoL"
-   },
-   {
-    "position": 2,
     "title": "Go Sweetly",
     "artists": "Jeff Cowell",
     "uri": "spotify:track:58RqCI76Ao0wiUxz79eHK4",
     "url": "https://open.spotify.com/track/58RqCI76Ao0wiUxz79eHK4"
    },
    {
-    "position": 3,
+    "position": 2,
     "title": "The Touch - Remastered",
     "artists": "Inner Dialogue",
     "uri": "spotify:track:23SkrLOIlXMesRzpLU9gpM",
     "url": "https://open.spotify.com/track/23SkrLOIlXMesRzpLU9gpM"
+   },
+   {
+    "position": 3,
+    "title": "Trahison!",
+    "artists": "RLW",
+    "uri": "spotify:track:7gRCJG3uLabnlTTqSA6pGd",
+    "url": "https://open.spotify.com/track/7gRCJG3uLabnlTTqSA6pGd"
    }
   ]
  },
@@ -1413,24 +1440,24 @@
   "top": [
    {
     "position": 1,
-    "title": "Turn of the Century - 2007 Remaster",
-    "artists": "Beat Rhythm Fashion",
-    "uri": "spotify:track:7kPtoZKTYxCfgVkzdAz6lt",
-    "url": "https://open.spotify.com/track/7kPtoZKTYxCfgVkzdAz6lt"
-   },
-   {
-    "position": 2,
     "title": "I Dream of Jeannie - With the Light Brown Hair",
     "artists": "Stina Nordenstam",
     "uri": "spotify:track:0AWpPU3kRCICcfLUGqwRuC",
     "url": "https://open.spotify.com/track/0AWpPU3kRCICcfLUGqwRuC"
    },
    {
-    "position": 3,
+    "position": 2,
     "title": "Aurora",
     "artists": "Quiet Light",
     "uri": "spotify:track:60ROE8El697cDcueQiU2hD",
     "url": "https://open.spotify.com/track/60ROE8El697cDcueQiU2hD"
+   },
+   {
+    "position": 3,
+    "title": "Torn Atwain",
+    "artists": "goldenstar",
+    "uri": "spotify:track:5ihK58MGmcwO9TLi7CEym6",
+    "url": "https://open.spotify.com/track/5ihK58MGmcwO9TLi7CEym6"
    }
   ]
  },
