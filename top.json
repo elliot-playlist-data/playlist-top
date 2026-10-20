@@ -788,24 +788,24 @@
   "top": [
    {
     "position": 1,
-    "title": "Untitled #4",
-    "artists": "M. Geddes Gengras",
-    "uri": "spotify:track:7luTjJbkS1lPni1curSUhr",
-    "url": "https://open.spotify.com/track/7luTjJbkS1lPni1curSUhr"
-   },
-   {
-    "position": 2,
     "title": "Swarming Starlings",
     "artists": "Yann Novak",
     "uri": "spotify:track:4FUHWVEtXsghAdzaoNPk5m",
     "url": "https://open.spotify.com/track/4FUHWVEtXsghAdzaoNPk5m"
    },
    {
-    "position": 3,
+    "position": 2,
     "title": "Indistinguishable from Magic",
     "artists": "Celer, Forest Management",
     "uri": "spotify:track:3i1Krv8CpPqG3o4sSzZrTK",
     "url": "https://open.spotify.com/track/3i1Krv8CpPqG3o4sSzZrTK"
+   },
+   {
+    "position": 3,
+    "title": "The Loser Keeps America Clean",
+    "artists": "Emeralds",
+    "uri": "spotify:track:0cJGmMj7aBqdwGijKyKoC3",
+    "url": "https://open.spotify.com/track/0cJGmMj7aBqdwGijKyKoC3"
    }
   ]
  },
