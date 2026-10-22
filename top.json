@@ -788,24 +788,24 @@
   "top": [
    {
     "position": 1,
-    "title": "Indistinguishable from Magic",
-    "artists": "Celer, Forest Management",
-    "uri": "spotify:track:3i1Krv8CpPqG3o4sSzZrTK",
-    "url": "https://open.spotify.com/track/3i1Krv8CpPqG3o4sSzZrTK"
-   },
-   {
-    "position": 2,
     "title": "The Loser Keeps America Clean",
     "artists": "Emeralds",
     "uri": "spotify:track:0cJGmMj7aBqdwGijKyKoC3",
     "url": "https://open.spotify.com/track/0cJGmMj7aBqdwGijKyKoC3"
    },
    {
-    "position": 3,
+    "position": 2,
     "title": "Down to the Ocean",
     "artists": "Grouper",
     "uri": "spotify:track:0Eci42j6D7tsAVhOVlSuk2",
     "url": "https://open.spotify.com/track/0Eci42j6D7tsAVhOVlSuk2"
+   },
+   {
+    "position": 3,
+    "title": "Veil of Disillusion",
+    "artists": "Nadja",
+    "uri": "spotify:track:6Gy70dHgfSmI5ykpqOppAj",
+    "url": "https://open.spotify.com/track/6Gy70dHgfSmI5ykpqOppAj"
    }
   ]
  },
@@ -842,24 +842,24 @@
   "top": [
    {
     "position": 1,
-    "title": "New Allemand / Quick Step",
-    "artists": "Granny's Attic",
-    "uri": "spotify:track:1vg4keFQND6d9yM2cUBiQh",
-    "url": "https://open.spotify.com/track/1vg4keFQND6d9yM2cUBiQh"
-   },
-   {
-    "position": 2,
-    "title": "The Strangler",
-    "artists": "Ranagri",
-    "uri": "spotify:track:6pLsYhoQN9QAtPExJDX2lQ",
-    "url": "https://open.spotify.com/track/6pLsYhoQN9QAtPExJDX2lQ"
-   },
-   {
-    "position": 3,
     "title": "Silver Service",
     "artists": "Findlay Napier",
     "uri": "spotify:track:5vnWKYtIftyq04k4f52OSk",
     "url": "https://open.spotify.com/track/5vnWKYtIftyq04k4f52OSk"
+   },
+   {
+    "position": 2,
+    "title": "Galway",
+    "artists": "Suzanne Vega",
+    "uri": "spotify:track:5iDPzhEIa4HtjM2g8hfYyq",
+    "url": "https://open.spotify.com/track/5iDPzhEIa4HtjM2g8hfYyq"
+   },
+   {
+    "position": 3,
+    "title": "I'm On My Journey Home",
+    "artists": "Sam Amidon",
+    "uri": "spotify:track:0mpVZBI4p1XkmAZiNmbN9L",
+    "url": "https://open.spotify.com/track/0mpVZBI4p1XkmAZiNmbN9L"
    }
   ]
  },
@@ -1179,24 +1179,24 @@
   "top": [
    {
     "position": 1,
-    "title": "Short Story",
-    "artists": "Bon Iver",
-    "uri": "spotify:track:5gkXT32DgfW10RPN8cJoMX",
-    "url": "https://open.spotify.com/track/5gkXT32DgfW10RPN8cJoMX"
-   },
-   {
-    "position": 2,
     "title": "Everything Is Peaceful Love",
     "artists": "Bon Iver",
     "uri": "spotify:track:4XosapYiYaXGcxc83p3DD9",
     "url": "https://open.spotify.com/track/4XosapYiYaXGcxc83p3DD9"
    },
    {
-    "position": 3,
+    "position": 2,
     "title": "Walk Home",
     "artists": "Bon Iver",
     "uri": "spotify:track:4rxStMhSPuwm1QfXwp5zUA",
     "url": "https://open.spotify.com/track/4rxStMhSPuwm1QfXwp5zUA"
+   },
+   {
+    "position": 3,
+    "title": "Day One",
+    "artists": "Bon Iver, Dijon, Flock of Dimes",
+    "uri": "spotify:track:6QJVQSuMC77psM4vgPo31D",
+    "url": "https://open.spotify.com/track/6QJVQSuMC77psM4vgPo31D"
    }
   ]
  },
