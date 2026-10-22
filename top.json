@@ -5,24 +5,24 @@
   "top": [
    {
     "position": 1,
-    "title": "Lute Concerto in D Major, RV 93: II. Largo",
-    "artists": "Antonio Vivaldi, John C. Williams, Franz Liszt Chamber Orchestra, János Rolla",
-    "uri": "spotify:track:3Rlg9dNXAgeF9u7LIh3zYt",
-    "url": "https://open.spotify.com/track/3Rlg9dNXAgeF9u7LIh3zYt"
-   },
-   {
-    "position": 2,
-    "title": "Concerto for Lute and 2 Violins in D Major, RV 93: III. Allegro",
-    "artists": "Antonio Vivaldi, Rolf Lislevand, Manfredo Kraemer, The Rare Fruits Council",
-    "uri": "spotify:track:6QtqpBaA6VvjdoSA3HBpUH",
-    "url": "https://open.spotify.com/track/6QtqpBaA6VvjdoSA3HBpUH"
-   },
-   {
-    "position": 3,
     "title": "Concerto for Strings in A Major, RV 159: I. Allegro",
     "artists": "Antonio Vivaldi, Shlomo Mintz, Israel Chamber Orchestra",
     "uri": "spotify:track:0vZt67IHP7d2z1iOY2srij",
     "url": "https://open.spotify.com/track/0vZt67IHP7d2z1iOY2srij"
+   },
+   {
+    "position": 2,
+    "title": "Gloria: Gloria in excelsis Deo",
+    "artists": "Antonio Vivaldi, Monteverdi Choir, English Baroque Soloists, John Eliot Gardiner",
+    "uri": "spotify:track:4R4oGXRhmuS5ykjru4u8mE",
+    "url": "https://open.spotify.com/track/4R4oGXRhmuS5ykjru4u8mE"
+   },
+   {
+    "position": 3,
+    "title": "Gloria: Laudamus te",
+    "artists": "Antonio Vivaldi, Lucy Ballard, Katherine Fuge, English Baroque Soloists, John Eliot Gardiner",
+    "uri": "spotify:track:3Y9DvwUN13suJrHaHjV3tk",
+    "url": "https://open.spotify.com/track/3Y9DvwUN13suJrHaHjV3tk"
    }
   ]
  },
@@ -680,24 +680,24 @@
   "top": [
    {
     "position": 1,
-    "title": "Bagatelles, Op. 34: Valse, Op. 34: No. 1",
-    "artists": "Jean Sibelius, Janne Mertanen",
-    "uri": "spotify:track:3NsIEtNiyNr2oTCeludDFb",
-    "url": "https://open.spotify.com/track/3NsIEtNiyNr2oTCeludDFb"
-   },
-   {
-    "position": 2,
-    "title": "Bagatelles, Op. 34: Air de danse, Op. 34: No. 2",
-    "artists": "Jean Sibelius, Janne Mertanen",
-    "uri": "spotify:track:6uPD7e6ejpN4b6h4RxGgbh",
-    "url": "https://open.spotify.com/track/6uPD7e6ejpN4b6h4RxGgbh"
-   },
-   {
-    "position": 3,
     "title": "Bagatelles, Op. 34: Mazurka, Op. 34: No. 3",
     "artists": "Jean Sibelius, Janne Mertanen",
     "uri": "spotify:track:6tNjMiawtkBuVW1V90wZVK",
     "url": "https://open.spotify.com/track/6tNjMiawtkBuVW1V90wZVK"
+   },
+   {
+    "position": 2,
+    "title": "Bagatelles, Op. 34: Couplet, Op. 34: No. 4",
+    "artists": "Jean Sibelius, Janne Mertanen",
+    "uri": "spotify:track:3uTk9GDAb8c2pdPeLwgCQe",
+    "url": "https://open.spotify.com/track/3uTk9GDAb8c2pdPeLwgCQe"
+   },
+   {
+    "position": 3,
+    "title": "Bagatelles, Op. 34: Boutade, Op. 34: No. 5",
+    "artists": "Jean Sibelius, Janne Mertanen",
+    "uri": "spotify:track:3dwX1zHH4SHxXd8sixj7BL",
+    "url": "https://open.spotify.com/track/3dwX1zHH4SHxXd8sixj7BL"
    }
   ]
  },
@@ -761,24 +761,24 @@
   "top": [
    {
     "position": 1,
-    "title": "CHANGE. CONSTANT",
-    "artists": "Andreas Ihlebæk",
-    "uri": "spotify:track:2wZVZ21A6f2SFrh6XkxAXx",
-    "url": "https://open.spotify.com/track/2wZVZ21A6f2SFrh6XkxAXx"
-   },
-   {
-    "position": 2,
-    "title": "Song for Growth",
-    "artists": "Mouseatouille",
-    "uri": "spotify:track:3t8eiMqz1oI1uiIt8YKFWS",
-    "url": "https://open.spotify.com/track/3t8eiMqz1oI1uiIt8YKFWS"
-   },
-   {
-    "position": 3,
     "title": "Butterfly Phase",
     "artists": "Kelly Moran",
     "uri": "spotify:track:0QKddJ3o12VABQe3XyXw8O",
     "url": "https://open.spotify.com/track/0QKddJ3o12VABQe3XyXw8O"
+   },
+   {
+    "position": 2,
+    "title": "Pound For Pound",
+    "artists": "The Bad Plus",
+    "uri": "spotify:track:6Y4cnbaeT5RgE9QvSeTuCY",
+    "url": "https://open.spotify.com/track/6Y4cnbaeT5RgE9QvSeTuCY"
+   },
+   {
+    "position": 3,
+    "title": "In A Black Out - Piano Version",
+    "artists": "Hamilton Leithauser, Rostam",
+    "uri": "spotify:track:4r6nfKD6fFunFIMgYI3Flc",
+    "url": "https://open.spotify.com/track/4r6nfKD6fFunFIMgYI3Flc"
    }
   ]
  },
@@ -806,6 +806,33 @@
     "artists": "Grouper",
     "uri": "spotify:track:0Eci42j6D7tsAVhOVlSuk2",
     "url": "https://open.spotify.com/track/0Eci42j6D7tsAVhOVlSuk2"
+   }
+  ]
+ },
+ "2500ME17wq589z7OZdEVfR": {
+  "name": "Early Bird Show w/ Maria Somerville (Feb–Nov 2026)",
+  "url": "https://open.spotify.com/playlist/2500ME17wq589z7OZdEVfR",
+  "top": [
+   {
+    "position": 1,
+    "title": "Unfamiliar Wind (Leeks Hills) - Remastered 2004",
+    "artists": "Brian Eno",
+    "uri": "spotify:track:4SngUdjKC7Njrz5UVik26A",
+    "url": "https://open.spotify.com/track/4SngUdjKC7Njrz5UVik26A"
+   },
+   {
+    "position": 2,
+    "title": "Smoothy Flow",
+    "artists": "Bryozone",
+    "uri": "spotify:track:3I1nhuHlg7heXB6ARoHjYQ",
+    "url": "https://open.spotify.com/track/3I1nhuHlg7heXB6ARoHjYQ"
+   },
+   {
+    "position": 3,
+    "title": "Aleteas",
+    "artists": "Aukai",
+    "uri": "spotify:track:0IAixZDT1jPikboMDofJWx",
+    "url": "https://open.spotify.com/track/0IAixZDT1jPikboMDofJWx"
    }
   ]
  },
@@ -1152,24 +1179,24 @@
   "top": [
    {
     "position": 1,
-    "title": "...",
+    "title": "Short Story",
     "artists": "Bon Iver",
-    "uri": "spotify:track:5NqTQLtSXTkpkKvr0DgCv6",
-    "url": "https://open.spotify.com/track/5NqTQLtSXTkpkKvr0DgCv6"
+    "uri": "spotify:track:5gkXT32DgfW10RPN8cJoMX",
+    "url": "https://open.spotify.com/track/5gkXT32DgfW10RPN8cJoMX"
    },
    {
     "position": 2,
-    "title": "THINGS BEHIND THINGS BEHIND THINGS",
+    "title": "Everything Is Peaceful Love",
     "artists": "Bon Iver",
-    "uri": "spotify:track:0k4XDoI1iCB3fV2RstqiYA",
-    "url": "https://open.spotify.com/track/0k4XDoI1iCB3fV2RstqiYA"
+    "uri": "spotify:track:4XosapYiYaXGcxc83p3DD9",
+    "url": "https://open.spotify.com/track/4XosapYiYaXGcxc83p3DD9"
    },
    {
     "position": 3,
-    "title": "S P E Y S I D E",
+    "title": "Walk Home",
     "artists": "Bon Iver",
-    "uri": "spotify:track:4FeYX8QKpNA1Nof6XLsMnv",
-    "url": "https://open.spotify.com/track/4FeYX8QKpNA1Nof6XLsMnv"
+    "uri": "spotify:track:4rxStMhSPuwm1QfXwp5zUA",
+    "url": "https://open.spotify.com/track/4rxStMhSPuwm1QfXwp5zUA"
    }
   ]
  },
@@ -1184,24 +1211,24 @@
   "top": [
    {
     "position": 1,
-    "title": "Merry",
+    "title": "Immerse!",
     "artists": "Nils Frahm",
-    "uri": "spotify:track:1XmgXLBM2mocS2DdZHUne0",
-    "url": "https://open.spotify.com/track/1XmgXLBM2mocS2DdZHUne0"
+    "uri": "spotify:track:0AvBmRrqGbaWvHlS9oc2Ib",
+    "url": "https://open.spotify.com/track/0AvBmRrqGbaWvHlS9oc2Ib"
    },
    {
     "position": 2,
-    "title": "Chant",
+    "title": "Four Hands",
     "artists": "Nils Frahm",
-    "uri": "spotify:track:25tHOqLzB0YoL4qYsYY82L",
-    "url": "https://open.spotify.com/track/25tHOqLzB0YoL4qYsYY82L"
+    "uri": "spotify:track:23TIOJuJwXh0vBKLZJekOx",
+    "url": "https://open.spotify.com/track/23TIOJuJwXh0vBKLZJekOx"
    },
    {
     "position": 3,
-    "title": "Wall",
+    "title": "Him",
     "artists": "Nils Frahm",
-    "uri": "spotify:track:3BU3C7v3OjwtarLmEMhbOr",
-    "url": "https://open.spotify.com/track/3BU3C7v3OjwtarLmEMhbOr"
+    "uri": "spotify:track:6X4GmIGetBXwSuAFfqgoA6",
+    "url": "https://open.spotify.com/track/6X4GmIGetBXwSuAFfqgoA6"
    }
   ]
  },
@@ -1413,24 +1440,24 @@
   "top": [
    {
     "position": 1,
-    "title": "Torn Atwain",
-    "artists": "goldenstar",
-    "uri": "spotify:track:5ihK58MGmcwO9TLi7CEym6",
-    "url": "https://open.spotify.com/track/5ihK58MGmcwO9TLi7CEym6"
-   },
-   {
-    "position": 2,
-    "title": "Toska",
-    "artists": "Jessica Bailiff",
-    "uri": "spotify:track:2OYxpWwWdginA8C1fBUWeN",
-    "url": "https://open.spotify.com/track/2OYxpWwWdginA8C1fBUWeN"
-   },
-   {
-    "position": 3,
     "title": "Wind On Water",
     "artists": "Robert Fripp, Brian Eno",
     "uri": "spotify:track:6CHo2rZCwJ5v6JKLzdc8Fe",
     "url": "https://open.spotify.com/track/6CHo2rZCwJ5v6JKLzdc8Fe"
+   },
+   {
+    "position": 2,
+    "title": "I'm Waiting for the Man - May 1965 Demo",
+    "artists": "Lou Reed",
+    "uri": "spotify:track:4LVdjfCCLUxxJM3olFZIBW",
+    "url": "https://open.spotify.com/track/4LVdjfCCLUxxJM3olFZIBW"
+   },
+   {
+    "position": 3,
+    "title": "Mixed Harmonium",
+    "artists": "Ariel Kalma",
+    "uri": "spotify:track:4YofFVS5lCJbEJECUvi8sV",
+    "url": "https://open.spotify.com/track/4YofFVS5lCJbEJECUvi8sV"
    }
   ]
  },
