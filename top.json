@@ -5,24 +5,24 @@
   "top": [
    {
     "position": 1,
-    "title": "Concerto for Strings in A Major, RV 159: I. Allegro",
-    "artists": "Antonio Vivaldi, Shlomo Mintz, Israel Chamber Orchestra",
-    "uri": "spotify:track:0vZt67IHP7d2z1iOY2srij",
-    "url": "https://open.spotify.com/track/0vZt67IHP7d2z1iOY2srij"
-   },
-   {
-    "position": 2,
-    "title": "Gloria: Gloria in excelsis Deo",
-    "artists": "Antonio Vivaldi, Monteverdi Choir, English Baroque Soloists, John Eliot Gardiner",
-    "uri": "spotify:track:4R4oGXRhmuS5ykjru4u8mE",
-    "url": "https://open.spotify.com/track/4R4oGXRhmuS5ykjru4u8mE"
-   },
-   {
-    "position": 3,
     "title": "Gloria: Laudamus te",
     "artists": "Antonio Vivaldi, Lucy Ballard, Katherine Fuge, English Baroque Soloists, John Eliot Gardiner",
     "uri": "spotify:track:3Y9DvwUN13suJrHaHjV3tk",
     "url": "https://open.spotify.com/track/3Y9DvwUN13suJrHaHjV3tk"
+   },
+   {
+    "position": 2,
+    "title": "Gloria: Domine Fili unigenite",
+    "artists": "Antonio Vivaldi, Monteverdi Choir, English Baroque Soloists, John Eliot Gardiner",
+    "uri": "spotify:track:1i2q2RDuhNsE51HBpqwndR",
+    "url": "https://open.spotify.com/track/1i2q2RDuhNsE51HBpqwndR"
+   },
+   {
+    "position": 3,
+    "title": "Gloria: Quoniam tu solus sanctus",
+    "artists": "Antonio Vivaldi, Monteverdi Choir, English Baroque Soloists, John Eliot Gardiner",
+    "uri": "spotify:track:16ibUjDkCiDjibggGs3Xpu",
+    "url": "https://open.spotify.com/track/16ibUjDkCiDjibggGs3Xpu"
    }
   ]
  },
@@ -788,51 +788,24 @@
   "top": [
    {
     "position": 1,
-    "title": "The Loser Keeps America Clean",
-    "artists": "Emeralds",
-    "uri": "spotify:track:0cJGmMj7aBqdwGijKyKoC3",
-    "url": "https://open.spotify.com/track/0cJGmMj7aBqdwGijKyKoC3"
-   },
-   {
-    "position": 2,
-    "title": "Down to the Ocean",
-    "artists": "Grouper",
-    "uri": "spotify:track:0Eci42j6D7tsAVhOVlSuk2",
-    "url": "https://open.spotify.com/track/0Eci42j6D7tsAVhOVlSuk2"
-   },
-   {
-    "position": 3,
     "title": "Veil of Disillusion",
     "artists": "Nadja",
     "uri": "spotify:track:6Gy70dHgfSmI5ykpqOppAj",
     "url": "https://open.spotify.com/track/6Gy70dHgfSmI5ykpqOppAj"
-   }
-  ]
- },
- "2500ME17wq589z7OZdEVfR": {
-  "name": "Early Bird Show w/ Maria Somerville (Feb–Nov 2026)",
-  "url": "https://open.spotify.com/playlist/2500ME17wq589z7OZdEVfR",
-  "top": [
-   {
-    "position": 1,
-    "title": "Unfamiliar Wind (Leeks Hills) - Remastered 2004",
-    "artists": "Brian Eno",
-    "uri": "spotify:track:4SngUdjKC7Njrz5UVik26A",
-    "url": "https://open.spotify.com/track/4SngUdjKC7Njrz5UVik26A"
    },
    {
     "position": 2,
-    "title": "Smoothy Flow",
-    "artists": "Bryozone",
-    "uri": "spotify:track:3I1nhuHlg7heXB6ARoHjYQ",
-    "url": "https://open.spotify.com/track/3I1nhuHlg7heXB6ARoHjYQ"
+    "title": "Occam River I",
+    "artists": "Éliane Radigue, Carol Robinson, Julia Eckhardt",
+    "uri": "spotify:track:55iAcEuzDlPRfbgFAZVi7m",
+    "url": "https://open.spotify.com/track/55iAcEuzDlPRfbgFAZVi7m"
    },
    {
     "position": 3,
-    "title": "Aleteas",
-    "artists": "Aukai",
-    "uri": "spotify:track:0IAixZDT1jPikboMDofJWx",
-    "url": "https://open.spotify.com/track/0IAixZDT1jPikboMDofJWx"
+    "title": "02",
+    "artists": "David Wenngren, Library Tapes",
+    "uri": "spotify:track:1MR9OTuqgsArQSJY7dIc4h",
+    "url": "https://open.spotify.com/track/1MR9OTuqgsArQSJY7dIc4h"
    }
   ]
  },
@@ -842,24 +815,24 @@
   "top": [
    {
     "position": 1,
-    "title": "Silver Service",
-    "artists": "Findlay Napier",
-    "uri": "spotify:track:5vnWKYtIftyq04k4f52OSk",
-    "url": "https://open.spotify.com/track/5vnWKYtIftyq04k4f52OSk"
-   },
-   {
-    "position": 2,
-    "title": "Galway",
-    "artists": "Suzanne Vega",
-    "uri": "spotify:track:5iDPzhEIa4HtjM2g8hfYyq",
-    "url": "https://open.spotify.com/track/5iDPzhEIa4HtjM2g8hfYyq"
-   },
-   {
-    "position": 3,
     "title": "I'm On My Journey Home",
     "artists": "Sam Amidon",
     "uri": "spotify:track:0mpVZBI4p1XkmAZiNmbN9L",
     "url": "https://open.spotify.com/track/0mpVZBI4p1XkmAZiNmbN9L"
+   },
+   {
+    "position": 2,
+    "title": "A Summer Wind, A Cotton Dress",
+    "artists": "Richard Shindell",
+    "uri": "spotify:track:4IdgrZyyk1GtM0Gzcu0MlO",
+    "url": "https://open.spotify.com/track/4IdgrZyyk1GtM0Gzcu0MlO"
+   },
+   {
+    "position": 3,
+    "title": "Samhradh Samhradh",
+    "artists": "The Gloaming",
+    "uri": "spotify:track:3tzM7quInY8UcM9bxp67yC",
+    "url": "https://open.spotify.com/track/3tzM7quInY8UcM9bxp67yC"
    }
   ]
  },
@@ -869,24 +842,24 @@
   "top": [
    {
     "position": 1,
-    "title": "Fly On",
-    "artists": "Karen Elson",
-    "uri": "spotify:track:3dmuVrfOV6Ub6iSoHGYLGb",
-    "url": "https://open.spotify.com/track/3dmuVrfOV6Ub6iSoHGYLGb"
-   },
-   {
-    "position": 2,
     "title": "Fly Away (with the Songs)",
     "artists": "Michael Rother, Vittoria Maccabruni",
     "uri": "spotify:track:2ntQE6NkMfagaORmBab2Ml",
     "url": "https://open.spotify.com/track/2ntQE6NkMfagaORmBab2Ml"
    },
    {
-    "position": 3,
+    "position": 2,
     "title": "On the Wing",
     "artists": "Jim James",
     "uri": "spotify:track:5LztJUQu3aYFEqzzWaHCcZ",
     "url": "https://open.spotify.com/track/5LztJUQu3aYFEqzzWaHCcZ"
+   },
+   {
+    "position": 3,
+    "title": "Honey, In the Wild",
+    "artists": "Annie Nero, Josh Kaufman",
+    "uri": "spotify:track:2HeusL5yydbhSyGo2A9Fyj",
+    "url": "https://open.spotify.com/track/2HeusL5yydbhSyGo2A9Fyj"
    }
   ]
  },
@@ -1071,24 +1044,24 @@
   "top": [
    {
     "position": 1,
-    "title": "Baltimore",
-    "artists": "The Tamlins",
-    "uri": "spotify:track:4fEu5b3Np1DIveiIsgQ8oq",
-    "url": "https://open.spotify.com/track/4fEu5b3Np1DIveiIsgQ8oq"
-   },
-   {
-    "position": 2,
-    "title": "15 16 17 - Emotion - Dennis Bovel Remix",
-    "artists": "Dennis Bovell",
-    "uri": "spotify:track:3lHclWpbIHuHsorjJ4q9C0",
-    "url": "https://open.spotify.com/track/3lHclWpbIHuHsorjJ4q9C0"
-   },
-   {
-    "position": 3,
     "title": "There's Nothing Like This",
     "artists": "Ash Walker, Laville",
     "uri": "spotify:track:5cDcpFJDpoSjpbZYT3CPDg",
     "url": "https://open.spotify.com/track/5cDcpFJDpoSjpbZYT3CPDg"
+   },
+   {
+    "position": 2,
+    "title": "Slipping into Darkness",
+    "artists": "The Senior Allstars, Ammoye",
+    "uri": "spotify:track:1nDgqvTzKJXmQz4vWBHuwR",
+    "url": "https://open.spotify.com/track/1nDgqvTzKJXmQz4vWBHuwR"
+   },
+   {
+    "position": 3,
+    "title": "Within You Without You",
+    "artists": "Easy Star All-Stars",
+    "uri": "spotify:track:5lLGAJ1I1Y9TJFopeHZ5ys",
+    "url": "https://open.spotify.com/track/5lLGAJ1I1Y9TJFopeHZ5ys"
    }
   ]
  },
@@ -1211,24 +1184,24 @@
   "top": [
    {
     "position": 1,
-    "title": "The Touch - Remastered",
-    "artists": "Inner Dialogue",
-    "uri": "spotify:track:23SkrLOIlXMesRzpLU9gpM",
-    "url": "https://open.spotify.com/track/23SkrLOIlXMesRzpLU9gpM"
-   },
-   {
-    "position": 2,
-    "title": "Trahison!",
-    "artists": "RLW",
-    "uri": "spotify:track:7gRCJG3uLabnlTTqSA6pGd",
-    "url": "https://open.spotify.com/track/7gRCJG3uLabnlTTqSA6pGd"
-   },
-   {
-    "position": 3,
     "title": "The Approaching Of The Disco Void - Live",
     "artists": "John Fahey",
     "uri": "spotify:track:1MB3ylW9fYQVTrN0Xb3ARG",
     "url": "https://open.spotify.com/track/1MB3ylW9fYQVTrN0Xb3ARG"
+   },
+   {
+    "position": 2,
+    "title": "Ep.1. Doing the Bathroom",
+    "artists": "Ivor Cutler",
+    "uri": "spotify:track:6L2NSfizQB575vGuLpfrOn",
+    "url": "https://open.spotify.com/track/6L2NSfizQB575vGuLpfrOn"
+   },
+   {
+    "position": 3,
+    "title": "Secondo coro delle lavandaie",
+    "artists": "Mai Mai Mai, Maria Violenza",
+    "uri": "spotify:track:6mESwc5S4rPg7bCRRd3EBg",
+    "url": "https://open.spotify.com/track/6mESwc5S4rPg7bCRRd3EBg"
    }
   ]
  },
