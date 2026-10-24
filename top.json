@@ -680,24 +680,24 @@
   "top": [
    {
     "position": 1,
-    "title": "Bagatelles, Op. 34: Mazurka, Op. 34: No. 3",
-    "artists": "Jean Sibelius, Janne Mertanen",
-    "uri": "spotify:track:6tNjMiawtkBuVW1V90wZVK",
-    "url": "https://open.spotify.com/track/6tNjMiawtkBuVW1V90wZVK"
-   },
-   {
-    "position": 2,
-    "title": "Bagatelles, Op. 34: Couplet, Op. 34: No. 4",
-    "artists": "Jean Sibelius, Janne Mertanen",
-    "uri": "spotify:track:3uTk9GDAb8c2pdPeLwgCQe",
-    "url": "https://open.spotify.com/track/3uTk9GDAb8c2pdPeLwgCQe"
-   },
-   {
-    "position": 3,
     "title": "Bagatelles, Op. 34: Boutade, Op. 34: No. 5",
     "artists": "Jean Sibelius, Janne Mertanen",
     "uri": "spotify:track:3dwX1zHH4SHxXd8sixj7BL",
     "url": "https://open.spotify.com/track/3dwX1zHH4SHxXd8sixj7BL"
+   },
+   {
+    "position": 2,
+    "title": "Bagatelles, Op. 34: Rêverie, Op. 34: No. 6",
+    "artists": "Jean Sibelius, Janne Mertanen",
+    "uri": "spotify:track:6zQBaW6Qwh0WsCtcJqntZW",
+    "url": "https://open.spotify.com/track/6zQBaW6Qwh0WsCtcJqntZW"
+   },
+   {
+    "position": 3,
+    "title": "Bagatelles, Op. 34: Danse pastorale, Op. 34: No. 7",
+    "artists": "Jean Sibelius, Janne Mertanen",
+    "uri": "spotify:track:2YxYRng9fjaUwwvGoUsCSJ",
+    "url": "https://open.spotify.com/track/2YxYRng9fjaUwwvGoUsCSJ"
    }
   ]
  },
@@ -761,24 +761,24 @@
   "top": [
    {
     "position": 1,
-    "title": "Butterfly Phase",
-    "artists": "Kelly Moran",
-    "uri": "spotify:track:0QKddJ3o12VABQe3XyXw8O",
-    "url": "https://open.spotify.com/track/0QKddJ3o12VABQe3XyXw8O"
-   },
-   {
-    "position": 2,
-    "title": "Pound For Pound",
-    "artists": "The Bad Plus",
-    "uri": "spotify:track:6Y4cnbaeT5RgE9QvSeTuCY",
-    "url": "https://open.spotify.com/track/6Y4cnbaeT5RgE9QvSeTuCY"
-   },
-   {
-    "position": 3,
     "title": "In A Black Out - Piano Version",
     "artists": "Hamilton Leithauser, Rostam",
     "uri": "spotify:track:4r6nfKD6fFunFIMgYI3Flc",
     "url": "https://open.spotify.com/track/4r6nfKD6fFunFIMgYI3Flc"
+   },
+   {
+    "position": 2,
+    "title": "Stepping Out For Air",
+    "artists": "Bill Callahan",
+    "uri": "spotify:track:0fzp028YqWeNN5lhJbCILK",
+    "url": "https://open.spotify.com/track/0fzp028YqWeNN5lhJbCILK"
+   },
+   {
+    "position": 3,
+    "title": "Some Kind of Shepherd",
+    "artists": "Hayden Pedigo",
+    "uri": "spotify:track:5KhcUCMT72OeUn3hiAFRDV",
+    "url": "https://open.spotify.com/track/5KhcUCMT72OeUn3hiAFRDV"
    }
   ]
  },
@@ -1391,24 +1391,24 @@
   "top": [
    {
     "position": 1,
-    "title": "Wind On Water",
-    "artists": "Robert Fripp, Brian Eno",
-    "uri": "spotify:track:6CHo2rZCwJ5v6JKLzdc8Fe",
-    "url": "https://open.spotify.com/track/6CHo2rZCwJ5v6JKLzdc8Fe"
-   },
-   {
-    "position": 2,
-    "title": "I'm Waiting for the Man - May 1965 Demo",
-    "artists": "Lou Reed",
-    "uri": "spotify:track:4LVdjfCCLUxxJM3olFZIBW",
-    "url": "https://open.spotify.com/track/4LVdjfCCLUxxJM3olFZIBW"
-   },
-   {
-    "position": 3,
     "title": "Mixed Harmonium",
     "artists": "Ariel Kalma",
     "uri": "spotify:track:4YofFVS5lCJbEJECUvi8sV",
     "url": "https://open.spotify.com/track/4YofFVS5lCJbEJECUvi8sV"
+   },
+   {
+    "position": 2,
+    "title": "Haze with no Haze",
+    "artists": "Julianna Barwick, Mary Lattimore",
+    "uri": "spotify:track:0PXkI65DIBYObvvWLNhFbj",
+    "url": "https://open.spotify.com/track/0PXkI65DIBYObvvWLNhFbj"
+   },
+   {
+    "position": 3,
+    "title": "Rise while you fall",
+    "artists": "Ignatz",
+    "uri": "spotify:track:5LbTizSDptXfb3HFfcWK9N",
+    "url": "https://open.spotify.com/track/5LbTizSDptXfb3HFfcWK9N"
    }
   ]
  },
