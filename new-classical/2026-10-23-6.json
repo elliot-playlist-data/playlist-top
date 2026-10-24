@@ -1,0 +1,810 @@
+{
+ "playlist": "New Classical",
+ "description": "",
+ "playlist_url": "https://open.spotify.com/playlist/37i9dQZF1DWV0gynK7G6pD",
+ "captured_at": "2026-10-24T13:23:38+00:00",
+ "source": "embed",
+ "track_count": 100,
+ "tracks": [
+  {
+   "position": 1,
+   "title": "Symphony No. 3 in E-Flat Major, Op. 55 \"Eroica\" (Transcr. for Piano by Franz Liszt, S. 464/3): IV. Finale. Allegro molto",
+   "artists": "Ludwig van Beethoven, Igor Levit",
+   "uri": "spotify:track:3O1oBEoIeUx4U8la1AYaHG",
+   "duration_ms": 729266,
+   "url": "https://open.spotify.com/track/3O1oBEoIeUx4U8la1AYaHG"
+  },
+  {
+   "position": 2,
+   "title": "String Quintet in C Major, K. 515: IV. Allegro",
+   "artists": "Wolfgang Amadeus Mozart, Takács Quartet, Timothy Ridout",
+   "uri": "spotify:track:68EIAjk7RcTtr5OevVjGc0",
+   "duration_ms": 448000,
+   "url": "https://open.spotify.com/track/68EIAjk7RcTtr5OevVjGc0"
+  },
+  {
+   "position": 3,
+   "title": "4 Gesänge, Op. 70: No. 2, Lerchengesang (Arr. Osokins for Piano)",
+   "artists": "Johannes Brahms, Georgijs Osokins",
+   "uri": "spotify:track:3g8VScOCoydhVqxCzcM4SN",
+   "duration_ms": 186533,
+   "url": "https://open.spotify.com/track/3g8VScOCoydhVqxCzcM4SN"
+  },
+  {
+   "position": 4,
+   "title": "Gluck: Orfeo ed Euridice, Wq. 30, Act 2: Melody. Dance of the Blessed Spirits (Arr. Kreisler for Violin and Piano)",
+   "artists": "Christoph Willibald Gluck, Renaud Capuçon, Guillaume Bellom",
+   "uri": "spotify:track:2a4hyOlVweKNNpJAviAAUI",
+   "duration_ms": 204880,
+   "url": "https://open.spotify.com/track/2a4hyOlVweKNNpJAviAAUI"
+  },
+  {
+   "position": 5,
+   "title": "Symphony No. 2 in G Minor \"Song of a New Race\": II. Slowly and deeply expressive",
+   "artists": "William Grant Still, Gianandrea Noseda, National Symphony Orchestra, Kennedy Center",
+   "uri": "spotify:track:7v8K6eibD1lUifYAOlUVzs",
+   "duration_ms": 541866,
+   "url": "https://open.spotify.com/track/7v8K6eibD1lUifYAOlUVzs"
+  },
+  {
+   "position": 6,
+   "title": "Orphée's Bedroom",
+   "artists": "Philip Glass, Olivia Belli",
+   "uri": "spotify:track:72zb1HqJKDyHZqMlufg33J",
+   "duration_ms": 127551,
+   "url": "https://open.spotify.com/track/72zb1HqJKDyHZqMlufg33J"
+  },
+  {
+   "position": 7,
+   "title": "Symphony No. 2 in D Minor, Op. 40: IId. Variation 3. Allegro",
+   "artists": "Sergei Prokofiev, Gianandrea Noseda, London Symphony Orchestra",
+   "uri": "spotify:track:27LD4TLJrEones0WvPD1DD",
+   "duration_ms": 130066,
+   "url": "https://open.spotify.com/track/27LD4TLJrEones0WvPD1DD"
+  },
+  {
+   "position": 8,
+   "title": "Nun ruhen alle Wälder, BWV 392 (Performed on Piano)",
+   "artists": "Johann Sebastian Bach, Víkingur Ólafsson",
+   "uri": "spotify:track:2LMJdDNmU4WDxmsEuBkkHz",
+   "duration_ms": 66055,
+   "url": "https://open.spotify.com/track/2LMJdDNmU4WDxmsEuBkkHz"
+  },
+  {
+   "position": 9,
+   "title": "The Song That Never Was",
+   "artists": "Hildur Guðnadóttir, Deutsches Symphonie-Orchester Berlin, Robert Ames",
+   "uri": "spotify:track:2KtdpknATn8dwPif12hNvU",
+   "duration_ms": 301933,
+   "url": "https://open.spotify.com/track/2KtdpknATn8dwPif12hNvU"
+  },
+  {
+   "position": 10,
+   "title": "5 Morceaux de fantaisie, Op. 3: III. Mélodie",
+   "artists": "Sergei Rachmaninoff, Mao Fujita",
+   "uri": "spotify:track:3VUw6ndBUmgqWfcvyyHMYz",
+   "duration_ms": 268826,
+   "url": "https://open.spotify.com/track/3VUw6ndBUmgqWfcvyyHMYz"
+  },
+  {
+   "position": 11,
+   "title": "Symphony No. 3: VI. Langsam. Ruhevoll. Empfunden: a. Langsam. Ruhevoll. Empfunden",
+   "artists": "Gustav Mahler, Wiener Philharmoniker, Andris Nelsons",
+   "uri": "spotify:track:0d8t1Lj1RvOkDsAJUUkVvk",
+   "duration_ms": 250826,
+   "url": "https://open.spotify.com/track/0d8t1Lj1RvOkDsAJUUkVvk"
+  },
+  {
+   "position": 12,
+   "title": "Frühlingsglaube, Op. 20, No. 2, D. 686 (Transcr. for Piano by Franz Liszt, S. 558, No. 7)",
+   "artists": "Franz Schubert, Lukas Sternath",
+   "uri": "spotify:track:0IwbAf0BQcr4h7j19A28Tt",
+   "duration_ms": 226106,
+   "url": "https://open.spotify.com/track/0IwbAf0BQcr4h7j19A28Tt"
+  },
+  {
+   "position": 13,
+   "title": "Mazurka No. 37 in A-Flat Major, Op. 59 No. 2. Allegretto",
+   "artists": "Frédéric Chopin, Tianyao Lyu",
+   "uri": "spotify:track:33tfbc15umkTqsHXNoFsI8",
+   "duration_ms": 152600,
+   "url": "https://open.spotify.com/track/33tfbc15umkTqsHXNoFsI8"
+  },
+  {
+   "position": 14,
+   "title": "Eternity in an Hour: IV. In a Wild Flower",
+   "artists": "Eric Whitacre, Eric Whitacre Singers, Emma Denton",
+   "uri": "spotify:track:3UMAKfJ8LAuD8lQQntNmdp",
+   "duration_ms": 406906,
+   "url": "https://open.spotify.com/track/3UMAKfJ8LAuD8lQQntNmdp"
+  },
+  {
+   "position": 15,
+   "title": "Sanctuary ~ The Master of the Tomb",
+   "artists": "Joe Hisaishi, Royal Philharmonic Orchestra",
+   "uri": "spotify:track:6hRg3ftfp1UsQGzHdIPLhb",
+   "duration_ms": 106466,
+   "url": "https://open.spotify.com/track/6hRg3ftfp1UsQGzHdIPLhb"
+  },
+  {
+   "position": 16,
+   "title": "The Wooden Prince: Prelude",
+   "artists": "Béla Bartók, Edward Gardner, London Philharmonic Orchestra",
+   "uri": "spotify:track:5Rha8e9wHKbkaRK2e0bNmv",
+   "duration_ms": 270120,
+   "url": "https://open.spotify.com/track/5Rha8e9wHKbkaRK2e0bNmv"
+  },
+  {
+   "position": 17,
+   "title": "Moonlight (After Piano Sonata No. 14, Op. 27 No. 2)",
+   "artists": "Louis Philippson, Ludwig van Beethoven, The City of Prague Philharmonic Orchestra",
+   "uri": "spotify:track:0JK415ojAgEkPpZo3VT0uP",
+   "duration_ms": 254861,
+   "url": "https://open.spotify.com/track/0JK415ojAgEkPpZo3VT0uP"
+  },
+  {
+   "position": 18,
+   "title": "Cuban Cigars and the Scent of Regret",
+   "artists": "Stephan Moccio",
+   "uri": "spotify:track:4KSVuZrczHQodhHRogtZKh",
+   "duration_ms": 103360,
+   "url": "https://open.spotify.com/track/4KSVuZrczHQodhHRogtZKh"
+  },
+  {
+   "position": 19,
+   "title": "Tryptique: No. 1, Offrande a l'été",
+   "artists": "Joseph Canteloube, Sonya Yoncheva, Domingo Hindoyan, Royal Liverpool Philharmonic Orchestra",
+   "uri": "spotify:track:6c5Uof2TxHjRQnsEXlpggl",
+   "duration_ms": 317026,
+   "url": "https://open.spotify.com/track/6c5Uof2TxHjRQnsEXlpggl"
+  },
+  {
+   "position": 20,
+   "title": "Concerto for violin, strings & continuo in G Minor, RV 330: I. Allegro non molto",
+   "artists": "Antonio Vivaldi, La Serenissima, Adrian Chandler",
+   "uri": "spotify:track:4pkJAvc1F90MOFlLY9kAiM",
+   "duration_ms": 245666,
+   "url": "https://open.spotify.com/track/4pkJAvc1F90MOFlLY9kAiM"
+  },
+  {
+   "position": 21,
+   "title": "Vexations (3)",
+   "artists": "Erik Satie, Igor Levit",
+   "uri": "spotify:track:60WMrYtEZF1HO3tbxieTNS",
+   "duration_ms": 105680,
+   "url": "https://open.spotify.com/track/60WMrYtEZF1HO3tbxieTNS"
+  },
+  {
+   "position": 22,
+   "title": "Debussy: Prélude à l'après-midi d'un faune, CD 87, L. 86 (Arr. Wouter Lenaerts for Harp, Viola and Flute)",
+   "artists": "Claude Debussy, Anneleen Lenaerts, Timothy Ridout, Adam Walker",
+   "uri": "spotify:track:71xIYEVWmlHOAC020hPFLT",
+   "duration_ms": 596000,
+   "url": "https://open.spotify.com/track/71xIYEVWmlHOAC020hPFLT"
+  },
+  {
+   "position": 23,
+   "title": "Sonata No. 5 for Solo Violin in G Major, Op. 27 No. 5: I. L'aurore. Lento assai",
+   "artists": "Eugène Ysaÿe, Hawijch Elders",
+   "uri": "spotify:track:6CSmeB2hlTOepUKDv4Ussi",
+   "duration_ms": 263719,
+   "url": "https://open.spotify.com/track/6CSmeB2hlTOepUKDv4Ussi"
+  },
+  {
+   "position": 24,
+   "title": "Andante e Rondo Ungarese for Viola and Orchestra WeV N.7a: Rondo ungarese",
+   "artists": "Carl Maria von Weber, Diyang Mei, Munich Radio Orchestra, Johannes Moesus",
+   "uri": "spotify:track:3N8vCmLBxN5i8ZJjLiAp6u",
+   "duration_ms": 325280,
+   "url": "https://open.spotify.com/track/3N8vCmLBxN5i8ZJjLiAp6u"
+  },
+  {
+   "position": 25,
+   "title": "Lieux retrouvés: IV. La ville - cancan macabre",
+   "artists": "Thomas Adès, Hallé, Nicolas Altstaedt",
+   "uri": "spotify:track:7qlAJloL9pbu1Nk2DwQRwB",
+   "duration_ms": 234866,
+   "url": "https://open.spotify.com/track/7qlAJloL9pbu1Nk2DwQRwB"
+  },
+  {
+   "position": 26,
+   "title": "Tchaikovsky: Eugene Onegin, Op. 24, Act 3: Polonaise",
+   "artists": "Pyotr Ilyich Tchaikovsky, Gustavo Gimeno, Orquesta Sinfónica de Madrid",
+   "uri": "spotify:track:4NcWjflIKF1R1P67nE8Mdc",
+   "duration_ms": 257000,
+   "url": "https://open.spotify.com/track/4NcWjflIKF1R1P67nE8Mdc"
+  },
+  {
+   "position": 27,
+   "title": "Oboe Concerto \"Concert Pour Paris\" in G Major: II. Adagio",
+   "artists": "Alessandro Besozzi, Céline Moinet, Folkwang Kammerorchester Essen, Reinhard Goebel",
+   "uri": "spotify:track:3C9xJAhukslxxulVip8MID",
+   "duration_ms": 229000,
+   "url": "https://open.spotify.com/track/3C9xJAhukslxxulVip8MID"
+  },
+  {
+   "position": 28,
+   "title": "12 Klavierstücke für kleine und große Kinder, Op. 85: No. 12, Abendlied (Arr. for Piano by Camille Saint-Saëns)",
+   "artists": "Robert Schumann, Eric Le Sage",
+   "uri": "spotify:track:0hyFvjanml2aBYAzptctf0",
+   "duration_ms": 142840,
+   "url": "https://open.spotify.com/track/0hyFvjanml2aBYAzptctf0"
+  },
+  {
+   "position": 29,
+   "title": "Symphony No. 78 in C Minor, Hob. I:78: I. Vivace",
+   "artists": "Joseph Haydn, Kammerorchester Basel, Giovanni Antonini",
+   "uri": "spotify:track:1riY3YdTI1I0DCHSSxfUuJ",
+   "duration_ms": 478026,
+   "url": "https://open.spotify.com/track/1riY3YdTI1I0DCHSSxfUuJ"
+  },
+  {
+   "position": 30,
+   "title": "The Nutcracker Suite, Op. 71a: IIc. Trepak \"Russian Dance\" (Arr. for Violin and Piano by Maya Magub)",
+   "artists": "Pyotr Ilyich Tchaikovsky, Maya Magub, Matthew Schellhorn",
+   "uri": "spotify:track:2Gth00ySmQcWlMo17dz9tC",
+   "duration_ms": 71000,
+   "url": "https://open.spotify.com/track/2Gth00ySmQcWlMo17dz9tC"
+  },
+  {
+   "position": 31,
+   "title": "Mixed Colors No. 4: Olive for Piano, Violin, Clarinet, Oboe and Double Bass",
+   "artists": "João Marcondes",
+   "uri": "spotify:track:16a3cYz3sOcTaGlIFXTQxO",
+   "duration_ms": 194992,
+   "url": "https://open.spotify.com/track/16a3cYz3sOcTaGlIFXTQxO"
+  },
+  {
+   "position": 32,
+   "title": "Concerto for Orchestra, Sz. 116: IV. Intermezzo interrotto",
+   "artists": "Béla Bartók, Cristian Măcelaru, WDR Sinfonieorchester",
+   "uri": "spotify:track:4mTJiHukc6PDF1Ue33l4UQ",
+   "duration_ms": 233000,
+   "url": "https://open.spotify.com/track/4mTJiHukc6PDF1Ue33l4UQ"
+  },
+  {
+   "position": 33,
+   "title": "Symphony No. 1 in C Minor, Op. 68: II. Andante sostenuto - Live",
+   "artists": "Johannes Brahms, Philzuid, Duncan Ward",
+   "uri": "spotify:track:4tFRfdjAl05AzzEqoGljqx",
+   "duration_ms": 503493,
+   "url": "https://open.spotify.com/track/4tFRfdjAl05AzzEqoGljqx"
+  },
+  {
+   "position": 34,
+   "title": "Reaching Farther",
+   "artists": "Nico Muhly, Choir of Clare College, Cambridge, Graham Ross, Zoe Gunasekera, Isabella Theodosiust, Daniel Livermore, Patrick Tweedie, Jacob Costard",
+   "uri": "spotify:track:5d2dTEekZGYK1w08a9r6Kf",
+   "duration_ms": 583333,
+   "url": "https://open.spotify.com/track/5d2dTEekZGYK1w08a9r6Kf"
+  },
+  {
+   "position": 35,
+   "title": "As Earth Sleeps",
+   "artists": "Julie Cooper, Laura Newey, Oculus Ensemble",
+   "uri": "spotify:track:41qpI2PPgQFcKzr9XY2od7",
+   "duration_ms": 229026,
+   "url": "https://open.spotify.com/track/41qpI2PPgQFcKzr9XY2od7"
+  },
+  {
+   "position": 36,
+   "title": "Symphony No. 2 in C Minor \"Resurrection\": V. Finale: e. O glaube, mein Herz, o glaube – Mit Aufschwung, aber nicht eilen. O Schmerz! Du Alldurchdringer!",
+   "artists": "Gustav Mahler, BBC Scottish Symphony Orchestra, Donald Runnicles",
+   "uri": "spotify:track:6j5lvC3tvY7xdMgjLwW0zO",
+   "duration_ms": 430333,
+   "url": "https://open.spotify.com/track/6j5lvC3tvY7xdMgjLwW0zO"
+  },
+  {
+   "position": 37,
+   "title": "Piano Sonata No. 13 in E-Flat Major, Op. 27 No. 1 \"Quasi una fantasia\": III. Adagio con espressione",
+   "artists": "Ludwig van Beethoven, Tanguy de Williencourt",
+   "uri": "spotify:track:50Ml5m6Kw1Tdt1ypce76Mc",
+   "duration_ms": 171466,
+   "url": "https://open.spotify.com/track/50Ml5m6Kw1Tdt1ypce76Mc"
+  },
+  {
+   "position": 38,
+   "title": "Jean de Nivelle, Act III: Air. Elle est heureuse ! il est vivant !",
+   "artists": "Léo Delibes, Gyorgy Vashegyi, Hungarian National Philharmonic Orchestra, Mélissa Petit",
+   "uri": "spotify:track:4ibH4lUnnsyiEyLMCaZUa6",
+   "duration_ms": 158280,
+   "url": "https://open.spotify.com/track/4ibH4lUnnsyiEyLMCaZUa6"
+  },
+  {
+   "position": 39,
+   "title": "La Paloma (Arr. for Guitar by Francisco Tárrega)",
+   "artists": "Sebastián Iradier, Yuval Te’eni",
+   "uri": "spotify:track:0X58TkorYc8BNGwliObore",
+   "duration_ms": 135800,
+   "url": "https://open.spotify.com/track/0X58TkorYc8BNGwliObore"
+  },
+  {
+   "position": 40,
+   "title": "Echo of Tranquility: I",
+   "artists": "Christopher Tyler Nickel, Christoph Croisé, Oxana Shevchenko",
+   "uri": "spotify:track:4uO1PeDADNqoLkNubY3IFj",
+   "duration_ms": 197084,
+   "url": "https://open.spotify.com/track/4uO1PeDADNqoLkNubY3IFj"
+  },
+  {
+   "position": 41,
+   "title": "Lachrymae, Reflections on a Song of Dowland, Op. 48",
+   "artists": "Benjamin Britten, Benjamin Bernstein, Natalia Morozova",
+   "uri": "spotify:track:46zPDZa8muJKRdmWtXQu7e",
+   "duration_ms": 860271,
+   "url": "https://open.spotify.com/track/46zPDZa8muJKRdmWtXQu7e"
+  },
+  {
+   "position": 42,
+   "title": "Deuxième Grand Trio: II. Scherzo. Vivace",
+   "artists": "Clémence de Grandval, Trio Zeliha",
+   "uri": "spotify:track:02UuJlHkn1C9hajDjrZiPT",
+   "duration_ms": 296586,
+   "url": "https://open.spotify.com/track/02UuJlHkn1C9hajDjrZiPT"
+  },
+  {
+   "position": 43,
+   "title": "Relicário da Solidão",
+   "artists": "João Paulice, New Frequency, Sole Yaya",
+   "uri": "spotify:track:7bf4lO7vD8GzZg7CojBfFJ",
+   "duration_ms": 235554,
+   "url": "https://open.spotify.com/track/7bf4lO7vD8GzZg7CojBfFJ"
+  },
+  {
+   "position": 44,
+   "title": "Sémélé, Act III: Amour, régnez en paix, régnez charmant vainqueur (Arr. for Voice & Ensemble by Le Sommeil)",
+   "artists": "Marin Marais, Margarita Slepakova, Le Sommeil",
+   "uri": "spotify:track:511zMqpoUk1c66q8rPMUry",
+   "duration_ms": 230640,
+   "url": "https://open.spotify.com/track/511zMqpoUk1c66q8rPMUry"
+  },
+  {
+   "position": 45,
+   "title": "Clarinet Concerto in E-Flat Major, Op. 52: II. Adagio",
+   "artists": "Franz Krommer, Hradec Králové Philharmonic Orchestra, Jiří Habart, Marek Švejkar",
+   "uri": "spotify:track:761ma1TV1UVoE9BgawQBhy",
+   "duration_ms": 278223,
+   "url": "https://open.spotify.com/track/761ma1TV1UVoE9BgawQBhy"
+  },
+  {
+   "position": 46,
+   "title": "A Room - State II",
+   "artists": "John Cage, Kai Schumacher",
+   "uri": "spotify:track:7s8zQm2LodwiAIsnlHGYCr",
+   "duration_ms": 98026,
+   "url": "https://open.spotify.com/track/7s8zQm2LodwiAIsnlHGYCr"
+  },
+  {
+   "position": 47,
+   "title": "Locutus est Dominus",
+   "artists": "Jean L'héritier, The Choir of Sidney Sussex College, Cambridge, David Skinner",
+   "uri": "spotify:track:4WjMFf1VtDXqqslUlthX04",
+   "duration_ms": 293666,
+   "url": "https://open.spotify.com/track/4WjMFf1VtDXqqslUlthX04"
+  },
+  {
+   "position": 48,
+   "title": "San Giovanni Battista, Pt. 2: Aria. Io, per me, non cangerei (Il Battista)",
+   "artists": "Alessandro Stradella, Danilo Pastore, Ensemble Mare Nostrum, Andrea De Carlo",
+   "uri": "spotify:track:2FfRzV3AkVB30cjnD3PuP9",
+   "duration_ms": 265198,
+   "url": "https://open.spotify.com/track/2FfRzV3AkVB30cjnD3PuP9"
+  },
+  {
+   "position": 49,
+   "title": "Quatre Chansons françaises: I. Nuits de Juin",
+   "artists": "Benjamin Britten, Cyrille Dubois, Orchestre national de Metz Grand Est, David Reiland",
+   "uri": "spotify:track:61WhVPunnJwiA1TfbqRIO2",
+   "duration_ms": 156946,
+   "url": "https://open.spotify.com/track/61WhVPunnJwiA1TfbqRIO2"
+  },
+  {
+   "position": 50,
+   "title": "Violin Sonata No. 2 in A Minor, BWV 1003: III. Andante (Arr. for 13-String Guitar by Anders Miolin)",
+   "artists": "Johann Sebastian Bach, Anders Miolin",
+   "uri": "spotify:track:4t9u7ew67PhYALLTe97bfr",
+   "duration_ms": 313040,
+   "url": "https://open.spotify.com/track/4t9u7ew67PhYALLTe97bfr"
+  },
+  {
+   "position": 51,
+   "title": "Der Rosenkavalier, Suite, TrV 227d, Act I: I. Prelude (Con molto agitato)",
+   "artists": "Richard Strauss, Alexander Shelley, Canada's National Arts Centre Orchestra",
+   "uri": "spotify:track:6qH1kqZ8LdSSlJOyNRViLY",
+   "duration_ms": 545413,
+   "url": "https://open.spotify.com/track/6qH1kqZ8LdSSlJOyNRViLY"
+  },
+  {
+   "position": 52,
+   "title": "Symphony No. 10 in E Minor, Op. 93: II. Allegro",
+   "artists": "Dmitri Shostakovich, Daniel Raiskin, Janáček Philharmonic Orchestra",
+   "uri": "spotify:track:6fE7regULgetTscgNQCMHB",
+   "duration_ms": 261688,
+   "url": "https://open.spotify.com/track/6fE7regULgetTscgNQCMHB"
+  },
+  {
+   "position": 53,
+   "title": "Escape Noturno",
+   "artists": "Felipe Hasui, Access Core, Quarteto Topázio",
+   "uri": "spotify:track:2hVWwWPbHF79A3b3t0FYq9",
+   "duration_ms": 198674,
+   "url": "https://open.spotify.com/track/2hVWwWPbHF79A3b3t0FYq9"
+  },
+  {
+   "position": 54,
+   "title": "Scènes d’enfants: Cris dans la Rue",
+   "artists": "Federico Mompou, Martín García García",
+   "uri": "spotify:track:6jC7o8tXCajyHTMWVwwjaH",
+   "duration_ms": 95773,
+   "url": "https://open.spotify.com/track/6jC7o8tXCajyHTMWVwwjaH"
+  },
+  {
+   "position": 55,
+   "title": "4 Songs from the British Isles (Arr. for choir by Michael Tippett): No. 1, Early One Morning",
+   "artists": "Traditional, The Carice Singers, George Parris",
+   "uri": "spotify:track:2xwxPeah69yc3Qs5Egafn3",
+   "duration_ms": 214040,
+   "url": "https://open.spotify.com/track/2xwxPeah69yc3Qs5Egafn3"
+  },
+  {
+   "position": 56,
+   "title": "Cello Sonata in D Minor, Op. 24: III. Nicht schnell, aber leidenschaftlich. Allegretto non troppo, ma appassionato",
+   "artists": "Conrad Ansorge, Peter Horr, Oliver Triendl",
+   "uri": "spotify:track:2i9hfe4YXxBTdMl8qqxczk",
+   "duration_ms": 357773,
+   "url": "https://open.spotify.com/track/2i9hfe4YXxBTdMl8qqxczk"
+  },
+  {
+   "position": 57,
+   "title": "A Prayer for the King's Majesty",
+   "artists": "Richard Pantcheff, London Choral Sinfonia, Michael Waldron",
+   "uri": "spotify:track:0ZY95wEfIrHoL7JuXJ3NpK",
+   "duration_ms": 251786,
+   "url": "https://open.spotify.com/track/0ZY95wEfIrHoL7JuXJ3NpK"
+  },
+  {
+   "position": 58,
+   "title": "Les Roses: No. 3, J’ai une telle conscience de ton être",
+   "artists": "Jean-Philippe Dartois, Jean-François Novelli, Josquin Otal",
+   "uri": "spotify:track:3REUPXmz8KflASGkmuupYH",
+   "duration_ms": 162933,
+   "url": "https://open.spotify.com/track/3REUPXmz8KflASGkmuupYH"
+  },
+  {
+   "position": 59,
+   "title": "Symphony No. 8 in B Minor, D. 759 \"Unfinished\": I. Allegro moderato",
+   "artists": "Franz Schubert, David Bernard, Park Avenue Chamber Symphony",
+   "uri": "spotify:track:7hXxcSASCg3X6TxyCL3S77",
+   "duration_ms": 927090,
+   "url": "https://open.spotify.com/track/7hXxcSASCg3X6TxyCL3S77"
+  },
+  {
+   "position": 60,
+   "title": "Jeux d’eau",
+   "artists": "Maurice Ravel, Caterina Barontini",
+   "uri": "spotify:track:0jzbumoIgxQvVApYG2T5Ro",
+   "duration_ms": 412890,
+   "url": "https://open.spotify.com/track/0jzbumoIgxQvVApYG2T5Ro"
+  },
+  {
+   "position": 61,
+   "title": "Nocturne No. 2 in E-Flat Major, Op. 9 No. 2",
+   "artists": "Frédéric Chopin, Pavel Kolesnikov",
+   "uri": "spotify:track:1xh9KwsnN66FrQzUprjtTw",
+   "duration_ms": 258000,
+   "url": "https://open.spotify.com/track/1xh9KwsnN66FrQzUprjtTw"
+  },
+  {
+   "position": 62,
+   "title": "Mass in B Minor, BWV 232, Pt. 1, Missa (Kyrie & Gloria): No. 1, Kyrie eleison",
+   "artists": "Johann Sebastian Bach, Apollo's Fire, Jeannette Sorrell, Apollo's Singers",
+   "uri": "spotify:track:19kVl5M5W0SrJuIG97OFhI",
+   "duration_ms": 546326,
+   "url": "https://open.spotify.com/track/19kVl5M5W0SrJuIG97OFhI"
+  },
+  {
+   "position": 63,
+   "title": "Cello Concerto No. 1 in C Major, Hob. VIlb:1: III. Finale. Allegro molto",
+   "artists": "Joseph Haydn, Julie Sévilla-Fraysse, Paris Virtuosi Orchestra, Eric Zorgniotti",
+   "uri": "spotify:track:0xVMS97tpru0nUROir1X3N",
+   "duration_ms": 386866,
+   "url": "https://open.spotify.com/track/0xVMS97tpru0nUROir1X3N"
+  },
+  {
+   "position": 64,
+   "title": "Suite No. 6 in D Minor, BWV 811: VI. Gigue",
+   "artists": "Johann Sebastian Bach, Jonathan Ferrucci",
+   "uri": "spotify:track:0iCGLejjg5Q2ugi8aZXOaN",
+   "duration_ms": 208347,
+   "url": "https://open.spotify.com/track/0iCGLejjg5Q2ugi8aZXOaN"
+  },
+  {
+   "position": 65,
+   "title": "CAELESTIA CORPORA: XI. SATVRNVS",
+   "artists": "Ejnar Kanding, Rudersdal Chamber Players",
+   "uri": "spotify:track:6DumQqPMDHcKsGdVdAtpTX",
+   "duration_ms": 324666,
+   "url": "https://open.spotify.com/track/6DumQqPMDHcKsGdVdAtpTX"
+  },
+  {
+   "position": 66,
+   "title": "Butterfly Garden: IV. Canticum renovationis",
+   "artists": "Helen Leach, John Bradbury, Simon Leach",
+   "uri": "spotify:track:36eLOIzH4itG2oFz1JrLHg",
+   "duration_ms": 147602,
+   "url": "https://open.spotify.com/track/36eLOIzH4itG2oFz1JrLHg"
+  },
+  {
+   "position": 67,
+   "title": "String Quartet No. 13 in B-Flat Major, Op. 130: II. Presto",
+   "artists": "Ludwig van Beethoven, Alma Quartet Amsterdam",
+   "uri": "spotify:track:29sJLzKWhnWjQYmfKqo4ah",
+   "duration_ms": 118063,
+   "url": "https://open.spotify.com/track/29sJLzKWhnWjQYmfKqo4ah"
+  },
+  {
+   "position": 68,
+   "title": "Tsirani Tsar (Arr. for Piano by Robert Andriasyan)",
+   "artists": "Komitas, Ruben Kozin",
+   "uri": "spotify:track:3t49Lu5SV1W2lcp0KxEu4E",
+   "duration_ms": 285066,
+   "url": "https://open.spotify.com/track/3t49Lu5SV1W2lcp0KxEu4E"
+  },
+  {
+   "position": 69,
+   "title": "Capricho de Concierto, Ecos de México",
+   "artists": "Julio Ituarte, Lucas Thomazinho",
+   "uri": "spotify:track:2kDdd5iw8fcBCsEHv0pzNc",
+   "duration_ms": 511644,
+   "url": "https://open.spotify.com/track/2kDdd5iw8fcBCsEHv0pzNc"
+  },
+  {
+   "position": 70,
+   "title": "Ma mère l’Oye (Arr. for strings by Alfred Wong): III. Laideronnette, impératrice des pagodes",
+   "artists": "Maurice Ravel, Trey Lee, Musicus Soloists Hong Kong, Hong Kong Chinese Orchestra Ensemble, Anna-Liisa Bezrodny",
+   "uri": "spotify:track:55MZ4i4Keo722qnMOmGrXg",
+   "duration_ms": 201666,
+   "url": "https://open.spotify.com/track/55MZ4i4Keo722qnMOmGrXg"
+  },
+  {
+   "position": 71,
+   "title": "Hortulus Chelicus: Violin Suite No. 1 in D Minor: II. Aria",
+   "artists": "Johann Jakob Walther, Stéphanie Pfister, Keiko Gomi, Marc Wolff",
+   "uri": "spotify:track:3ffFxycnFhMWrxn3awfvVN",
+   "duration_ms": 67413,
+   "url": "https://open.spotify.com/track/3ffFxycnFhMWrxn3awfvVN"
+  },
+  {
+   "position": 72,
+   "title": "La Gran Salsa",
+   "artists": "Daniel Rojas, Ronan Apcar, Ensemble Apex, Sam Weller",
+   "uri": "spotify:track:70dGaII9KDXBstOXZR9ymb",
+   "duration_ms": 942039,
+   "url": "https://open.spotify.com/track/70dGaII9KDXBstOXZR9ymb"
+  },
+  {
+   "position": 73,
+   "title": "Cantata \"Jauchze, du Tochter Zion\", GWV 1101/24: I. Chorus. Jauchze, du Tochter Zion",
+   "artists": "Christoph Graupner, Fieri Consort, Camerata Øresund, Peter Spissky",
+   "uri": "spotify:track:6LrZcn1y6ZG4OGosompb3W",
+   "duration_ms": 69217,
+   "url": "https://open.spotify.com/track/6LrZcn1y6ZG4OGosompb3W"
+  },
+  {
+   "position": 74,
+   "title": "Gentle Dark: I. My Darkness",
+   "artists": "Gregory W. Brown, Skylark Vocal Ensemble, Matthew Guard, Addy Sterrett",
+   "uri": "spotify:track:1tI9r1qZrCFcEYvo0VcXbR",
+   "duration_ms": 238847,
+   "url": "https://open.spotify.com/track/1tI9r1qZrCFcEYvo0VcXbR"
+  },
+  {
+   "position": 75,
+   "title": "15 Hungarian Peasant Songs, Sz. 71, Old Dance Tunes: No. 8, Allegretto",
+   "artists": "Béla Bartók, Suzana Bartal",
+   "uri": "spotify:track:7at5VbfY6gVslJUzRR3C31",
+   "duration_ms": 47920,
+   "url": "https://open.spotify.com/track/7at5VbfY6gVslJUzRR3C31"
+  },
+  {
+   "position": 76,
+   "title": "Il virtuoso ritrovo academico, Op. 49: No. 12, Aria del Gran Duca. O bellissimi capelli",
+   "artists": "Adriano Banchieri, Ensemble I Gemelli, Mathilde Etienne, Emiliano Gonzalez Toro, Juan Sancho, Nicolas Brooymans",
+   "uri": "spotify:track:4PXJADgB88U9Hbm7v8yQh5",
+   "duration_ms": 224853,
+   "url": "https://open.spotify.com/track/4PXJADgB88U9Hbm7v8yQh5"
+  },
+  {
+   "position": 77,
+   "title": "Sisialau'r Awel Fwyn (Arr. for Harp by Jeffrey Howard)",
+   "artists": "John Hughes, Huw Williams, The Choir Of Bath Abbey, Nia Evans",
+   "uri": "spotify:track:3S5tqzY4890TISf5I8tOLf",
+   "duration_ms": 200813,
+   "url": "https://open.spotify.com/track/3S5tqzY4890TISf5I8tOLf"
+  },
+  {
+   "position": 78,
+   "title": "Piano Sonata in A Minor, D. 845: IV. Rondo. Allegro vivace",
+   "artists": "Franz Schubert, Can Çakmur",
+   "uri": "spotify:track:2frQl7PqT3JYFv5AGUs6VX",
+   "duration_ms": 288000,
+   "url": "https://open.spotify.com/track/2frQl7PqT3JYFv5AGUs6VX"
+  },
+  {
+   "position": 79,
+   "title": "Violin Concerto in C Major, RV 178 (Arr. for Soprano Recorder by Thomas Triesschijn): I. Allegro",
+   "artists": "Antonio Vivaldi, Thomas Triesschijn, The Counterpoints",
+   "uri": "spotify:track:6b3VYxOmgF4y9VYrN0L4zZ",
+   "duration_ms": 194813,
+   "url": "https://open.spotify.com/track/6b3VYxOmgF4y9VYrN0L4zZ"
+  },
+  {
+   "position": 80,
+   "title": "Preiset mit mir den Herrn, TV 21: No. 1, Sinfonia - Preiset mit mir den Herren (Choir)",
+   "artists": "Friedrich Wilhelm Zachow, Cantus Thuringia, Capella Thuringia, Bernhard Klapprott",
+   "uri": "spotify:track:4dmLTVffX6ck9fSKRPZjC1",
+   "duration_ms": 136922,
+   "url": "https://open.spotify.com/track/4dmLTVffX6ck9fSKRPZjC1"
+  },
+  {
+   "position": 81,
+   "title": "Philipp",
+   "artists": "Omaris, Jörg Wolfgang Gumbrecht, Alfredo Ferre Martínez",
+   "uri": "spotify:track:4d0QNIxozZNGStGgi5D1Jp",
+   "duration_ms": 295325,
+   "url": "https://open.spotify.com/track/4d0QNIxozZNGStGgi5D1Jp"
+  },
+  {
+   "position": 82,
+   "title": "String Quintet No. 5 in D Major, K. 593: II. Adagio",
+   "artists": "Wolfgang Amadeus Mozart, Kuss Quartet, Sào Soulez Larivière",
+   "uri": "spotify:track:7zFBvyxHFm6nfMb4bgTFba",
+   "duration_ms": 412973,
+   "url": "https://open.spotify.com/track/7zFBvyxHFm6nfMb4bgTFba"
+  },
+  {
+   "position": 83,
+   "title": "Glass Labyrinth",
+   "artists": "Tania Giannouli, Nik Bärtsch",
+   "uri": "spotify:track:1nm0bgYHqx6PRR2qMGQO4X",
+   "duration_ms": 519800,
+   "url": "https://open.spotify.com/track/1nm0bgYHqx6PRR2qMGQO4X"
+  },
+  {
+   "position": 84,
+   "title": "Canto y Danza Andaluza",
+   "artists": "Manuel Quiroga, Dmitry Smirnov, Marco Scilironi",
+   "uri": "spotify:track:0HTYP8lC7I7rQ9QSf4cSGU",
+   "duration_ms": 308946,
+   "url": "https://open.spotify.com/track/0HTYP8lC7I7rQ9QSf4cSGU"
+  },
+  {
+   "position": 85,
+   "title": "Salve regina: IV. Eia ergo, advocata nostra",
+   "artists": "Joseph-Hector Fiocco, Wei-Lian Huang, Andrea Gavagnin, Pierre Derhet, Scherzi Musicali, Nicolas Achten",
+   "uri": "spotify:track:6eGbeejRd6CK7rfP48s29d",
+   "duration_ms": 88933,
+   "url": "https://open.spotify.com/track/6eGbeejRd6CK7rfP48s29d"
+  },
+  {
+   "position": 86,
+   "title": "La morte d'Orfeo, Act II Scene 1: Gioit'al mio natale (Orfeo)",
+   "artists": "Stefano Landi, Stephane Fuget, Les Épopées, Juan Sancho",
+   "uri": "spotify:track:2ALY2q29YUpwt4yKFR48aq",
+   "duration_ms": 262773,
+   "url": "https://open.spotify.com/track/2ALY2q29YUpwt4yKFR48aq"
+  },
+  {
+   "position": 87,
+   "title": "Canzon prima",
+   "artists": "Girolamo Frescobaldi, Mvsica Perdvta",
+   "uri": "spotify:track:3eFa6taDCO7gIYuJTM4yFe",
+   "duration_ms": 301760,
+   "url": "https://open.spotify.com/track/3eFa6taDCO7gIYuJTM4yFe"
+  },
+  {
+   "position": 88,
+   "title": "Passagework",
+   "artists": "Christopher Cerrone, David Kaplan",
+   "uri": "spotify:track:7MRVjCIZwBAob6VOyPHnv8",
+   "duration_ms": 473400,
+   "url": "https://open.spotify.com/track/7MRVjCIZwBAob6VOyPHnv8"
+  },
+  {
+   "position": 89,
+   "title": "Sonatina for Bassoon and Piano: III. Scherzo. Presto",
+   "artists": "Alexandre Tansman, Bram van Sambeek, Hans Eijsackers",
+   "uri": "spotify:track:2EuZhVTVZXaC5wRRhqWH5n",
+   "duration_ms": 164013,
+   "url": "https://open.spotify.com/track/2EuZhVTVZXaC5wRRhqWH5n"
+  },
+  {
+   "position": 90,
+   "title": "Faust: Air des bijoux",
+   "artists": "Charles Gounod, Giacomo Puccini, Camila Titinger, Moravian Philharmonic Olomouc, Peter Valentovič",
+   "uri": "spotify:track:2KQ5kOMqkLK0CHiFMjFDjb",
+   "duration_ms": 295066,
+   "url": "https://open.spotify.com/track/2KQ5kOMqkLK0CHiFMjFDjb"
+  },
+  {
+   "position": 91,
+   "title": "Naïs",
+   "artists": "Henri Tomasi, Vincent Scotto, Orchestre national de Cannes, Benjamin Levy",
+   "uri": "spotify:track:5anRN6LMFPfAEXQtOBgqmu",
+   "duration_ms": 217626,
+   "url": "https://open.spotify.com/track/5anRN6LMFPfAEXQtOBgqmu"
+  },
+  {
+   "position": 92,
+   "title": "Concert for a Space and Time: Ren død",
+   "artists": "Lil Lacy, Ars Nova Copenhagen, Arhus Sinfonietta, Mathias Skaarup Sørensen",
+   "uri": "spotify:track:6v8je7IFlvcMAqLVtX31UE",
+   "duration_ms": 218360,
+   "url": "https://open.spotify.com/track/6v8je7IFlvcMAqLVtX31UE"
+  },
+  {
+   "position": 93,
+   "title": "Flute Concerto for the Organ in C Minor, JWV 2: II. Adagio",
+   "artists": "Benedict Jucker, Nicoleta Paraschivescu",
+   "uri": "spotify:track:0AgjxftgDbrYGRKkvrQsvP",
+   "duration_ms": 119373,
+   "url": "https://open.spotify.com/track/0AgjxftgDbrYGRKkvrQsvP"
+  },
+  {
+   "position": 94,
+   "title": "Allemande \"Les plaintes de Gallot\"",
+   "artists": "Jacques Gallot, Tobias Tietze",
+   "uri": "spotify:track:5bq818cMOH3obMST3FiRe7",
+   "duration_ms": 234426,
+   "url": "https://open.spotify.com/track/5bq818cMOH3obMST3FiRe7"
+  },
+  {
+   "position": 95,
+   "title": "Les Petites Danses Démoniques: II., Andante: La Trance (Trance)",
+   "artists": "Charles T. Cozens, Burlington New Millennium Orchestra, Kornel Wolak",
+   "uri": "spotify:track:5rK7soPm1epK6OAESLKUvG",
+   "duration_ms": 333664,
+   "url": "https://open.spotify.com/track/5rK7soPm1epK6OAESLKUvG"
+  },
+  {
+   "position": 96,
+   "title": "Brass Quintet No. 1 Mvt. II",
+   "artists": "Sammy Weissberg",
+   "uri": "spotify:track:5kdqoPhxTBQL0rUUacBOfM",
+   "duration_ms": 126856,
+   "url": "https://open.spotify.com/track/5kdqoPhxTBQL0rUUacBOfM"
+  },
+  {
+   "position": 97,
+   "title": "Accensa fides",
+   "artists": "Katarina Livljanić, Norbert Rodenkirchen, Dialogos",
+   "uri": "spotify:track:5CyMo2Ta2OZPxkl6yTnORK",
+   "duration_ms": 205960,
+   "url": "https://open.spotify.com/track/5CyMo2Ta2OZPxkl6yTnORK"
+  },
+  {
+   "position": 98,
+   "title": "Electric Counterpoint: I. Fast",
+   "artists": "Steve Reich, Francesco Rista",
+   "uri": "spotify:track:1qKcKDd4OooTUmXEON9QtO",
+   "duration_ms": 411259,
+   "url": "https://open.spotify.com/track/1qKcKDd4OooTUmXEON9QtO"
+  },
+  {
+   "position": 99,
+   "title": "I'm Nobody! Who Are You?: I. I'm Nobody! Who Are You?",
+   "artists": "Benjamin de Murashkin, Jacobien Rozemond, Renée Bekkers",
+   "uri": "spotify:track:2VkKhYpgiojeeBlxEosWDG",
+   "duration_ms": 280386,
+   "url": "https://open.spotify.com/track/2VkKhYpgiojeeBlxEosWDG"
+  },
+  {
+   "position": 100,
+   "title": "Foll’è chi crede la prudenza o gli anni",
+   "artists": "Jacques Arcadelt, Theatro dei Cervelli, Andrés Locatelli",
+   "uri": "spotify:track:2Lj5pZczt9JfqYdgWDFnvD",
+   "duration_ms": 163448,
+   "url": "https://open.spotify.com/track/2Lj5pZczt9JfqYdgWDFnvD"
+  }
+ ]
+}
