@@ -1413,24 +1413,24 @@
   "top": [
    {
     "position": 1,
-    "title": "Mixed Harmonium",
-    "artists": "Ariel Kalma",
-    "uri": "spotify:track:4YofFVS5lCJbEJECUvi8sV",
-    "url": "https://open.spotify.com/track/4YofFVS5lCJbEJECUvi8sV"
-   },
-   {
-    "position": 2,
-    "title": "Haze with no Haze",
-    "artists": "Julianna Barwick, Mary Lattimore",
-    "uri": "spotify:track:0PXkI65DIBYObvvWLNhFbj",
-    "url": "https://open.spotify.com/track/0PXkI65DIBYObvvWLNhFbj"
-   },
-   {
-    "position": 3,
     "title": "Rise while you fall",
     "artists": "Ignatz",
     "uri": "spotify:track:5LbTizSDptXfb3HFfcWK9N",
     "url": "https://open.spotify.com/track/5LbTizSDptXfb3HFfcWK9N"
+   },
+   {
+    "position": 2,
+    "title": "Cold Nose Part 3, 4th Movement",
+    "artists": "Sensations Fix",
+    "uri": "spotify:track:1Nh2EwwtGbxXTmaXYOAnAS",
+    "url": "https://open.spotify.com/track/1Nh2EwwtGbxXTmaXYOAnAS"
+   },
+   {
+    "position": 3,
+    "title": "Pictures Of You - Remastered",
+    "artists": "The Cure",
+    "uri": "spotify:track:2o49Twc3qrNMOt8gq9W06L",
+    "url": "https://open.spotify.com/track/2o49Twc3qrNMOt8gq9W06L"
    }
   ]
  },
