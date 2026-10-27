@@ -812,7 +812,29 @@
  "5o4Bz68LRX2s8yba9mC1uZ": {
   "name": "Early Bird Show w/ Maria Somerville (Feb–Nov 2026)",
   "url": "https://open.spotify.com/playlist/5o4Bz68LRX2s8yba9mC1uZ",
-  "top": []
+  "top": [
+   {
+    "position": 1,
+    "title": "Dreaming",
+    "artists": "The Smashing Pumpkins",
+    "uri": "spotify:track:4jpI2vTh6ee7znFLsOX97S",
+    "url": "https://open.spotify.com/track/4jpI2vTh6ee7znFLsOX97S"
+   },
+   {
+    "position": 2,
+    "title": "Limnology I",
+    "artists": "Angela Winter",
+    "uri": "spotify:track:7gnQGQoWZxB4dwW8K8IPjh",
+    "url": "https://open.spotify.com/track/7gnQGQoWZxB4dwW8K8IPjh"
+   },
+   {
+    "position": 3,
+    "title": "My Home",
+    "artists": "icfam",
+    "uri": "spotify:track:08sIP3CrYAsOzZC7ulf3K4",
+    "url": "https://open.spotify.com/track/08sIP3CrYAsOzZC7ulf3K4"
+   }
+  ]
  },
  "2QIpmavz5TLWnEk1jbLfVi": {
   "name": "Folk Show",
