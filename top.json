@@ -485,6 +485,33 @@
    }
   ]
  },
+ "4RpXZEV98KuTanCQaGILOs": {
+  "name": "25-26",
+  "url": "https://open.spotify.com/playlist/4RpXZEV98KuTanCQaGILOs",
+  "top": [
+   {
+    "position": 1,
+    "title": "Rome",
+    "artists": "Seamus Harty",
+    "uri": "spotify:track:0nMHh6ftclPZqS2xlnYSEs",
+    "url": "https://open.spotify.com/track/0nMHh6ftclPZqS2xlnYSEs"
+   },
+   {
+    "position": 2,
+    "title": "Cons and Clowns",
+    "artists": "Courtney Marie Andrews",
+    "uri": "spotify:track:4riYJIO6Bzj9IfuSyrzcdb",
+    "url": "https://open.spotify.com/track/4riYJIO6Bzj9IfuSyrzcdb"
+   },
+   {
+    "position": 3,
+    "title": "Washington",
+    "artists": "Jake Xerxes Fussell",
+    "uri": "spotify:track:66lgjCaj4QOhApl208FVsq",
+    "url": "https://open.spotify.com/track/66lgjCaj4QOhApl208FVsq"
+   }
+  ]
+ },
  "7xoWgVBVkgNtl5SmfcPlZo": {
   "name": "26 Loppuja",
   "url": "https://open.spotify.com/playlist/7xoWgVBVkgNtl5SmfcPlZo",
@@ -1152,24 +1179,24 @@
   "top": [
    {
     "position": 1,
-    "title": "Day One",
-    "artists": "Bon Iver, Dijon, Flock of Dimes",
-    "uri": "spotify:track:6QJVQSuMC77psM4vgPo31D",
-    "url": "https://open.spotify.com/track/6QJVQSuMC77psM4vgPo31D"
+    "title": "If Only I Could Wait",
+    "artists": "Bon Iver, Danielle Haim",
+    "uri": "spotify:track:06o2hgwnRJN0HYelhyVsLm",
+    "url": "https://open.spotify.com/track/06o2hgwnRJN0HYelhyVsLm"
    },
    {
     "position": 2,
-    "title": "From",
+    "title": "There's A Rhythmn",
     "artists": "Bon Iver",
-    "uri": "spotify:track:5agmWuBAor2UQcNqByOvWC",
-    "url": "https://open.spotify.com/track/5agmWuBAor2UQcNqByOvWC"
+    "uri": "spotify:track:7uWS4zoWMNU9fUPojMYilC",
+    "url": "https://open.spotify.com/track/7uWS4zoWMNU9fUPojMYilC"
    },
    {
     "position": 3,
-    "title": "I'll Be There",
+    "title": "Au Revoir",
     "artists": "Bon Iver",
-    "uri": "spotify:track:5Lf2llKUYgSakzMejYowOu",
-    "url": "https://open.spotify.com/track/5Lf2llKUYgSakzMejYowOu"
+    "uri": "spotify:track:3pI8lsnxpEzJR6fLMedhiR",
+    "url": "https://open.spotify.com/track/3pI8lsnxpEzJR6fLMedhiR"
    }
   ]
  },
@@ -1211,24 +1238,24 @@
   "top": [
    {
     "position": 1,
-    "title": "Secondo coro delle lavandaie",
-    "artists": "Mai Mai Mai, Maria Violenza",
-    "uri": "spotify:track:6mESwc5S4rPg7bCRRd3EBg",
-    "url": "https://open.spotify.com/track/6mESwc5S4rPg7bCRRd3EBg"
-   },
-   {
-    "position": 2,
     "title": "Lest limbs be reddened and rent…",
     "artists": "The Sprigs",
     "uri": "spotify:track:3DDg5RKWBxVq0YY3AqUI6x",
     "url": "https://open.spotify.com/track/3DDg5RKWBxVq0YY3AqUI6x"
    },
    {
-    "position": 3,
+    "position": 2,
     "title": "Bya Gtor",
     "artists": "Kommodus",
     "uri": "spotify:track:4HDX2q0eYmjcoPFLvSltCa",
     "url": "https://open.spotify.com/track/4HDX2q0eYmjcoPFLvSltCa"
+   },
+   {
+    "position": 3,
+    "title": "Entre Nosotros",
+    "artists": "Carmen Villain",
+    "uri": "spotify:track:3AKq4Zsj15PD1p1djgNceT",
+    "url": "https://open.spotify.com/track/3AKq4Zsj15PD1p1djgNceT"
    }
   ]
  },
