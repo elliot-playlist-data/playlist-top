@@ -137,7 +137,29 @@
  "6eXtACIMG7BxPAyP1Xgdz1": {
   "name": "19 Summer Moves",
   "url": "https://open.spotify.com/playlist/6eXtACIMG7BxPAyP1Xgdz1",
-  "top": []
+  "top": [
+   {
+    "position": 1,
+    "title": "Fixture Picture",
+    "artists": "Aldous Harding",
+    "uri": "spotify:track:3FbwxiqJW0d7d3mABeDsNv",
+    "url": "https://open.spotify.com/track/3FbwxiqJW0d7d3mABeDsNv"
+   },
+   {
+    "position": 2,
+    "title": "Pilot",
+    "artists": "Aldous Harding",
+    "uri": "spotify:track:0wZKoINW2Bm0zGx3IWhufo",
+    "url": "https://open.spotify.com/track/0wZKoINW2Bm0zGx3IWhufo"
+   },
+   {
+    "position": 3,
+    "title": "Indications",
+    "artists": "Craig Finn",
+    "uri": "spotify:track:1W5UrZaEO1rko6ngNJF9QO",
+    "url": "https://open.spotify.com/track/1W5UrZaEO1rko6ngNJF9QO"
+   }
+  ]
  },
  "4gpFu0vKe0PnFFHYmgDGWb": {
   "name": "19/20 Cosy Cold Companions",
@@ -736,7 +758,29 @@
  "2NI5nlijzsab9BaFtMdQCr": {
   "name": "CP",
   "url": "https://open.spotify.com/playlist/2NI5nlijzsab9BaFtMdQCr",
-  "top": []
+  "top": [
+   {
+    "position": 1,
+    "title": "Danmbala Elouwe",
+    "artists": "RAM",
+    "uri": "spotify:track:10Kq8qR5FdEXcq3EgVytno",
+    "url": "https://open.spotify.com/track/10Kq8qR5FdEXcq3EgVytno"
+   },
+   {
+    "position": 2,
+    "title": "Sobelenge",
+    "artists": "Mankala",
+    "uri": "spotify:track:2q9OFhVOSzkh00RBwh7oxH",
+    "url": "https://open.spotify.com/track/2q9OFhVOSzkh00RBwh7oxH"
+   },
+   {
+    "position": 3,
+    "title": "All Night Long (All Night)",
+    "artists": "Lionel Richie",
+    "uri": "spotify:track:4kjgGgDbNN4nR3OZYuRkUe",
+    "url": "https://open.spotify.com/track/4kjgGgDbNN4nR3OZYuRkUe"
+   }
+  ]
  },
  "2lrEQOMPs0n8nRGtJllTYA": {
   "name": "Discover Weeklies",
@@ -1078,7 +1122,29 @@
  "2qUtDHXDcwsjIoMfRJ9cOX": {
   "name": "Limbo",
   "url": "https://open.spotify.com/playlist/2qUtDHXDcwsjIoMfRJ9cOX",
-  "top": []
+  "top": [
+   {
+    "position": 1,
+    "title": "Changes",
+    "artists": "A$AP Rocky",
+    "uri": "spotify:track:1dzwFgBlZNxt28aQOinNGn",
+    "url": "https://open.spotify.com/track/1dzwFgBlZNxt28aQOinNGn"
+   },
+   {
+    "position": 2,
+    "title": "We Could Be Free",
+    "artists": "VIC MENSA, Ty Dolla $ign",
+    "uri": "spotify:track:4dH71jhtwivDcv0nSzzxkM",
+    "url": "https://open.spotify.com/track/4dH71jhtwivDcv0nSzzxkM"
+   },
+   {
+    "position": 3,
+    "title": "Hangout at the Gallows",
+    "artists": "Father John Misty",
+    "uri": "spotify:track:2TUiggWlhYI6tX0hVtpZ5f",
+    "url": "https://open.spotify.com/track/2TUiggWlhYI6tX0hVtpZ5f"
+   }
+  ]
  },
  "0YKjeFRYa1TxVPbSLT0kxM": {
   "name": "Masters!",
@@ -1263,17 +1329,83 @@
  "5nV1d7AVDfEcW81xmJhhbw": {
   "name": "Song Decades",
   "url": "https://open.spotify.com/playlist/5nV1d7AVDfEcW81xmJhhbw",
-  "top": []
+  "top": [
+   {
+    "position": 1,
+    "title": "Requiem in D Minor, K. 626: Sequence: VI. Lacrimosa dies illa",
+    "artists": "Wolfgang Amadeus Mozart, Magdaléna Hajóssyová, Jaroslava Horska, Jozef Kundlák, Peter Mikulas, Vladimir Ruso, Slovak Philharmonic Chorus, Slovenská filharmónia, Zdeněk Košler",
+    "uri": "spotify:track:5p3xMIHQ6YoAIaSgZeOkNa",
+    "url": "https://open.spotify.com/track/5p3xMIHQ6YoAIaSgZeOkNa"
+   },
+   {
+    "position": 2,
+    "title": "Queen of the Night Aria (Der Holle Rache)",
+    "artists": "Wolfgang Amadeus Mozart, Richard Wagner, Modest Mussorgsky, Antonín Dvořák, Pyotr Ilyich Tchaikovsky, Camille Saint-Saëns, Ludwig van Beethoven, Franz Schubert, Charles Gounod, Antonio Vivaldi, Edward Elgar, Maurice Ravel, Beverly Hoch, Kenneth Schermerhorn, Hong Kong Philharmonic Orchestra",
+    "uri": "spotify:track:4GJrgYG6pIMA7byrkjLb8j",
+    "url": "https://open.spotify.com/track/4GJrgYG6pIMA7byrkjLb8j"
+   },
+   {
+    "position": 3,
+    "title": "What's Up?",
+    "artists": "4 Non Blondes",
+    "uri": "spotify:track:0jWgAnTrNZmOGmqgvHhZEm",
+    "url": "https://open.spotify.com/track/0jWgAnTrNZmOGmqgvHhZEm"
+   }
+  ]
  },
  "2xVDGW3DwaMBWeAum6Y6mp": {
   "name": "South East Asia!",
   "url": "https://open.spotify.com/playlist/2xVDGW3DwaMBWeAum6Y6mp",
-  "top": []
+  "top": [
+   {
+    "position": 1,
+    "title": "Walk On the Wild Side",
+    "artists": "Lou Reed",
+    "uri": "spotify:track:5p3JunprHCxClJjOmcLV8G",
+    "url": "https://open.spotify.com/track/5p3JunprHCxClJjOmcLV8G"
+   },
+   {
+    "position": 2,
+    "title": "Under the Sun",
+    "artists": "DIIV",
+    "uri": "spotify:track:3yR8cAdli5Ohn3dUlS1PgV",
+    "url": "https://open.spotify.com/track/3yR8cAdli5Ohn3dUlS1PgV"
+   },
+   {
+    "position": 3,
+    "title": "Dopamine",
+    "artists": "DIIV",
+    "uri": "spotify:track:53FCh1Yv1gdlnybyYWsyca",
+    "url": "https://open.spotify.com/track/53FCh1Yv1gdlnybyYWsyca"
+   }
+  ]
  },
  "1pkYsJNnVcdxS9HVr2LKyt": {
   "name": "Spring is Coming",
   "url": "https://open.spotify.com/playlist/1pkYsJNnVcdxS9HVr2LKyt",
-  "top": []
+  "top": [
+   {
+    "position": 1,
+    "title": "Map of the Moon",
+    "artists": "Daniel Woolhouse",
+    "uri": "spotify:track:0LbT7hAjPczb2k57trXjWg",
+    "url": "https://open.spotify.com/track/0LbT7hAjPczb2k57trXjWg"
+   },
+   {
+    "position": 2,
+    "title": "St. Louis Blues (with Duke Ellington & His Famous Orchestra)",
+    "artists": "Bing Crosby, Duke Ellington",
+    "uri": "spotify:track:2NsgpIIluVwXEw5UQczLnO",
+    "url": "https://open.spotify.com/track/2NsgpIIluVwXEw5UQczLnO"
+   },
+   {
+    "position": 3,
+    "title": "The Future",
+    "artists": "Daniel Lanois",
+    "uri": "spotify:track:540gNONamFbSS84hmuWlSJ",
+    "url": "https://open.spotify.com/track/540gNONamFbSS84hmuWlSJ"
+   }
+  ]
  },
  "559HgnlrK5f2ScrFj2pOkw": {
   "name": "Summer '16",
@@ -1305,7 +1437,29 @@
  "3ZSjXeQhnsXYbEWRUYXtBn": {
   "name": "Summer 2k17",
   "url": "https://open.spotify.com/playlist/3ZSjXeQhnsXYbEWRUYXtBn",
-  "top": []
+  "top": [
+   {
+    "position": 1,
+    "title": "Biking (Solo)",
+    "artists": "Frank Ocean",
+    "uri": "spotify:track:6gtNiLJNLBcV0P6Juenstp",
+    "url": "https://open.spotify.com/track/6gtNiLJNLBcV0P6Juenstp"
+   },
+   {
+    "position": 2,
+    "title": "Come Down to Us",
+    "artists": "Burial",
+    "uri": "spotify:track:0d0We4RSviwW2frJOeDOz4",
+    "url": "https://open.spotify.com/track/0d0We4RSviwW2frJOeDOz4"
+   },
+   {
+    "position": 3,
+    "title": "Ben",
+    "artists": "Michael Jackson",
+    "uri": "spotify:track:3DUNaBEHqpXsrY7sXWlWpX",
+    "url": "https://open.spotify.com/track/3DUNaBEHqpXsrY7sXWlWpX"
+   }
+  ]
  },
  "4nUMeDbeRVvlQsQvDC3Lyp": {
   "name": "The Early Bird Show w/ Maria Somerville - NTS",
@@ -1337,7 +1491,29 @@
  "1IOgkikAWMsFuPipsq2akY": {
   "name": "Top 100 (and more) of the Most Beautiful Songs From Reddit",
   "url": "https://open.spotify.com/playlist/1IOgkikAWMsFuPipsq2akY",
-  "top": []
+  "top": [
+   {
+    "position": 1,
+    "title": "Suite Bergamasque, L. 75: III. Clair De Lune",
+    "artists": "Steve Anderson",
+    "uri": "spotify:track:0BeN6CA7RuwNdJa64NV1l0",
+    "url": "https://open.spotify.com/track/0BeN6CA7RuwNdJa64NV1l0"
+   },
+   {
+    "position": 2,
+    "title": "To Build A Home",
+    "artists": "The Cinematic Orchestra, Patrick Watson",
+    "uri": "spotify:track:6LK4QAJzm6wPWITxSftVhG",
+    "url": "https://open.spotify.com/track/6LK4QAJzm6wPWITxSftVhG"
+   },
+   {
+    "position": 3,
+    "title": "Nocturne No. 2 in E flat Major, Op. 9,2",
+    "artists": "Frédéric Chopin",
+    "uri": "spotify:track:6wjrQAhYkgn54EP3hGhubu",
+    "url": "https://open.spotify.com/track/6wjrQAhYkgn54EP3hGhubu"
+   }
+  ]
  },
  "2ttJEMskWeXSdrrHNNUx9Y": {
   "name": "Trans Rockies Rave",
