@@ -5,24 +5,24 @@
   "top": [
    {
     "position": 1,
-    "title": "Gloria: Cum Sancto Spiritu",
-    "artists": "Antonio Vivaldi, Monteverdi Choir, English Baroque Soloists, John Eliot Gardiner",
-    "uri": "spotify:track:7ayXWAT6dVW6vbnCOiKHJm",
-    "url": "https://open.spotify.com/track/7ayXWAT6dVW6vbnCOiKHJm"
-   },
-   {
-    "position": 2,
-    "title": "Laudate Pueri RV601 for soprano, flute, strings and continuo: IX. Amen",
-    "artists": "Antonio Vivaldi, Elin Manahan Thomas",
-    "uri": "spotify:track:0DZl5hxQ20fVbnKPbPmfC2",
-    "url": "https://open.spotify.com/track/0DZl5hxQ20fVbnKPbPmfC2"
-   },
-   {
-    "position": 3,
     "title": "Concerto For Strings In D Minor, RV 128: III. Allegro",
     "artists": "Sonatori de la Gioiosa Marca, Antonio Vivaldi",
     "uri": "spotify:track:4fwMfxi0YOdLH4e9qDL3K0",
     "url": "https://open.spotify.com/track/4fwMfxi0YOdLH4e9qDL3K0"
+   },
+   {
+    "position": 2,
+    "title": "String Concerto in C Minor, No. 8, RV 127: I. Allegro",
+    "artists": "Vivaldi String Orchestra, Walter Rinaldi",
+    "uri": "spotify:track:4oxiQC7QkyS7zm6eOFv8ou",
+    "url": "https://open.spotify.com/track/4oxiQC7QkyS7zm6eOFv8ou"
+   },
+   {
+    "position": 3,
+    "title": "Flute Concerto in G Minor, Op. 10 No. 2, RV 439 \"La notte\": III. Allegro",
+    "artists": "Antonio Vivaldi, Eberhard Zummach, Concerto Köln",
+    "uri": "spotify:track:4DHUoCheawrcqPSKasTBSu",
+    "url": "https://open.spotify.com/track/4DHUoCheawrcqPSKasTBSu"
    }
   ]
  },
@@ -707,24 +707,24 @@
   "top": [
    {
     "position": 1,
-    "title": "Bagatelles, Op. 34: Rêverie, Op. 34: No. 6",
-    "artists": "Jean Sibelius, Janne Mertanen",
-    "uri": "spotify:track:6zQBaW6Qwh0WsCtcJqntZW",
-    "url": "https://open.spotify.com/track/6zQBaW6Qwh0WsCtcJqntZW"
-   },
-   {
-    "position": 2,
-    "title": "Bagatelles, Op. 34: Danse pastorale, Op. 34: No. 7",
-    "artists": "Jean Sibelius, Janne Mertanen",
-    "uri": "spotify:track:2YxYRng9fjaUwwvGoUsCSJ",
-    "url": "https://open.spotify.com/track/2YxYRng9fjaUwwvGoUsCSJ"
-   },
-   {
-    "position": 3,
     "title": "Bagatelles, Op. 34: Joueur de harpe, Op. 34: No. 8",
     "artists": "Jean Sibelius, Janne Mertanen",
     "uri": "spotify:track:0tgJugpsSEyjvnNxuvKeJV",
     "url": "https://open.spotify.com/track/0tgJugpsSEyjvnNxuvKeJV"
+   },
+   {
+    "position": 2,
+    "title": "Bagatelles, Op. 34: Reconnaissance, Op. 34: No. 9",
+    "artists": "Jean Sibelius, Janne Mertanen",
+    "uri": "spotify:track:1BTqgtVh78tIVBh8zt3pNn",
+    "url": "https://open.spotify.com/track/1BTqgtVh78tIVBh8zt3pNn"
+   },
+   {
+    "position": 3,
+    "title": "Bagatelles, Op. 34: Souvenir, Op. 34: No. 10",
+    "artists": "Jean Sibelius, Janne Mertanen",
+    "uri": "spotify:track:7I1zXANOqAaZm5q6F8gOfH",
+    "url": "https://open.spotify.com/track/7I1zXANOqAaZm5q6F8gOfH"
    }
   ]
  },
@@ -788,24 +788,24 @@
   "top": [
    {
     "position": 1,
-    "title": "Stepping Out For Air",
-    "artists": "Bill Callahan",
-    "uri": "spotify:track:0fzp028YqWeNN5lhJbCILK",
-    "url": "https://open.spotify.com/track/0fzp028YqWeNN5lhJbCILK"
-   },
-   {
-    "position": 2,
-    "title": "Some Kind of Shepherd",
-    "artists": "Hayden Pedigo",
-    "uri": "spotify:track:5KhcUCMT72OeUn3hiAFRDV",
-    "url": "https://open.spotify.com/track/5KhcUCMT72OeUn3hiAFRDV"
-   },
-   {
-    "position": 3,
     "title": "Empire",
     "artists": "Oisin Leech, Steve Gunn",
     "uri": "spotify:track:0Yn6Pzwo5MztURaesLyGJO",
     "url": "https://open.spotify.com/track/0Yn6Pzwo5MztURaesLyGJO"
+   },
+   {
+    "position": 2,
+    "title": "Secret City",
+    "artists": "Kieran Hebden, William Tyler",
+    "uri": "spotify:track:5oz5y1prGxpPfEZOugHP5C",
+    "url": "https://open.spotify.com/track/5oz5y1prGxpPfEZOugHP5C"
+   },
+   {
+    "position": 3,
+    "title": "Gerbera",
+    "artists": "MONO",
+    "uri": "spotify:track:1nfSDVadgipoLHUFMed1v3",
+    "url": "https://open.spotify.com/track/1nfSDVadgipoLHUFMed1v3"
    }
   ]
  },
@@ -815,51 +815,24 @@
   "top": [
    {
     "position": 1,
-    "title": "Ancestral Star",
-    "artists": "Barn Owl",
-    "uri": "spotify:track:0XwDIhgBhaXQKsY0JVbQJV",
-    "url": "https://open.spotify.com/track/0XwDIhgBhaXQKsY0JVbQJV"
-   },
-   {
-    "position": 2,
-    "title": "Vestigial",
-    "artists": "r beny",
-    "uri": "spotify:track:0XFV8vyp1Ptc1du3dsgBv9",
-    "url": "https://open.spotify.com/track/0XFV8vyp1Ptc1du3dsgBv9"
-   },
-   {
-    "position": 3,
     "title": "Wires On Carpet",
     "artists": "Marcus Fischer",
     "uri": "spotify:track:50NfO5iYyNCTiRNH8NIBnv",
     "url": "https://open.spotify.com/track/50NfO5iYyNCTiRNH8NIBnv"
-   }
-  ]
- },
- "5o4Bz68LRX2s8yba9mC1uZ": {
-  "name": "Early Bird Show w/ Maria Somerville (Feb–Nov 2026)",
-  "url": "https://open.spotify.com/playlist/5o4Bz68LRX2s8yba9mC1uZ",
-  "top": [
-   {
-    "position": 1,
-    "title": "Dreaming",
-    "artists": "The Smashing Pumpkins",
-    "uri": "spotify:track:4jpI2vTh6ee7znFLsOX97S",
-    "url": "https://open.spotify.com/track/4jpI2vTh6ee7znFLsOX97S"
    },
    {
     "position": 2,
-    "title": "Limnology I",
-    "artists": "Angela Winter",
-    "uri": "spotify:track:7gnQGQoWZxB4dwW8K8IPjh",
-    "url": "https://open.spotify.com/track/7gnQGQoWZxB4dwW8K8IPjh"
+    "title": "Glass Realms",
+    "artists": "This Will Destroy You",
+    "uri": "spotify:track:5q6nioJ3LEdyH15LLHEQl8",
+    "url": "https://open.spotify.com/track/5q6nioJ3LEdyH15LLHEQl8"
    },
    {
     "position": 3,
-    "title": "My Home",
-    "artists": "icfam",
-    "uri": "spotify:track:08sIP3CrYAsOzZC7ulf3K4",
-    "url": "https://open.spotify.com/track/08sIP3CrYAsOzZC7ulf3K4"
+    "title": "Yellow Bell",
+    "artists": "Jasmine Guffond",
+    "uri": "spotify:track:4vRBQ1V5S8Z4FeCn9ayete",
+    "url": "https://open.spotify.com/track/4vRBQ1V5S8Z4FeCn9ayete"
    }
   ]
  },
@@ -869,24 +842,24 @@
   "top": [
    {
     "position": 1,
-    "title": "The Mist Covered Mountains",
-    "artists": "Mark Knopfler",
-    "uri": "spotify:track:120PwYgYbursBbh3aqeWwa",
-    "url": "https://open.spotify.com/track/120PwYgYbursBbh3aqeWwa"
-   },
-   {
-    "position": 2,
-    "title": "My Hopes Are All Mine",
-    "artists": "Lavinia Blackwall",
-    "uri": "spotify:track:70tliGH8KR6m5nGJ2aTjiy",
-    "url": "https://open.spotify.com/track/70tliGH8KR6m5nGJ2aTjiy"
-   },
-   {
-    "position": 3,
     "title": "The Killing Moon",
     "artists": "Thea Gilmore",
     "uri": "spotify:track:0LozWVeivf7xh7Ipo1Wf6F",
     "url": "https://open.spotify.com/track/0LozWVeivf7xh7Ipo1Wf6F"
+   },
+   {
+    "position": 2,
+    "title": "Chérie",
+    "artists": "Salif Keita",
+    "uri": "spotify:track:6LjZwFV1feGUZyCz0zXZi0",
+    "url": "https://open.spotify.com/track/6LjZwFV1feGUZyCz0zXZi0"
+   },
+   {
+    "position": 3,
+    "title": "The Poetry Train",
+    "artists": "Sam Slatcher, Rowan McCabe",
+    "uri": "spotify:track:1VveT2p99n6sqJzKc4ei5D",
+    "url": "https://open.spotify.com/track/1VveT2p99n6sqJzKc4ei5D"
    }
   ]
  },
@@ -896,24 +869,24 @@
   "top": [
    {
     "position": 1,
-    "title": "Honey, In the Wild",
-    "artists": "Annie Nero, Josh Kaufman",
-    "uri": "spotify:track:2HeusL5yydbhSyGo2A9Fyj",
-    "url": "https://open.spotify.com/track/2HeusL5yydbhSyGo2A9Fyj"
-   },
-   {
-    "position": 2,
-    "title": "Unbroken Wing",
-    "artists": "Mike Campbell",
-    "uri": "spotify:track:1eXUHl9hCwasqDXWe8A5us",
-    "url": "https://open.spotify.com/track/1eXUHl9hCwasqDXWe8A5us"
-   },
-   {
-    "position": 3,
     "title": "Migration of Birds",
     "artists": "Wally Wolodarsky",
     "uri": "spotify:track:7dF76J5QdQCZitNZik7Nhm",
     "url": "https://open.spotify.com/track/7dF76J5QdQCZitNZik7Nhm"
+   },
+   {
+    "position": 2,
+    "title": "May 18th 1929 Lost",
+    "artists": "Alex Somers",
+    "uri": "spotify:track:3QSka2jZeiZPzgk0VGKLWl",
+    "url": "https://open.spotify.com/track/3QSka2jZeiZPzgk0VGKLWl"
+   },
+   {
+    "position": 3,
+    "title": "Bird Calling",
+    "artists": "Mark Ronson, Damon Albarn, Wale",
+    "uri": "spotify:track:5yXkHE9tClhXC3L1NnA8vV",
+    "url": "https://open.spotify.com/track/5yXkHE9tClhXC3L1NnA8vV"
    }
   ]
  },
@@ -1098,24 +1071,24 @@
   "top": [
    {
     "position": 1,
-    "title": "Covering Your Tracks",
-    "artists": "Fink",
-    "uri": "spotify:track:1gHTW3tP76pTLCzTzTn1Ai",
-    "url": "https://open.spotify.com/track/1gHTW3tP76pTLCzTzTn1Ai"
-   },
-   {
-    "position": 2,
-    "title": "Mulago",
-    "artists": "Alfa Mist",
-    "uri": "spotify:track:0FfXZ8sE30XUYJbEYsAC6R",
-    "url": "https://open.spotify.com/track/0FfXZ8sE30XUYJbEYsAC6R"
-   },
-   {
-    "position": 3,
     "title": "Mountains",
     "artists": "Charlotte Day Wilson",
     "uri": "spotify:track:5HDuajayQnsWZRBjUwNAhy",
     "url": "https://open.spotify.com/track/5HDuajayQnsWZRBjUwNAhy"
+   },
+   {
+    "position": 2,
+    "title": "Count a Heart",
+    "artists": "Moreton, Jordan Rakei",
+    "uri": "spotify:track:7GuE22FLfWAirUzwwfgPWs",
+    "url": "https://open.spotify.com/track/7GuE22FLfWAirUzwwfgPWs"
+   },
+   {
+    "position": 3,
+    "title": "Untitled 2",
+    "artists": "Puma Blue",
+    "uri": "spotify:track:1SmNpdeW6QlyGrsHO62VAj",
+    "url": "https://open.spotify.com/track/1SmNpdeW6QlyGrsHO62VAj"
    }
   ]
  },
@@ -1179,24 +1152,24 @@
   "top": [
    {
     "position": 1,
-    "title": "My Heroine",
-    "artists": "Tamino",
-    "uri": "spotify:track:0IAhw7KxiogXweSwVxW4av",
-    "url": "https://open.spotify.com/track/0IAhw7KxiogXweSwVxW4av"
-   },
-   {
-    "position": 2,
-    "title": "Babylon",
-    "artists": "Tamino",
-    "uri": "spotify:track:2dgabn0niN2C1tyZEv1Kmh",
-    "url": "https://open.spotify.com/track/2dgabn0niN2C1tyZEv1Kmh"
-   },
-   {
-    "position": 3,
     "title": "Every Dawn's a Mountain",
     "artists": "Tamino",
     "uri": "spotify:track:7EzAzLRWi5qu6FCDngwf1d",
     "url": "https://open.spotify.com/track/7EzAzLRWi5qu6FCDngwf1d"
+   },
+   {
+    "position": 2,
+    "title": "Sanpaku",
+    "artists": "Tamino",
+    "uri": "spotify:track:3wfpfsdoJmIuWX9V9pHAuQ",
+    "url": "https://open.spotify.com/track/3wfpfsdoJmIuWX9V9pHAuQ"
+   },
+   {
+    "position": 3,
+    "title": "Sanctuary",
+    "artists": "Tamino, Mitski",
+    "uri": "spotify:track:2xUyK9iuIc649q3NXJ1Uvb",
+    "url": "https://open.spotify.com/track/2xUyK9iuIc649q3NXJ1Uvb"
    }
   ]
  },
@@ -1211,51 +1184,24 @@
   "top": [
    {
     "position": 1,
-    "title": "Him",
-    "artists": "Nils Frahm",
-    "uri": "spotify:track:6X4GmIGetBXwSuAFfqgoA6",
-    "url": "https://open.spotify.com/track/6X4GmIGetBXwSuAFfqgoA6"
-   },
-   {
-    "position": 2,
-    "title": "Son",
-    "artists": "Nils Frahm",
-    "uri": "spotify:track:7ePqVPzHFKLedgvvrEZYp9",
-    "url": "https://open.spotify.com/track/7ePqVPzHFKLedgvvrEZYp9"
-   },
-   {
-    "position": 3,
     "title": "Vice Versa",
     "artists": "Nils Frahm",
     "uri": "spotify:track:4N4LdSv9mcAMMVYIQFkBGZ",
     "url": "https://open.spotify.com/track/4N4LdSv9mcAMMVYIQFkBGZ"
-   }
-  ]
- },
- "4QQ6WTCBPww4U4ZIXbHNig": {
-  "name": "NTS – November 2026",
-  "url": "https://open.spotify.com/playlist/4QQ6WTCBPww4U4ZIXbHNig",
-  "top": [
-   {
-    "position": 1,
-    "title": "Life in a Scotch Sitting Room, Vol. 2 (Episode 15)",
-    "artists": "Ivor Cutler",
-    "uri": "spotify:track:4qm239QGfxk5Z5v34fx923",
-    "url": "https://open.spotify.com/track/4qm239QGfxk5Z5v34fx923"
    },
    {
     "position": 2,
-    "title": "Water",
-    "artists": "John S. Hall, Kramer",
-    "uri": "spotify:track:0UrDCnnI7yxGd33tVd2eEI",
-    "url": "https://open.spotify.com/track/0UrDCnnI7yxGd33tVd2eEI"
+    "title": "Passing",
+    "artists": "Nils Frahm",
+    "uri": "spotify:track:6E8chn43Wj0V0G71h2lI1l",
+    "url": "https://open.spotify.com/track/6E8chn43Wj0V0G71h2lI1l"
    },
    {
     "position": 3,
-    "title": "Dream Still One",
-    "artists": "Matt Baldwin, Nico Georis",
-    "uri": "spotify:track:0162E05Mbk3J5o4cREcM5G",
-    "url": "https://open.spotify.com/track/0162E05Mbk3J5o4cREcM5G"
+    "title": "Day One One",
+    "artists": "F.S.Blumm, Nils Frahm",
+    "uri": "spotify:track:3szzkUmdYVn16F8qzDyGhl",
+    "url": "https://open.spotify.com/track/3szzkUmdYVn16F8qzDyGhl"
    }
   ]
  },
@@ -1265,24 +1211,24 @@
   "top": [
    {
     "position": 1,
-    "title": "Bya Gtor",
-    "artists": "Kommodus",
-    "uri": "spotify:track:4HDX2q0eYmjcoPFLvSltCa",
-    "url": "https://open.spotify.com/track/4HDX2q0eYmjcoPFLvSltCa"
-   },
-   {
-    "position": 2,
-    "title": "Entre Nosotros",
-    "artists": "Carmen Villain",
-    "uri": "spotify:track:3AKq4Zsj15PD1p1djgNceT",
-    "url": "https://open.spotify.com/track/3AKq4Zsj15PD1p1djgNceT"
-   },
-   {
-    "position": 3,
     "title": "I Wander (IV + V)",
     "artists": "DjRUM",
     "uri": "spotify:track:1MfOMpg9fTsBWRbOdy8aqx",
     "url": "https://open.spotify.com/track/1MfOMpg9fTsBWRbOdy8aqx"
+   },
+   {
+    "position": 2,
+    "title": "Darkroom",
+    "artists": "Eden Aurelius",
+    "uri": "spotify:track:21pbUuTvsSvcPkOlHIXkmc",
+    "url": "https://open.spotify.com/track/21pbUuTvsSvcPkOlHIXkmc"
+   },
+   {
+    "position": 3,
+    "title": "Tide",
+    "artists": "Klara Lewis",
+    "uri": "spotify:track:6wRHbcqPy6nbAmboxyWzOp",
+    "url": "https://open.spotify.com/track/6wRHbcqPy6nbAmboxyWzOp"
    }
   ]
  },
@@ -1467,24 +1413,24 @@
   "top": [
    {
     "position": 1,
-    "title": "Cold Nose Part 3, 4th Movement",
-    "artists": "Sensations Fix",
-    "uri": "spotify:track:1Nh2EwwtGbxXTmaXYOAnAS",
-    "url": "https://open.spotify.com/track/1Nh2EwwtGbxXTmaXYOAnAS"
-   },
-   {
-    "position": 2,
-    "title": "Pictures Of You - Remastered",
-    "artists": "The Cure",
-    "uri": "spotify:track:2o49Twc3qrNMOt8gq9W06L",
-    "url": "https://open.spotify.com/track/2o49Twc3qrNMOt8gq9W06L"
-   },
-   {
-    "position": 3,
     "title": "Mr. F",
     "artists": "The Sea and Cake",
     "uri": "spotify:track:3bYOAJDrfBjwD5gli9XbR4",
     "url": "https://open.spotify.com/track/3bYOAJDrfBjwD5gli9XbR4"
+   },
+   {
+    "position": 2,
+    "title": "Benches",
+    "artists": "Hasfeldt, Fatshaudi",
+    "uri": "spotify:track:6xx7Y3KtsogJFZQNkGoIt0",
+    "url": "https://open.spotify.com/track/6xx7Y3KtsogJFZQNkGoIt0"
+   },
+   {
+    "position": 3,
+    "title": "Early Blue",
+    "artists": "F. J. McMahon",
+    "uri": "spotify:track:299aa9kZNZhCGIbf7YRLq0",
+    "url": "https://open.spotify.com/track/299aa9kZNZhCGIbf7YRLq0"
    }
   ]
  },
