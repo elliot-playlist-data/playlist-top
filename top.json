@@ -5,24 +5,24 @@
   "top": [
    {
     "position": 1,
-    "title": "Concerto For Strings In D Minor, RV 128: III. Allegro",
-    "artists": "Sonatori de la Gioiosa Marca, Antonio Vivaldi",
-    "uri": "spotify:track:4fwMfxi0YOdLH4e9qDL3K0",
-    "url": "https://open.spotify.com/track/4fwMfxi0YOdLH4e9qDL3K0"
-   },
-   {
-    "position": 2,
-    "title": "String Concerto in C Minor, No. 8, RV 127: I. Allegro",
-    "artists": "Vivaldi String Orchestra, Walter Rinaldi",
-    "uri": "spotify:track:4oxiQC7QkyS7zm6eOFv8ou",
-    "url": "https://open.spotify.com/track/4oxiQC7QkyS7zm6eOFv8ou"
-   },
-   {
-    "position": 3,
     "title": "Flute Concerto in G Minor, Op. 10 No. 2, RV 439 \"La notte\": III. Allegro",
     "artists": "Antonio Vivaldi, Eberhard Zummach, Concerto Köln",
     "uri": "spotify:track:4DHUoCheawrcqPSKasTBSu",
     "url": "https://open.spotify.com/track/4DHUoCheawrcqPSKasTBSu"
+   },
+   {
+    "position": 2,
+    "title": "Vivaldi / Arr. Thilde: Trumpet Concerto in A-Flat Major: I. Allegro",
+    "artists": "Antonio Vivaldi, Maurice André, Jean-François Paillard, Orchestre de chambre Jean-François Paillard",
+    "uri": "spotify:track:1OqjJFslJyTg4hFOgt05kq",
+    "url": "https://open.spotify.com/track/1OqjJFslJyTg4hFOgt05kq"
+   },
+   {
+    "position": 3,
+    "title": "Vivaldi / Arr. Thilde: Trumpet Concerto in A-Flat Major: III. Presto",
+    "artists": "Antonio Vivaldi, Maurice André, Jean-François Paillard, Orchestre de chambre Jean-François Paillard",
+    "uri": "spotify:track:2Agg46PKnaB1cipcKLLhI4",
+    "url": "https://open.spotify.com/track/2Agg46PKnaB1cipcKLLhI4"
    }
   ]
  },
@@ -707,24 +707,24 @@
   "top": [
    {
     "position": 1,
-    "title": "Bagatelles, Op. 34: Joueur de harpe, Op. 34: No. 8",
-    "artists": "Jean Sibelius, Janne Mertanen",
-    "uri": "spotify:track:0tgJugpsSEyjvnNxuvKeJV",
-    "url": "https://open.spotify.com/track/0tgJugpsSEyjvnNxuvKeJV"
-   },
-   {
-    "position": 2,
-    "title": "Bagatelles, Op. 34: Reconnaissance, Op. 34: No. 9",
-    "artists": "Jean Sibelius, Janne Mertanen",
-    "uri": "spotify:track:1BTqgtVh78tIVBh8zt3pNn",
-    "url": "https://open.spotify.com/track/1BTqgtVh78tIVBh8zt3pNn"
-   },
-   {
-    "position": 3,
     "title": "Bagatelles, Op. 34: Souvenir, Op. 34: No. 10",
     "artists": "Jean Sibelius, Janne Mertanen",
     "uri": "spotify:track:7I1zXANOqAaZm5q6F8gOfH",
     "url": "https://open.spotify.com/track/7I1zXANOqAaZm5q6F8gOfH"
+   },
+   {
+    "position": 2,
+    "title": "Symphony No. 1 in E Minor, Op. 39: I. Andante, ma non troppo – Allegro energico",
+    "artists": "Jean Sibelius, Gothenburg Symphony Orchestra, Neeme Järvi",
+    "uri": "spotify:track:4GHT7w9BwrU8ae10NHzTbb",
+    "url": "https://open.spotify.com/track/4GHT7w9BwrU8ae10NHzTbb"
+   },
+   {
+    "position": 3,
+    "title": "Symphony No. 1 in E Minor, Op. 39: II. Andante, ma non troppo lento",
+    "artists": "Jean Sibelius, Gothenburg Symphony Orchestra, Neeme Järvi",
+    "uri": "spotify:track:6uPI9XOYK84wQb8o7Sd4hX",
+    "url": "https://open.spotify.com/track/6uPI9XOYK84wQb8o7Sd4hX"
    }
   ]
  },
@@ -788,24 +788,24 @@
   "top": [
    {
     "position": 1,
-    "title": "Empire",
-    "artists": "Oisin Leech, Steve Gunn",
-    "uri": "spotify:track:0Yn6Pzwo5MztURaesLyGJO",
-    "url": "https://open.spotify.com/track/0Yn6Pzwo5MztURaesLyGJO"
-   },
-   {
-    "position": 2,
-    "title": "Secret City",
-    "artists": "Kieran Hebden, William Tyler",
-    "uri": "spotify:track:5oz5y1prGxpPfEZOugHP5C",
-    "url": "https://open.spotify.com/track/5oz5y1prGxpPfEZOugHP5C"
-   },
-   {
-    "position": 3,
     "title": "Gerbera",
     "artists": "MONO",
     "uri": "spotify:track:1nfSDVadgipoLHUFMed1v3",
     "url": "https://open.spotify.com/track/1nfSDVadgipoLHUFMed1v3"
+   },
+   {
+    "position": 2,
+    "title": "In a Hidden Nook Between Worlds I",
+    "artists": "Cole Pulice",
+    "uri": "spotify:track:6F3HhO5MUqXjVMrS0ma5Py",
+    "url": "https://open.spotify.com/track/6F3HhO5MUqXjVMrS0ma5Py"
+   },
+   {
+    "position": 3,
+    "title": "Days",
+    "artists": "Gregory Uhlmann",
+    "uri": "spotify:track:71QTrn5Phk9jMvoz5mFJaG",
+    "url": "https://open.spotify.com/track/71QTrn5Phk9jMvoz5mFJaG"
    }
   ]
  },
@@ -835,6 +835,11 @@
     "url": "https://open.spotify.com/track/4vRBQ1V5S8Z4FeCn9ayete"
    }
   ]
+ },
+ "3V583iFlucM3oWOzPQrrLn": {
+  "name": "Early Bird Show w/ Maria Somerville (Feb–Nov 2026)",
+  "url": "https://open.spotify.com/playlist/3V583iFlucM3oWOzPQrrLn",
+  "top": []
  },
  "2QIpmavz5TLWnEk1jbLfVi": {
   "name": "Folk Show",
@@ -1152,24 +1157,24 @@
   "top": [
    {
     "position": 1,
-    "title": "Every Dawn's a Mountain",
-    "artists": "Tamino",
-    "uri": "spotify:track:7EzAzLRWi5qu6FCDngwf1d",
-    "url": "https://open.spotify.com/track/7EzAzLRWi5qu6FCDngwf1d"
-   },
-   {
-    "position": 2,
-    "title": "Sanpaku",
-    "artists": "Tamino",
-    "uri": "spotify:track:3wfpfsdoJmIuWX9V9pHAuQ",
-    "url": "https://open.spotify.com/track/3wfpfsdoJmIuWX9V9pHAuQ"
-   },
-   {
-    "position": 3,
     "title": "Sanctuary",
     "artists": "Tamino, Mitski",
     "uri": "spotify:track:2xUyK9iuIc649q3NXJ1Uvb",
     "url": "https://open.spotify.com/track/2xUyK9iuIc649q3NXJ1Uvb"
+   },
+   {
+    "position": 2,
+    "title": "Raven",
+    "artists": "Tamino",
+    "uri": "spotify:track:67PeWE99zfGVIqnx84uGxe",
+    "url": "https://open.spotify.com/track/67PeWE99zfGVIqnx84uGxe"
+   },
+   {
+    "position": 3,
+    "title": "Willow",
+    "artists": "Tamino",
+    "uri": "spotify:track:5tgQENRVrY68gcxkJw21lA",
+    "url": "https://open.spotify.com/track/5tgQENRVrY68gcxkJw21lA"
    }
   ]
  },
@@ -1184,24 +1189,24 @@
   "top": [
    {
     "position": 1,
-    "title": "Vice Versa",
-    "artists": "Nils Frahm",
-    "uri": "spotify:track:4N4LdSv9mcAMMVYIQFkBGZ",
-    "url": "https://open.spotify.com/track/4N4LdSv9mcAMMVYIQFkBGZ"
-   },
-   {
-    "position": 2,
-    "title": "Passing",
-    "artists": "Nils Frahm",
-    "uri": "spotify:track:6E8chn43Wj0V0G71h2lI1l",
-    "url": "https://open.spotify.com/track/6E8chn43Wj0V0G71h2lI1l"
-   },
-   {
-    "position": 3,
     "title": "Day One One",
     "artists": "F.S.Blumm, Nils Frahm",
     "uri": "spotify:track:3szzkUmdYVn16F8qzDyGhl",
     "url": "https://open.spotify.com/track/3szzkUmdYVn16F8qzDyGhl"
+   },
+   {
+    "position": 2,
+    "title": "Day Two One",
+    "artists": "F.S.Blumm, Nils Frahm",
+    "uri": "spotify:track:6IkQ3491lmoqbksWnSGIKI",
+    "url": "https://open.spotify.com/track/6IkQ3491lmoqbksWnSGIKI"
+   },
+   {
+    "position": 3,
+    "title": "Day One Two",
+    "artists": "F.S.Blumm, Nils Frahm",
+    "uri": "spotify:track:1tM4hixT8iaRqnXeWpBinP",
+    "url": "https://open.spotify.com/track/1tM4hixT8iaRqnXeWpBinP"
    }
   ]
  },
@@ -1413,24 +1418,24 @@
   "top": [
    {
     "position": 1,
-    "title": "Mr. F",
-    "artists": "The Sea and Cake",
-    "uri": "spotify:track:3bYOAJDrfBjwD5gli9XbR4",
-    "url": "https://open.spotify.com/track/3bYOAJDrfBjwD5gli9XbR4"
-   },
-   {
-    "position": 2,
-    "title": "Benches",
-    "artists": "Hasfeldt, Fatshaudi",
-    "uri": "spotify:track:6xx7Y3KtsogJFZQNkGoIt0",
-    "url": "https://open.spotify.com/track/6xx7Y3KtsogJFZQNkGoIt0"
-   },
-   {
-    "position": 3,
     "title": "Early Blue",
     "artists": "F. J. McMahon",
     "uri": "spotify:track:299aa9kZNZhCGIbf7YRLq0",
     "url": "https://open.spotify.com/track/299aa9kZNZhCGIbf7YRLq0"
+   },
+   {
+    "position": 2,
+    "title": "Stonefly",
+    "artists": "Maria Somerville",
+    "uri": "spotify:track:6uv3mwUvxsS2q8T7yhQuDs",
+    "url": "https://open.spotify.com/track/6uv3mwUvxsS2q8T7yhQuDs"
+   },
+   {
+    "position": 3,
+    "title": "Moment",
+    "artists": "Fine",
+    "uri": "spotify:track:57S61SuY9RdT4kSS1jUOED",
+    "url": "https://open.spotify.com/track/57S61SuY9RdT4kSS1jUOED"
    }
   ]
  },
