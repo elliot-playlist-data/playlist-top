@@ -707,24 +707,24 @@
   "top": [
    {
     "position": 1,
-    "title": "Bagatelles, Op. 34: Souvenir, Op. 34: No. 10",
-    "artists": "Jean Sibelius, Janne Mertanen",
-    "uri": "spotify:track:7I1zXANOqAaZm5q6F8gOfH",
-    "url": "https://open.spotify.com/track/7I1zXANOqAaZm5q6F8gOfH"
-   },
-   {
-    "position": 2,
     "title": "Symphony No. 1 in E Minor, Op. 39: I. Andante, ma non troppo – Allegro energico",
     "artists": "Jean Sibelius, Gothenburg Symphony Orchestra, Neeme Järvi",
     "uri": "spotify:track:4GHT7w9BwrU8ae10NHzTbb",
     "url": "https://open.spotify.com/track/4GHT7w9BwrU8ae10NHzTbb"
    },
    {
-    "position": 3,
+    "position": 2,
     "title": "Symphony No. 1 in E Minor, Op. 39: II. Andante, ma non troppo lento",
     "artists": "Jean Sibelius, Gothenburg Symphony Orchestra, Neeme Järvi",
     "uri": "spotify:track:6uPI9XOYK84wQb8o7Sd4hX",
     "url": "https://open.spotify.com/track/6uPI9XOYK84wQb8o7Sd4hX"
+   },
+   {
+    "position": 3,
+    "title": "Symphony No. 1 in E Minor, Op. 39: III. Scherzo. Allegro",
+    "artists": "Jean Sibelius, Gothenburg Symphony Orchestra, Neeme Järvi",
+    "uri": "spotify:track:49059IcDeW6MCG076Jv7NN",
+    "url": "https://open.spotify.com/track/49059IcDeW6MCG076Jv7NN"
    }
   ]
  },
@@ -788,24 +788,24 @@
   "top": [
    {
     "position": 1,
-    "title": "Gerbera",
-    "artists": "MONO",
-    "uri": "spotify:track:1nfSDVadgipoLHUFMed1v3",
-    "url": "https://open.spotify.com/track/1nfSDVadgipoLHUFMed1v3"
-   },
-   {
-    "position": 2,
-    "title": "In a Hidden Nook Between Worlds I",
-    "artists": "Cole Pulice",
-    "uri": "spotify:track:6F3HhO5MUqXjVMrS0ma5Py",
-    "url": "https://open.spotify.com/track/6F3HhO5MUqXjVMrS0ma5Py"
-   },
-   {
-    "position": 3,
     "title": "Days",
     "artists": "Gregory Uhlmann",
     "uri": "spotify:track:71QTrn5Phk9jMvoz5mFJaG",
     "url": "https://open.spotify.com/track/71QTrn5Phk9jMvoz5mFJaG"
+   },
+   {
+    "position": 2,
+    "title": "Gentle",
+    "artists": "Naima Bock",
+    "uri": "spotify:track:6HVgufmle8q0m16Iys0Poh",
+    "url": "https://open.spotify.com/track/6HVgufmle8q0m16Iys0Poh"
+   },
+   {
+    "position": 3,
+    "title": "Life Goes On",
+    "artists": "Resavoir",
+    "uri": "spotify:track:0KJWGxvantPQx0IL7JgJ3j",
+    "url": "https://open.spotify.com/track/0KJWGxvantPQx0IL7JgJ3j"
    }
   ]
  },
@@ -1157,24 +1157,24 @@
   "top": [
    {
     "position": 1,
-    "title": "Sanctuary",
-    "artists": "Tamino, Mitski",
-    "uri": "spotify:track:2xUyK9iuIc649q3NXJ1Uvb",
-    "url": "https://open.spotify.com/track/2xUyK9iuIc649q3NXJ1Uvb"
-   },
-   {
-    "position": 2,
-    "title": "Raven",
-    "artists": "Tamino",
-    "uri": "spotify:track:67PeWE99zfGVIqnx84uGxe",
-    "url": "https://open.spotify.com/track/67PeWE99zfGVIqnx84uGxe"
-   },
-   {
-    "position": 3,
     "title": "Willow",
     "artists": "Tamino",
     "uri": "spotify:track:5tgQENRVrY68gcxkJw21lA",
     "url": "https://open.spotify.com/track/5tgQENRVrY68gcxkJw21lA"
+   },
+   {
+    "position": 2,
+    "title": "Elegy",
+    "artists": "Tamino",
+    "uri": "spotify:track:7uS0F9VyBff68GqXfkToNM",
+    "url": "https://open.spotify.com/track/7uS0F9VyBff68GqXfkToNM"
+   },
+   {
+    "position": 3,
+    "title": "Dissolve",
+    "artists": "Tamino",
+    "uri": "spotify:track:4Uuv9BLa7vS2nFVMCOXyxc",
+    "url": "https://open.spotify.com/track/4Uuv9BLa7vS2nFVMCOXyxc"
    }
   ]
  },
@@ -1418,24 +1418,24 @@
   "top": [
    {
     "position": 1,
-    "title": "Early Blue",
-    "artists": "F. J. McMahon",
-    "uri": "spotify:track:299aa9kZNZhCGIbf7YRLq0",
-    "url": "https://open.spotify.com/track/299aa9kZNZhCGIbf7YRLq0"
-   },
-   {
-    "position": 2,
-    "title": "Stonefly",
-    "artists": "Maria Somerville",
-    "uri": "spotify:track:6uv3mwUvxsS2q8T7yhQuDs",
-    "url": "https://open.spotify.com/track/6uv3mwUvxsS2q8T7yhQuDs"
-   },
-   {
-    "position": 3,
     "title": "Moment",
     "artists": "Fine",
     "uri": "spotify:track:57S61SuY9RdT4kSS1jUOED",
     "url": "https://open.spotify.com/track/57S61SuY9RdT4kSS1jUOED"
+   },
+   {
+    "position": 2,
+    "title": "Health Loop",
+    "artists": "Tetsu Inoue",
+    "uri": "spotify:track:0qkgw9mNKmIq57fLHeoKCI",
+    "url": "https://open.spotify.com/track/0qkgw9mNKmIq57fLHeoKCI"
+   },
+   {
+    "position": 3,
+    "title": "Pop Culture",
+    "artists": "Tekulvi",
+    "uri": "spotify:track:0tCJdfeKKkx6W8YfAGu4HO",
+    "url": "https://open.spotify.com/track/0tCJdfeKKkx6W8YfAGu4HO"
    }
   ]
  },
