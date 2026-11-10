@@ -874,24 +874,24 @@
   "top": [
    {
     "position": 1,
-    "title": "Bird Calling",
-    "artists": "Mark Ronson, Damon Albarn, Wale",
-    "uri": "spotify:track:5yXkHE9tClhXC3L1NnA8vV",
-    "url": "https://open.spotify.com/track/5yXkHE9tClhXC3L1NnA8vV"
-   },
-   {
-    "position": 2,
-    "title": "One for Sorrow",
-    "artists": "UNKLE",
-    "uri": "spotify:track:2tbcWTA1WwdMemKIjmZ5rZ",
-    "url": "https://open.spotify.com/track/2tbcWTA1WwdMemKIjmZ5rZ"
-   },
-   {
-    "position": 3,
     "title": "Once Let Free",
     "artists": "Emily Cross",
     "uri": "spotify:track:2VjPn7fTYKzddFyu3DztX7",
     "url": "https://open.spotify.com/track/2VjPn7fTYKzddFyu3DztX7"
+   },
+   {
+    "position": 2,
+    "title": "Kyoto March",
+    "artists": "Jelani Cobb",
+    "uri": "spotify:track:3GrMn89C4olN1kic8Z7lhl",
+    "url": "https://open.spotify.com/track/3GrMn89C4olN1kic8Z7lhl"
+   },
+   {
+    "position": 3,
+    "title": "Sanctuary",
+    "artists": "Beach House",
+    "uri": "spotify:track:4SDQmfnGGgaeVo8TJ22M7S",
+    "url": "https://open.spotify.com/track/4SDQmfnGGgaeVo8TJ22M7S"
    }
   ]
  },
@@ -1076,24 +1076,24 @@
   "top": [
    {
     "position": 1,
-    "title": "Momo's",
-    "artists": "Connan Mockasin",
-    "uri": "spotify:track:1xHDs5xnf2aRxT40LpMgXQ",
-    "url": "https://open.spotify.com/track/1xHDs5xnf2aRxT40LpMgXQ"
-   },
-   {
-    "position": 2,
     "title": "He Came from the Sun",
     "artists": "C Duncan",
     "uri": "spotify:track:5e4lU9882QkXS46i6uNuog",
     "url": "https://open.spotify.com/track/5e4lU9882QkXS46i6uNuog"
    },
    {
-    "position": 3,
+    "position": 2,
     "title": "Virtual U",
     "artists": "oso leone",
     "uri": "spotify:track:2VDvTpGymn0VSYqNn6fBun",
     "url": "https://open.spotify.com/track/2VDvTpGymn0VSYqNn6fBun"
+   },
+   {
+    "position": 3,
+    "title": "Idiom",
+    "artists": "Joe Armon-Jones, Maxwell Owin, Oscar Jerome",
+    "uri": "spotify:track:1SpPF2yoht3LIaMA6bbXb4",
+    "url": "https://open.spotify.com/track/1SpPF2yoht3LIaMA6bbXb4"
    }
   ]
  },
