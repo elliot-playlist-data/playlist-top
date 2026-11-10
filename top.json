@@ -5,24 +5,24 @@
   "top": [
    {
     "position": 1,
-    "title": "Vivaldi / Arr. Thilde: Trumpet Concerto in A-Flat Major: I. Allegro",
-    "artists": "Antonio Vivaldi, Maurice André, Jean-François Paillard, Orchestre de chambre Jean-François Paillard",
-    "uri": "spotify:track:1OqjJFslJyTg4hFOgt05kq",
-    "url": "https://open.spotify.com/track/1OqjJFslJyTg4hFOgt05kq"
-   },
-   {
-    "position": 2,
-    "title": "Vivaldi / Arr. Thilde: Trumpet Concerto in A-Flat Major: III. Presto",
-    "artists": "Antonio Vivaldi, Maurice André, Jean-François Paillard, Orchestre de chambre Jean-François Paillard",
-    "uri": "spotify:track:2Agg46PKnaB1cipcKLLhI4",
-    "url": "https://open.spotify.com/track/2Agg46PKnaB1cipcKLLhI4"
-   },
-   {
-    "position": 3,
     "title": "Sinfonia in C Major, RV 112: I. Allegro",
     "artists": "Antonio Vivaldi, Budapesti Vonósok, Karoly Botvay",
     "uri": "spotify:track:09xCXSfCmczPySpNcCRRjK",
     "url": "https://open.spotify.com/track/09xCXSfCmczPySpNcCRRjK"
+   },
+   {
+    "position": 2,
+    "title": "Concerto for Strings in G Major, RV 150: III. Allegro",
+    "artists": "Antonio Vivaldi, Budapest Strings",
+    "uri": "spotify:track:56lERHBJPtTcKBBYbwMyIY",
+    "url": "https://open.spotify.com/track/56lERHBJPtTcKBBYbwMyIY"
+   },
+   {
+    "position": 3,
+    "title": "Vivaldi: Concerto for Violin and Oboe in B-Flat Major, RV 548: I. Allegro (Arr. Thilde for Trumpet and Violin)",
+    "artists": "Antonio Vivaldi, Maurice André, Iona Brown, Academy of St. Martin in the Fields, Sir Neville Marriner",
+    "uri": "spotify:track:5jF7JWbAUyCbB0wREUFVND",
+    "url": "https://open.spotify.com/track/5jF7JWbAUyCbB0wREUFVND"
    }
   ]
  },
@@ -707,24 +707,24 @@
   "top": [
    {
     "position": 1,
-    "title": "Symphony No. 1 in E Minor, Op. 39: II. Andante, ma non troppo lento",
-    "artists": "Jean Sibelius, Gothenburg Symphony Orchestra, Neeme Järvi",
-    "uri": "spotify:track:6uPI9XOYK84wQb8o7Sd4hX",
-    "url": "https://open.spotify.com/track/6uPI9XOYK84wQb8o7Sd4hX"
-   },
-   {
-    "position": 2,
-    "title": "Symphony No. 1 in E Minor, Op. 39: III. Scherzo. Allegro",
-    "artists": "Jean Sibelius, Gothenburg Symphony Orchestra, Neeme Järvi",
-    "uri": "spotify:track:49059IcDeW6MCG076Jv7NN",
-    "url": "https://open.spotify.com/track/49059IcDeW6MCG076Jv7NN"
-   },
-   {
-    "position": 3,
     "title": "Symphony No. 1 in E Minor, Op. 39: IV. Finale, quasi una fantasia. Andante – Allegro molto",
     "artists": "Jean Sibelius, Gothenburg Symphony Orchestra, Neeme Järvi",
     "uri": "spotify:track:1GA2N8A6J41XLNxBIq5Wdv",
     "url": "https://open.spotify.com/track/1GA2N8A6J41XLNxBIq5Wdv"
+   },
+   {
+    "position": 2,
+    "title": "Pensées lyriques, Op. 40: Valsette, Op. 40: No. 1",
+    "artists": "Jean Sibelius, Janne Mertanen",
+    "uri": "spotify:track:4abjc0LstnNxiiTpnEjgYe",
+    "url": "https://open.spotify.com/track/4abjc0LstnNxiiTpnEjgYe"
+   },
+   {
+    "position": 3,
+    "title": "Pensées lyriques, Op. 40: Chant sans paroles, Op. 40: No. 2",
+    "artists": "Jean Sibelius, Janne Mertanen",
+    "uri": "spotify:track:45P3aiojQejbZq5m8Nx3tj",
+    "url": "https://open.spotify.com/track/45P3aiojQejbZq5m8Nx3tj"
    }
   ]
  },
@@ -788,24 +788,24 @@
   "top": [
    {
     "position": 1,
-    "title": "Days",
-    "artists": "Gregory Uhlmann",
-    "uri": "spotify:track:71QTrn5Phk9jMvoz5mFJaG",
-    "url": "https://open.spotify.com/track/71QTrn5Phk9jMvoz5mFJaG"
-   },
-   {
-    "position": 2,
-    "title": "Gentle",
-    "artists": "Naima Bock",
-    "uri": "spotify:track:6HVgufmle8q0m16Iys0Poh",
-    "url": "https://open.spotify.com/track/6HVgufmle8q0m16Iys0Poh"
-   },
-   {
-    "position": 3,
     "title": "Life Goes On",
     "artists": "Resavoir",
     "uri": "spotify:track:0KJWGxvantPQx0IL7JgJ3j",
     "url": "https://open.spotify.com/track/0KJWGxvantPQx0IL7JgJ3j"
+   },
+   {
+    "position": 2,
+    "title": "Re: Stacks",
+    "artists": "Gregoire Maret, Romain Collin, Bill Frisell",
+    "uri": "spotify:track:3j6a1cE8SnCoIHmsuMQ84P",
+    "url": "https://open.spotify.com/track/3j6a1cE8SnCoIHmsuMQ84P"
+   },
+   {
+    "position": 3,
+    "title": "Dallas",
+    "artists": "Blue Lake",
+    "uri": "spotify:track:7gUGrbjV1Pn9xN6xVPtI3x",
+    "url": "https://open.spotify.com/track/7gUGrbjV1Pn9xN6xVPtI3x"
    }
   ]
  },
@@ -815,24 +815,24 @@
   "top": [
    {
     "position": 1,
-    "title": "Soul Eater",
-    "artists": "Sonae",
-    "uri": "spotify:track:3YkpK4pvQizD361Pf69HIB",
-    "url": "https://open.spotify.com/track/3YkpK4pvQizD361Pf69HIB"
-   },
-   {
-    "position": 2,
-    "title": "La Douleur",
-    "artists": "Windy & Carl",
-    "uri": "spotify:track:6D9CSzC2Cugod9U1MnTn05",
-    "url": "https://open.spotify.com/track/6D9CSzC2Cugod9U1MnTn05"
-   },
-   {
-    "position": 3,
     "title": "Bondage To Formula",
     "artists": "Kali Malone",
     "uri": "spotify:track:7lRWJEm8N20d7HPIx9fiyn",
     "url": "https://open.spotify.com/track/7lRWJEm8N20d7HPIx9fiyn"
+   },
+   {
+    "position": 2,
+    "title": "Ångermanländska Bilder",
+    "artists": "Maria W Horn",
+    "uri": "spotify:track:4rmsiid0MVmbWCBCbU55bW",
+    "url": "https://open.spotify.com/track/4rmsiid0MVmbWCBCbU55bW"
+   },
+   {
+    "position": 3,
+    "title": "Reflections",
+    "artists": "Nordra",
+    "uri": "spotify:track:5VRvIUEajPjLjhiPlaw5Ra",
+    "url": "https://open.spotify.com/track/5VRvIUEajPjLjhiPlaw5Ra"
    }
   ]
  },
@@ -847,24 +847,24 @@
   "top": [
    {
     "position": 1,
-    "title": "Heather on the Moor",
-    "artists": "Three Mile Stone",
-    "uri": "spotify:track:3we2GKK35eSc7gzUSRQhiy",
-    "url": "https://open.spotify.com/track/3we2GKK35eSc7gzUSRQhiy"
-   },
-   {
-    "position": 2,
-    "title": "I Must Away Love",
-    "artists": "Lisa Knapp, Gerry Diver",
-    "uri": "spotify:track:0neVYsHrFWHCdcg0R1v73w",
-    "url": "https://open.spotify.com/track/0neVYsHrFWHCdcg0R1v73w"
-   },
-   {
-    "position": 3,
     "title": "Òran na Bèiste Maoile",
     "artists": "Kim Carnie, Seckou Keita",
     "uri": "spotify:track:44gmifWSRZrYrXhr2F5Twp",
     "url": "https://open.spotify.com/track/44gmifWSRZrYrXhr2F5Twp"
+   },
+   {
+    "position": 2,
+    "title": "Day of My Return",
+    "artists": "Trail West",
+    "uri": "spotify:track:57kQoOS735oVcjVGOqCco9",
+    "url": "https://open.spotify.com/track/57kQoOS735oVcjVGOqCco9"
+   },
+   {
+    "position": 3,
+    "title": "One Hundred Years (1852)",
+    "artists": "Dawn Landes",
+    "uri": "spotify:track:3SDLBGrDfPTW3XULgRQFXh",
+    "url": "https://open.spotify.com/track/3SDLBGrDfPTW3XULgRQFXh"
    }
   ]
  },
@@ -1076,24 +1076,24 @@
   "top": [
    {
     "position": 1,
-    "title": "Untitled 2",
-    "artists": "Puma Blue",
-    "uri": "spotify:track:1SmNpdeW6QlyGrsHO62VAj",
-    "url": "https://open.spotify.com/track/1SmNpdeW6QlyGrsHO62VAj"
-   },
-   {
-    "position": 2,
     "title": "Momo's",
     "artists": "Connan Mockasin",
     "uri": "spotify:track:1xHDs5xnf2aRxT40LpMgXQ",
     "url": "https://open.spotify.com/track/1xHDs5xnf2aRxT40LpMgXQ"
    },
    {
-    "position": 3,
+    "position": 2,
     "title": "He Came from the Sun",
     "artists": "C Duncan",
     "uri": "spotify:track:5e4lU9882QkXS46i6uNuog",
     "url": "https://open.spotify.com/track/5e4lU9882QkXS46i6uNuog"
+   },
+   {
+    "position": 3,
+    "title": "Virtual U",
+    "artists": "oso leone",
+    "uri": "spotify:track:2VDvTpGymn0VSYqNn6fBun",
+    "url": "https://open.spotify.com/track/2VDvTpGymn0VSYqNn6fBun"
    }
   ]
  },
@@ -1157,24 +1157,24 @@
   "top": [
    {
     "position": 1,
-    "title": "Willow",
-    "artists": "Tamino",
-    "uri": "spotify:track:5tgQENRVrY68gcxkJw21lA",
-    "url": "https://open.spotify.com/track/5tgQENRVrY68gcxkJw21lA"
-   },
-   {
-    "position": 2,
-    "title": "Elegy",
-    "artists": "Tamino",
-    "uri": "spotify:track:7uS0F9VyBff68GqXfkToNM",
-    "url": "https://open.spotify.com/track/7uS0F9VyBff68GqXfkToNM"
-   },
-   {
-    "position": 3,
     "title": "Dissolve",
     "artists": "Tamino",
     "uri": "spotify:track:4Uuv9BLa7vS2nFVMCOXyxc",
     "url": "https://open.spotify.com/track/4Uuv9BLa7vS2nFVMCOXyxc"
+   },
+   {
+    "position": 2,
+    "title": "Amsterdam",
+    "artists": "Tamino",
+    "uri": "spotify:track:3hmCZkc3YEvjTxVMjF78wZ",
+    "url": "https://open.spotify.com/track/3hmCZkc3YEvjTxVMjF78wZ"
+   },
+   {
+    "position": 3,
+    "title": "Intro",
+    "artists": "girlpuppy",
+    "uri": "spotify:track:5BIUpwWU0nmDA7TmwIhntX",
+    "url": "https://open.spotify.com/track/5BIUpwWU0nmDA7TmwIhntX"
    }
   ]
  },
@@ -1189,24 +1189,24 @@
   "top": [
    {
     "position": 1,
-    "title": "Day One Two",
-    "artists": "F.S.Blumm, Nils Frahm",
-    "uri": "spotify:track:1tM4hixT8iaRqnXeWpBinP",
-    "url": "https://open.spotify.com/track/1tM4hixT8iaRqnXeWpBinP"
-   },
-   {
-    "position": 2,
-    "title": "Valentine My Funny",
-    "artists": "F.S.Blumm, Nils Frahm",
-    "uri": "spotify:track:0g14q3zrGDf8GiVH8WnDl8",
-    "url": "https://open.spotify.com/track/0g14q3zrGDf8GiVH8WnDl8"
-   },
-   {
-    "position": 3,
     "title": "Day Two Two",
     "artists": "F.S.Blumm, Nils Frahm",
     "uri": "spotify:track:2YaGNYwfUDGu2uPuMK1Qxo",
     "url": "https://open.spotify.com/track/2YaGNYwfUDGu2uPuMK1Qxo"
+   },
+   {
+    "position": 2,
+    "title": "Day One Three",
+    "artists": "F.S.Blumm, Nils Frahm",
+    "uri": "spotify:track:0UIAz9FHqmwWBIYowjRaTY",
+    "url": "https://open.spotify.com/track/0UIAz9FHqmwWBIYowjRaTY"
+   },
+   {
+    "position": 3,
+    "title": "Day One Four",
+    "artists": "F.S.Blumm, Nils Frahm",
+    "uri": "spotify:track:0CYl7sIDfV9xXt66cl28UH",
+    "url": "https://open.spotify.com/track/0CYl7sIDfV9xXt66cl28UH"
    }
   ]
  },
@@ -1418,24 +1418,24 @@
   "top": [
    {
     "position": 1,
-    "title": "Moment",
-    "artists": "Fine",
-    "uri": "spotify:track:57S61SuY9RdT4kSS1jUOED",
-    "url": "https://open.spotify.com/track/57S61SuY9RdT4kSS1jUOED"
-   },
-   {
-    "position": 2,
-    "title": "Health Loop",
-    "artists": "Tetsu Inoue",
-    "uri": "spotify:track:0qkgw9mNKmIq57fLHeoKCI",
-    "url": "https://open.spotify.com/track/0qkgw9mNKmIq57fLHeoKCI"
-   },
-   {
-    "position": 3,
     "title": "Pop Culture",
     "artists": "Tekulvi",
     "uri": "spotify:track:0tCJdfeKKkx6W8YfAGu4HO",
     "url": "https://open.spotify.com/track/0tCJdfeKKkx6W8YfAGu4HO"
+   },
+   {
+    "position": 2,
+    "title": "Random Summer",
+    "artists": "múm",
+    "uri": "spotify:track:2ofqFPNsZO7QY3GuEj9SW4",
+    "url": "https://open.spotify.com/track/2ofqFPNsZO7QY3GuEj9SW4"
+   },
+   {
+    "position": 3,
+    "title": "Embody Source Energy",
+    "artists": "Florian T M Zeisig",
+    "uri": "spotify:track:0MoaqTGbHOeb7uuIFC5t5l",
+    "url": "https://open.spotify.com/track/0MoaqTGbHOeb7uuIFC5t5l"
    }
   ]
  },
