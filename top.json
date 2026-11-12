@@ -5,24 +5,24 @@
   "top": [
    {
     "position": 1,
-    "title": "Vivaldi: Concerto for Violin and Oboe in B-Flat Major, RV 548: I. Allegro (Arr. Thilde for Trumpet and Violin)",
-    "artists": "Antonio Vivaldi, Maurice André, Iona Brown, Academy of St. Martin in the Fields, Sir Neville Marriner",
-    "uri": "spotify:track:5jF7JWbAUyCbB0wREUFVND",
-    "url": "https://open.spotify.com/track/5jF7JWbAUyCbB0wREUFVND"
-   },
-   {
-    "position": 2,
-    "title": "Concerto for 2 Mandolins in G Major, RV 532: III. Allegro",
-    "artists": "Antonio Vivaldi, Paul Grund, Artur Rumetsch, Württembergisches Kammerorchester Heilbronn, Jörg Faerber",
-    "uri": "spotify:track:2XkicC1O6irsoBWJDUbgdr",
-    "url": "https://open.spotify.com/track/2XkicC1O6irsoBWJDUbgdr"
-   },
-   {
-    "position": 3,
     "title": "Concerto for Flute and Strings in F, Op.10, No.1, RV 433 \"La tempesta di mare\" - Arr. for Recorder, Strings and Continuo: 1. Allegro",
     "artists": "Antonio Vivaldi, Lucie Horsch, Amsterdam Vivaldi Players",
     "uri": "spotify:track:44B4KYRypHAOrOibt4JipA",
     "url": "https://open.spotify.com/track/44B4KYRypHAOrOibt4JipA"
+   },
+   {
+    "position": 2,
+    "title": "Concerto grosso in re minore, D-Moll, op. 3/11: I. Allegro",
+    "artists": "I Solisti di Zagreb",
+    "uri": "spotify:track:75EOVhUr49XUE2RpNxH1D4",
+    "url": "https://open.spotify.com/track/75EOVhUr49XUE2RpNxH1D4"
+   },
+   {
+    "position": 3,
+    "title": "Concerto for 2 Trumpets in C Major, RV 537 (Arr. by R. Leppard): I. Allegro",
+    "artists": "Antonio Vivaldi, Wynton Marsalis, Raymond Leppard, English Chamber Orchestra",
+    "uri": "spotify:track:38nzV4qLebUDRMbCaALADh",
+    "url": "https://open.spotify.com/track/38nzV4qLebUDRMbCaALADh"
    }
   ]
  },
@@ -707,24 +707,24 @@
   "top": [
    {
     "position": 1,
-    "title": "Pensées lyriques, Op. 40: Humoresque, Op. 40: No. 3",
-    "artists": "Jean Sibelius, Janne Mertanen",
-    "uri": "spotify:track:6TFblyZe26IkTIhsuj3Fde",
-    "url": "https://open.spotify.com/track/6TFblyZe26IkTIhsuj3Fde"
-   },
-   {
-    "position": 2,
-    "title": "Pensées lyriques, Op. 40: Menuetto, Op. 40: No. 4",
-    "artists": "Jean Sibelius, Janne Mertanen",
-    "uri": "spotify:track:0uZRJZCN6vc6NautY1kYGN",
-    "url": "https://open.spotify.com/track/0uZRJZCN6vc6NautY1kYGN"
-   },
-   {
-    "position": 3,
     "title": "Pensées lyriques, Op. 40: Berceuse, Op. 40: No. 5",
     "artists": "Jean Sibelius, Janne Mertanen",
     "uri": "spotify:track:4ttYQtuOLiqClzEUQF4XSW",
     "url": "https://open.spotify.com/track/4ttYQtuOLiqClzEUQF4XSW"
+   },
+   {
+    "position": 2,
+    "title": "Pensées lyriques, Op. 40: Pensée mélodique, Op. 40: No. 6",
+    "artists": "Jean Sibelius, Janne Mertanen",
+    "uri": "spotify:track:5661HxZf55hPQmgOG7WYSL",
+    "url": "https://open.spotify.com/track/5661HxZf55hPQmgOG7WYSL"
+   },
+   {
+    "position": 3,
+    "title": "Pensées lyriques, Op. 40: Rondoletto, Op. 40: No. 7",
+    "artists": "Jean Sibelius, Janne Mertanen",
+    "uri": "spotify:track:7J9SbBpTAYUbjNOTmoOIcZ",
+    "url": "https://open.spotify.com/track/7J9SbBpTAYUbjNOTmoOIcZ"
    }
   ]
  },
@@ -815,51 +815,24 @@
   "top": [
    {
     "position": 1,
-    "title": "Reflections",
-    "artists": "Nordra",
-    "uri": "spotify:track:5VRvIUEajPjLjhiPlaw5Ra",
-    "url": "https://open.spotify.com/track/5VRvIUEajPjLjhiPlaw5Ra"
-   },
-   {
-    "position": 2,
-    "title": "A Breath to Retrieve Your Body",
-    "artists": "Aaron Martin, Dag Rosenqvist, Aaron Christopher Martin, Dag Aron Alfred Rosenqvist, From The Mouth of The Sun",
-    "uri": "spotify:track:4krGCvRL2UbqQ7q7pxl4bI",
-    "url": "https://open.spotify.com/track/4krGCvRL2UbqQ7q7pxl4bI"
-   },
-   {
-    "position": 3,
     "title": "In the Escaping Sunlight",
     "artists": "Hakobune",
     "uri": "spotify:track:238nTz4MTr76fLPzGupRcv",
     "url": "https://open.spotify.com/track/238nTz4MTr76fLPzGupRcv"
-   }
-  ]
- },
- "3V583iFlucM3oWOzPQrrLn": {
-  "name": "Early Bird Show w/ Maria Somerville (Feb–Nov 2026)",
-  "url": "https://open.spotify.com/playlist/3V583iFlucM3oWOzPQrrLn",
-  "top": [
-   {
-    "position": 1,
-    "title": "Sub-Surface",
-    "artists": "John Beltran",
-    "uri": "spotify:track:6nHZ5HnyuhanW3d5HLdCrn",
-    "url": "https://open.spotify.com/track/6nHZ5HnyuhanW3d5HLdCrn"
    },
    {
     "position": 2,
-    "title": "Want To Be With You",
-    "artists": "Bridget St John",
-    "uri": "spotify:track:6VWiPm64fMLzkgEhHVSwo6",
-    "url": "https://open.spotify.com/track/6VWiPm64fMLzkgEhHVSwo6"
+    "title": "Overtaken By the Night",
+    "artists": "Radere",
+    "uri": "spotify:track:1qX88QRVrWVgoWqGPgcZwv",
+    "url": "https://open.spotify.com/track/1qX88QRVrWVgoWqGPgcZwv"
    },
    {
     "position": 3,
-    "title": "Blushing Copper Light",
-    "artists": "aus, The Humble Bee",
-    "uri": "spotify:track:7sRxWwhn1Nou0dFxrUbecV",
-    "url": "https://open.spotify.com/track/7sRxWwhn1Nou0dFxrUbecV"
+    "title": "River Runs Like Jewels",
+    "artists": "High Aura'd",
+    "uri": "spotify:track:4PD7ObetGBb0bOw3c8puBh",
+    "url": "https://open.spotify.com/track/4PD7ObetGBb0bOw3c8puBh"
    }
   ]
  },
@@ -869,24 +842,24 @@
   "top": [
    {
     "position": 1,
-    "title": "One Hundred Years (1852)",
-    "artists": "Dawn Landes",
-    "uri": "spotify:track:3SDLBGrDfPTW3XULgRQFXh",
-    "url": "https://open.spotify.com/track/3SDLBGrDfPTW3XULgRQFXh"
-   },
-   {
-    "position": 2,
-    "title": "Rochdale Coconut Dance",
-    "artists": "Spiers & Boden",
-    "uri": "spotify:track:327vypRuMwwCdKn7m7ILi1",
-    "url": "https://open.spotify.com/track/327vypRuMwwCdKn7m7ILi1"
-   },
-   {
-    "position": 3,
     "title": "The Old Deceiver",
     "artists": "Sam Kelly",
     "uri": "spotify:track:5N7A9fYQUsSRpX16Tw1Aym",
     "url": "https://open.spotify.com/track/5N7A9fYQUsSRpX16Tw1Aym"
+   },
+   {
+    "position": 2,
+    "title": "Have You Ever",
+    "artists": "Brandi Carlile",
+    "uri": "spotify:track:6z2qa2dnJDXgVTngG4gFu7",
+    "url": "https://open.spotify.com/track/6z2qa2dnJDXgVTngG4gFu7"
+   },
+   {
+    "position": 3,
+    "title": "All Smiles Tonight",
+    "artists": "Poor Creature",
+    "uri": "spotify:track:1myfUIUfstpJMfvXdvuzbL",
+    "url": "https://open.spotify.com/track/1myfUIUfstpJMfvXdvuzbL"
    }
   ]
  },
@@ -1211,24 +1184,24 @@
   "top": [
    {
     "position": 1,
-    "title": "Day One Four",
-    "artists": "F.S.Blumm, Nils Frahm",
-    "uri": "spotify:track:0CYl7sIDfV9xXt66cl28UH",
-    "url": "https://open.spotify.com/track/0CYl7sIDfV9xXt66cl28UH"
-   },
-   {
-    "position": 2,
-    "title": "Day Two Three",
-    "artists": "F.S.Blumm, Nils Frahm",
-    "uri": "spotify:track:6l1X1lyYYgiUoGeANmTEgO",
-    "url": "https://open.spotify.com/track/6l1X1lyYYgiUoGeANmTEgO"
-   },
-   {
-    "position": 3,
     "title": "Is Love What You Don't Know",
     "artists": "F.S.Blumm, Nils Frahm",
     "uri": "spotify:track:0FuZUPPsvXxP6k4mRtDFBV",
     "url": "https://open.spotify.com/track/0FuZUPPsvXxP6k4mRtDFBV"
+   },
+   {
+    "position": 2,
+    "title": "The Whole Universe Wants to Be Touched",
+    "artists": "Nils Frahm",
+    "uri": "spotify:track:1tT3WfvorMsmKuQbkKMRpv",
+    "url": "https://open.spotify.com/track/1tT3WfvorMsmKuQbkKMRpv"
+   },
+   {
+    "position": 3,
+    "title": "Sunson",
+    "artists": "Nils Frahm",
+    "uri": "spotify:track:6Irt9GvjTLQQDDgb3vqU0y",
+    "url": "https://open.spotify.com/track/6Irt9GvjTLQQDDgb3vqU0y"
    }
   ]
  },
@@ -1440,24 +1413,24 @@
   "top": [
    {
     "position": 1,
-    "title": "Embody Source Energy",
-    "artists": "Florian T M Zeisig",
-    "uri": "spotify:track:0MoaqTGbHOeb7uuIFC5t5l",
-    "url": "https://open.spotify.com/track/0MoaqTGbHOeb7uuIFC5t5l"
-   },
-   {
-    "position": 2,
-    "title": "by the line",
-    "artists": "Judith Hamann",
-    "uri": "spotify:track:1z8FLUT9eMtSBBTCykJXrR",
-    "url": "https://open.spotify.com/track/1z8FLUT9eMtSBBTCykJXrR"
-   },
-   {
-    "position": 3,
     "title": "Living Room",
     "artists": "Grouper",
     "uri": "spotify:track:1nJV1JGWf61WRJy851LO34",
     "url": "https://open.spotify.com/track/1nJV1JGWf61WRJy851LO34"
+   },
+   {
+    "position": 2,
+    "title": "Butterfly On The Riverside Big Stone",
+    "artists": "Chihei Hatakeyama",
+    "uri": "spotify:track:6wskL9LjTNyBTve5d3oL1f",
+    "url": "https://open.spotify.com/track/6wskL9LjTNyBTve5d3oL1f"
+   },
+   {
+    "position": 3,
+    "title": "Landscape of Perpetual Oblivion",
+    "artists": "Slow Attack Ensemble",
+    "uri": "spotify:track:59JrdbchvA2ciVV36K9d0z",
+    "url": "https://open.spotify.com/track/59JrdbchvA2ciVV36K9d0z"
    }
   ]
  },
