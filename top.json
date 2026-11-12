@@ -788,24 +788,24 @@
   "top": [
    {
     "position": 1,
-    "title": "Dallas",
-    "artists": "Blue Lake",
-    "uri": "spotify:track:7gUGrbjV1Pn9xN6xVPtI3x",
-    "url": "https://open.spotify.com/track/7gUGrbjV1Pn9xN6xVPtI3x"
-   },
-   {
-    "position": 2,
-    "title": "Now I Know",
-    "artists": "Rachel Sermanni",
-    "uri": "spotify:track:4o5xkfOok7JcSXEseWyoHc",
-    "url": "https://open.spotify.com/track/4o5xkfOok7JcSXEseWyoHc"
-   },
-   {
-    "position": 3,
     "title": "Nick of Time",
     "artists": "Konradsen, Gia Margaret",
     "uri": "spotify:track:631fTGyEdFlsNx9bmO6nep",
     "url": "https://open.spotify.com/track/631fTGyEdFlsNx9bmO6nep"
+   },
+   {
+    "position": 2,
+    "title": "Ursa Major",
+    "artists": "SUSS",
+    "uri": "spotify:track:3BJnhpM9ItAefdMZGdGf1d",
+    "url": "https://open.spotify.com/track/3BJnhpM9ItAefdMZGdGf1d"
+   },
+   {
+    "position": 3,
+    "title": "Reno Silver",
+    "artists": "Elori Saxl, Henry Solomon",
+    "uri": "spotify:track:06nEgP2Xm4Z68GCmR2GXtv",
+    "url": "https://open.spotify.com/track/06nEgP2Xm4Z68GCmR2GXtv"
    }
   ]
  },
