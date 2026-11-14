@@ -839,7 +839,15 @@
  "6m49ScKe3MWL18R8L10fyh": {
   "name": "Early Bird Show w/ Maria Somerville (Feb–Nov 2026)",
   "url": "https://open.spotify.com/playlist/6m49ScKe3MWL18R8L10fyh",
-  "top": []
+  "top": [
+   {
+    "position": 1,
+    "title": "Hammond Song",
+    "artists": "The Roches",
+    "uri": "spotify:track:3cPtZw0oqMEkKlGSF0SLkc",
+    "url": "https://open.spotify.com/track/3cPtZw0oqMEkKlGSF0SLkc"
+   }
+  ]
  },
  "2QIpmavz5TLWnEk1jbLfVi": {
   "name": "Folk Show",
