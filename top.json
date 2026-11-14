@@ -1165,24 +1165,24 @@
   "top": [
    {
     "position": 1,
-    "title": "Calliope Prelude",
-    "artists": "Lucy Dacus",
-    "uri": "spotify:track:4mihgm7PkoBfslVD4bujOA",
-    "url": "https://open.spotify.com/track/4mihgm7PkoBfslVD4bujOA"
-   },
-   {
-    "position": 2,
-    "title": "Big Deal",
-    "artists": "Lucy Dacus",
-    "uri": "spotify:track:16aj4Y3ngJlxSpjXxcvnp4",
-    "url": "https://open.spotify.com/track/16aj4Y3ngJlxSpjXxcvnp4"
-   },
-   {
-    "position": 3,
     "title": "Ankles",
     "artists": "Lucy Dacus",
     "uri": "spotify:track:4VhbsGXRGDncpi79aiX8eE",
     "url": "https://open.spotify.com/track/4VhbsGXRGDncpi79aiX8eE"
+   },
+   {
+    "position": 2,
+    "title": "Limerence",
+    "artists": "Lucy Dacus",
+    "uri": "spotify:track:6Ibl97BzvUovPw1FVXkETR",
+    "url": "https://open.spotify.com/track/6Ibl97BzvUovPw1FVXkETR"
+   },
+   {
+    "position": 3,
+    "title": "Modigliani",
+    "artists": "Lucy Dacus",
+    "uri": "spotify:track:0yKWzCjbBGYGvbT88q8C6I",
+    "url": "https://open.spotify.com/track/0yKWzCjbBGYGvbT88q8C6I"
    }
   ]
  },
