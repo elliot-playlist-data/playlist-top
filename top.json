@@ -788,24 +788,24 @@
   "top": [
    {
     "position": 1,
-    "title": "Nick of Time",
-    "artists": "Konradsen, Gia Margaret",
-    "uri": "spotify:track:631fTGyEdFlsNx9bmO6nep",
-    "url": "https://open.spotify.com/track/631fTGyEdFlsNx9bmO6nep"
-   },
-   {
-    "position": 2,
-    "title": "Ursa Major",
-    "artists": "SUSS",
-    "uri": "spotify:track:3BJnhpM9ItAefdMZGdGf1d",
-    "url": "https://open.spotify.com/track/3BJnhpM9ItAefdMZGdGf1d"
-   },
-   {
-    "position": 3,
     "title": "Reno Silver",
     "artists": "Elori Saxl, Henry Solomon",
     "uri": "spotify:track:06nEgP2Xm4Z68GCmR2GXtv",
     "url": "https://open.spotify.com/track/06nEgP2Xm4Z68GCmR2GXtv"
+   },
+   {
+    "position": 2,
+    "title": "Duvet",
+    "artists": "Laurie Torres",
+    "uri": "spotify:track:5bF8VTXeEMHB44uhFF6H1n",
+    "url": "https://open.spotify.com/track/5bF8VTXeEMHB44uhFF6H1n"
+   },
+   {
+    "position": 3,
+    "title": "For the Teacher",
+    "artists": "Jasper Llewellyn",
+    "uri": "spotify:track:2JJqREKhLq3TuAGXSl9aML",
+    "url": "https://open.spotify.com/track/2JJqREKhLq3TuAGXSl9aML"
    }
   ]
  },
@@ -1165,24 +1165,24 @@
   "top": [
    {
     "position": 1,
-    "title": "Ankles",
-    "artists": "Lucy Dacus",
-    "uri": "spotify:track:4VhbsGXRGDncpi79aiX8eE",
-    "url": "https://open.spotify.com/track/4VhbsGXRGDncpi79aiX8eE"
-   },
-   {
-    "position": 2,
-    "title": "Limerence",
-    "artists": "Lucy Dacus",
-    "uri": "spotify:track:6Ibl97BzvUovPw1FVXkETR",
-    "url": "https://open.spotify.com/track/6Ibl97BzvUovPw1FVXkETR"
-   },
-   {
-    "position": 3,
     "title": "Modigliani",
     "artists": "Lucy Dacus",
     "uri": "spotify:track:0yKWzCjbBGYGvbT88q8C6I",
     "url": "https://open.spotify.com/track/0yKWzCjbBGYGvbT88q8C6I"
+   },
+   {
+    "position": 2,
+    "title": "Talk",
+    "artists": "Lucy Dacus",
+    "uri": "spotify:track:0h2sxB9y6l2Jnr8huDxOrC",
+    "url": "https://open.spotify.com/track/0h2sxB9y6l2Jnr8huDxOrC"
+   },
+   {
+    "position": 3,
+    "title": "For Keeps",
+    "artists": "Lucy Dacus",
+    "uri": "spotify:track:2Tye1bJbQKmfRonUrFniSN",
+    "url": "https://open.spotify.com/track/2Tye1bJbQKmfRonUrFniSN"
    }
   ]
  },
@@ -1426,24 +1426,24 @@
   "top": [
    {
     "position": 1,
-    "title": "Living Room",
-    "artists": "Grouper",
-    "uri": "spotify:track:1nJV1JGWf61WRJy851LO34",
-    "url": "https://open.spotify.com/track/1nJV1JGWf61WRJy851LO34"
-   },
-   {
-    "position": 2,
-    "title": "Butterfly On The Riverside Big Stone",
-    "artists": "Chihei Hatakeyama",
-    "uri": "spotify:track:6wskL9LjTNyBTve5d3oL1f",
-    "url": "https://open.spotify.com/track/6wskL9LjTNyBTve5d3oL1f"
-   },
-   {
-    "position": 3,
     "title": "Landscape of Perpetual Oblivion",
     "artists": "Slow Attack Ensemble",
     "uri": "spotify:track:59JrdbchvA2ciVV36K9d0z",
     "url": "https://open.spotify.com/track/59JrdbchvA2ciVV36K9d0z"
+   },
+   {
+    "position": 2,
+    "title": "Run hide retreat surrender",
+    "artists": "Adam Gnade",
+    "uri": "spotify:track:2GiDqyTRtlHKy4g65fgO29",
+    "url": "https://open.spotify.com/track/2GiDqyTRtlHKy4g65fgO29"
+   },
+   {
+    "position": 3,
+    "title": "Isle of Us",
+    "artists": "Malibu",
+    "uri": "spotify:track:4819xJ9fw74HKljpCm8b94",
+    "url": "https://open.spotify.com/track/4819xJ9fw74HKljpCm8b94"
    }
   ]
  },
