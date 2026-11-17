@@ -788,24 +788,24 @@
   "top": [
    {
     "position": 1,
-    "title": "Reno Silver",
-    "artists": "Elori Saxl, Henry Solomon",
-    "uri": "spotify:track:06nEgP2Xm4Z68GCmR2GXtv",
-    "url": "https://open.spotify.com/track/06nEgP2Xm4Z68GCmR2GXtv"
-   },
-   {
-    "position": 2,
-    "title": "Duvet",
-    "artists": "Laurie Torres",
-    "uri": "spotify:track:5bF8VTXeEMHB44uhFF6H1n",
-    "url": "https://open.spotify.com/track/5bF8VTXeEMHB44uhFF6H1n"
-   },
-   {
-    "position": 3,
     "title": "For the Teacher",
     "artists": "Jasper Llewellyn",
     "uri": "spotify:track:2JJqREKhLq3TuAGXSl9aML",
     "url": "https://open.spotify.com/track/2JJqREKhLq3TuAGXSl9aML"
+   },
+   {
+    "position": 2,
+    "title": "Happy Today",
+    "artists": "Jeff Parker, ETA IVtet, Anna Butterss, Jay Bellerose, Josh Johnson",
+    "uri": "spotify:track:2xBjAoyZuOQJKfE2jDckZC",
+    "url": "https://open.spotify.com/track/2xBjAoyZuOQJKfE2jDckZC"
+   },
+   {
+    "position": 3,
+    "title": "Dream of the Egg",
+    "artists": "Tomo Katsurada, Jonny Nash",
+    "uri": "spotify:track:4zZaFe4r1iMX1BKdPJ2AFb",
+    "url": "https://open.spotify.com/track/4zZaFe4r1iMX1BKdPJ2AFb"
    }
   ]
  },
@@ -1165,24 +1165,24 @@
   "top": [
    {
     "position": 1,
-    "title": "Modigliani",
-    "artists": "Lucy Dacus",
-    "uri": "spotify:track:0yKWzCjbBGYGvbT88q8C6I",
-    "url": "https://open.spotify.com/track/0yKWzCjbBGYGvbT88q8C6I"
-   },
-   {
-    "position": 2,
-    "title": "Talk",
-    "artists": "Lucy Dacus",
-    "uri": "spotify:track:0h2sxB9y6l2Jnr8huDxOrC",
-    "url": "https://open.spotify.com/track/0h2sxB9y6l2Jnr8huDxOrC"
-   },
-   {
-    "position": 3,
     "title": "For Keeps",
     "artists": "Lucy Dacus",
     "uri": "spotify:track:2Tye1bJbQKmfRonUrFniSN",
     "url": "https://open.spotify.com/track/2Tye1bJbQKmfRonUrFniSN"
+   },
+   {
+    "position": 2,
+    "title": "Forever Is A Feeling",
+    "artists": "Lucy Dacus",
+    "uri": "spotify:track:0r1Hes7jhihnSh8ql9XGya",
+    "url": "https://open.spotify.com/track/0r1Hes7jhihnSh8ql9XGya"
+   },
+   {
+    "position": 3,
+    "title": "Come Out",
+    "artists": "Lucy Dacus",
+    "uri": "spotify:track:7vU7nNXJ54V85fTQ23dWOe",
+    "url": "https://open.spotify.com/track/7vU7nNXJ54V85fTQ23dWOe"
    }
   ]
  },
@@ -1426,24 +1426,24 @@
   "top": [
    {
     "position": 1,
-    "title": "Landscape of Perpetual Oblivion",
-    "artists": "Slow Attack Ensemble",
-    "uri": "spotify:track:59JrdbchvA2ciVV36K9d0z",
-    "url": "https://open.spotify.com/track/59JrdbchvA2ciVV36K9d0z"
-   },
-   {
-    "position": 2,
-    "title": "Run hide retreat surrender",
-    "artists": "Adam Gnade",
-    "uri": "spotify:track:2GiDqyTRtlHKy4g65fgO29",
-    "url": "https://open.spotify.com/track/2GiDqyTRtlHKy4g65fgO29"
-   },
-   {
-    "position": 3,
     "title": "Isle of Us",
     "artists": "Malibu",
     "uri": "spotify:track:4819xJ9fw74HKljpCm8b94",
     "url": "https://open.spotify.com/track/4819xJ9fw74HKljpCm8b94"
+   },
+   {
+    "position": 2,
+    "title": "Anyone",
+    "artists": "Devin Shaffer",
+    "uri": "spotify:track:2mdCUnQn4eaSx3LQ5LlXxz",
+    "url": "https://open.spotify.com/track/2mdCUnQn4eaSx3LQ5LlXxz"
+   },
+   {
+    "position": 3,
+    "title": "Two Of A Kind",
+    "artists": "Romance",
+    "uri": "spotify:track:5fEX3UUDtzUUhvpmehngdV",
+    "url": "https://open.spotify.com/track/5fEX3UUDtzUUhvpmehngdV"
    }
   ]
  },
