@@ -788,24 +788,24 @@
   "top": [
    {
     "position": 1,
-    "title": "For the Teacher",
-    "artists": "Jasper Llewellyn",
-    "uri": "spotify:track:2JJqREKhLq3TuAGXSl9aML",
-    "url": "https://open.spotify.com/track/2JJqREKhLq3TuAGXSl9aML"
-   },
-   {
-    "position": 2,
     "title": "Happy Today",
     "artists": "Jeff Parker, ETA IVtet, Anna Butterss, Jay Bellerose, Josh Johnson",
     "uri": "spotify:track:2xBjAoyZuOQJKfE2jDckZC",
     "url": "https://open.spotify.com/track/2xBjAoyZuOQJKfE2jDckZC"
    },
    {
-    "position": 3,
+    "position": 2,
     "title": "Dream of the Egg",
     "artists": "Tomo Katsurada, Jonny Nash",
     "uri": "spotify:track:4zZaFe4r1iMX1BKdPJ2AFb",
     "url": "https://open.spotify.com/track/4zZaFe4r1iMX1BKdPJ2AFb"
+   },
+   {
+    "position": 3,
+    "title": "Hardcore",
+    "artists": "Klara Lewis",
+    "uri": "spotify:track:58HesoqL5N4iPkpH3qn7wf",
+    "url": "https://open.spotify.com/track/58HesoqL5N4iPkpH3qn7wf"
    }
   ]
  },
@@ -846,6 +846,20 @@
     "artists": "The Roches",
     "uri": "spotify:track:3cPtZw0oqMEkKlGSF0SLkc",
     "url": "https://open.spotify.com/track/3cPtZw0oqMEkKlGSF0SLkc"
+   },
+   {
+    "position": 2,
+    "title": "Lily Pad",
+    "artists": "JJ+JS",
+    "uri": "spotify:track:6LoCiGM9Evu2TT747tg3SU",
+    "url": "https://open.spotify.com/track/6LoCiGM9Evu2TT747tg3SU"
+   },
+   {
+    "position": 3,
+    "title": "Fables",
+    "artists": "Isabel Pine",
+    "uri": "spotify:track:0KV7GkEepHM3kVaZCVVMsF",
+    "url": "https://open.spotify.com/track/0KV7GkEepHM3kVaZCVVMsF"
    }
   ]
  },
@@ -1165,24 +1179,24 @@
   "top": [
    {
     "position": 1,
-    "title": "For Keeps",
-    "artists": "Lucy Dacus",
-    "uri": "spotify:track:2Tye1bJbQKmfRonUrFniSN",
-    "url": "https://open.spotify.com/track/2Tye1bJbQKmfRonUrFniSN"
+    "title": "Malibu",
+    "artists": "Mumford & Sons",
+    "uri": "spotify:track:12ultei6RG7H4r06wJii5h",
+    "url": "https://open.spotify.com/track/12ultei6RG7H4r06wJii5h"
    },
    {
     "position": 2,
-    "title": "Forever Is A Feeling",
-    "artists": "Lucy Dacus",
-    "uri": "spotify:track:0r1Hes7jhihnSh8ql9XGya",
-    "url": "https://open.spotify.com/track/0r1Hes7jhihnSh8ql9XGya"
+    "title": "Caroline",
+    "artists": "Mumford & Sons",
+    "uri": "spotify:track:6iWK4oyy9z1qBVbsAlwRhm",
+    "url": "https://open.spotify.com/track/6iWK4oyy9z1qBVbsAlwRhm"
    },
    {
     "position": 3,
-    "title": "Come Out",
-    "artists": "Lucy Dacus",
-    "uri": "spotify:track:7vU7nNXJ54V85fTQ23dWOe",
-    "url": "https://open.spotify.com/track/7vU7nNXJ54V85fTQ23dWOe"
+    "title": "Rushmere",
+    "artists": "Mumford & Sons",
+    "uri": "spotify:track:7Kyfw8u6etOY1OkeEw2cMy",
+    "url": "https://open.spotify.com/track/7Kyfw8u6etOY1OkeEw2cMy"
    }
   ]
  },
