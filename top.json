@@ -788,24 +788,24 @@
   "top": [
    {
     "position": 1,
-    "title": "Happy Today",
-    "artists": "Jeff Parker, ETA IVtet, Anna Butterss, Jay Bellerose, Josh Johnson",
-    "uri": "spotify:track:2xBjAoyZuOQJKfE2jDckZC",
-    "url": "https://open.spotify.com/track/2xBjAoyZuOQJKfE2jDckZC"
-   },
-   {
-    "position": 2,
     "title": "Dream of the Egg",
     "artists": "Tomo Katsurada, Jonny Nash",
     "uri": "spotify:track:4zZaFe4r1iMX1BKdPJ2AFb",
     "url": "https://open.spotify.com/track/4zZaFe4r1iMX1BKdPJ2AFb"
    },
    {
-    "position": 3,
+    "position": 2,
     "title": "Hardcore",
     "artists": "Klara Lewis",
     "uri": "spotify:track:58HesoqL5N4iPkpH3qn7wf",
     "url": "https://open.spotify.com/track/58HesoqL5N4iPkpH3qn7wf"
+   },
+   {
+    "position": 3,
+    "title": "Simple Homecoming Loop",
+    "artists": "Clark",
+    "uri": "spotify:track:5H5MYYPbLmu9AUdbDIlAJP",
+    "url": "https://open.spotify.com/track/5H5MYYPbLmu9AUdbDIlAJP"
    }
   ]
  },
