@@ -1,0 +1,730 @@
+{
+ "playlist": "New Classical",
+ "description": "",
+ "playlist_url": "https://open.spotify.com/playlist/37i9dQZF1DWV0gynK7G6pD",
+ "captured_at": "2026-11-20T11:41:00+00:00",
+ "source": "embed",
+ "track_count": 72,
+ "tracks": [
+  {
+   "position": 1,
+   "title": "Dawn Chorus - III. Fratercula arctica - Andante",
+   "artists": "Erland Cooper, BBC Scottish Symphony Orchestra, Freya Goldmark, Janne Nisonen",
+   "uri": "spotify:track:27aXOOXT0NbnFmb0DvXgOl",
+   "duration_ms": 205977,
+   "url": "https://open.spotify.com/track/27aXOOXT0NbnFmb0DvXgOl",
+   "album": "Dawn Chorus",
+   "release_date": "2026-11-20"
+  },
+  {
+   "position": 2,
+   "title": "Piano Concerto No. 2, Sz. 95: I. Allegro - Live",
+   "artists": "Béla Bartók, Yuja Wang, Berlin Philharmonic, Sir Simon Rattle",
+   "uri": "spotify:track:74VQcaZslgwAUawgisLDZN",
+   "duration_ms": 572602,
+   "url": "https://open.spotify.com/track/74VQcaZslgwAUawgisLDZN",
+   "album": "Bartók: Piano Concerto No. 2, Sz. 95: I. Allegro (Live)",
+   "release_date": "2026-11-20"
+  },
+  {
+   "position": 3,
+   "title": "Ár var alda | Dawn of Time",
+   "artists": "Viktor Orri Árnason, Yo-Yo Ma, Iceland Symphony Orchestra",
+   "uri": "spotify:track:72RW4SKS9thBgbDaYJGbgD",
+   "duration_ms": 306631,
+   "url": "https://open.spotify.com/track/72RW4SKS9thBgbDaYJGbgD",
+   "album": "RITUAL",
+   "release_date": "2026-11-20"
+  },
+  {
+   "position": 4,
+   "title": "Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 \"Moonlight Sonata\": III. Presto agitato",
+   "artists": "Ludwig van Beethoven, Fabian Müller",
+   "uri": "spotify:track:7E2be8QoVX8pS8CKoZY9bS",
+   "duration_ms": 452752,
+   "url": "https://open.spotify.com/track/7E2be8QoVX8pS8CKoZY9bS",
+   "album": "Beethoven: Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 \"Moonlight Sonata\": III. Presto agitato",
+   "release_date": "2026-11-20"
+  },
+  {
+   "position": 5,
+   "title": "Elfman: Fifty Shades Freed: Freed",
+   "artists": "Danny Elfman, Gautier Capuçon, Jérôme Ducros",
+   "uri": "spotify:track:6sMqXYF47Q6aGOLmP1XvCz",
+   "duration_ms": 135320,
+   "url": "https://open.spotify.com/track/6sMqXYF47Q6aGOLmP1XvCz",
+   "album": "Danny Elfman: Cello Concerto & Film Music",
+   "release_date": "2026-11-20"
+  },
+  {
+   "position": 6,
+   "title": "The Screens: Night on the Balcony",
+   "artists": "Philip Glass, Foday Musa Suso, Olivia Belli",
+   "uri": "spotify:track:0HcildeRCM8UmGjDIKgjSS",
+   "duration_ms": 138186,
+   "url": "https://open.spotify.com/track/0HcildeRCM8UmGjDIKgjSS",
+   "album": "The Screens: Night on the Balcony",
+   "release_date": "2026-11-20"
+  },
+  {
+   "position": 7,
+   "title": "Violin Concerto No. 3 in G Major, K. 216: II. Adagio",
+   "artists": "Wolfgang Amadeus Mozart, Benjamin Baker, London Mozart Players, Jonathan Bloxham",
+   "uri": "spotify:track:2QXwQ3dLQYkqqKzEFQnid5",
+   "duration_ms": 500180,
+   "url": "https://open.spotify.com/track/2QXwQ3dLQYkqqKzEFQnid5",
+   "album": "Violin Concerto No. 3 in G Major, K. 216: II. Adagio",
+   "release_date": "2026-11-20"
+  },
+  {
+   "position": 8,
+   "title": "La Source, Op. 44 (Arr. Webb for Flute & Harp)",
+   "artists": "Alphonse Hasselmans, Jeehee Han, Emmanuel Ceysson",
+   "uri": "spotify:track:5CSFHqEVsCQvwhDFo2j01T",
+   "duration_ms": 225953,
+   "url": "https://open.spotify.com/track/5CSFHqEVsCQvwhDFo2j01T",
+   "album": "Hasselmans: La Source, Op. 44 (Arr. Webb for Flute & Harp)",
+   "release_date": "2026-11-20"
+  },
+  {
+   "position": 9,
+   "title": "Ouverture-Suite for Strings & Continuo in A Minor, TWV 55.a5: V. Chaconne",
+   "artists": "Georg Philipp Telemann, La Serenissima, Adrian Chandler",
+   "uri": "spotify:track:2ldXBkNp00TuJGxOoyMRjF",
+   "duration_ms": 227333,
+   "url": "https://open.spotify.com/track/2ldXBkNp00TuJGxOoyMRjF",
+   "album": "Telemann: Ouverture-Suite for Strings & Continuo in A Minor, TWV 55.a5: V. Chaconne",
+   "release_date": "2026-11-19"
+  },
+  {
+   "position": 10,
+   "title": "Märchenerzählungen, Op. 132: III. Ruhiges Tempo, mit zartem Ausdruck",
+   "artists": "Robert Schumann, Trio Caspar",
+   "uri": "spotify:track:6pKYjQno7qhCUoppleiCWI",
+   "duration_ms": 275586,
+   "url": "https://open.spotify.com/track/6pKYjQno7qhCUoppleiCWI",
+   "album": "Conversations: Schoenfeld, Stravinsky, Larsen & R. Schumann",
+   "release_date": "2026-11-20"
+  },
+  {
+   "position": 11,
+   "title": "Rain in Vienna",
+   "artists": "Herbert Schuch",
+   "uri": "spotify:track:7CQ7NZJsGFtkMYOkQk8U0M",
+   "duration_ms": 219000,
+   "url": "https://open.spotify.com/track/7CQ7NZJsGFtkMYOkQk8U0M",
+   "album": "Herbert Schuch: Rain in Vienna",
+   "release_date": "2026-11-19"
+  },
+  {
+   "position": 12,
+   "title": "Symphony No. 8 in B Minor, D. 759 “Unfinished”: I. Allegro moderato",
+   "artists": "Franz Schubert, Riccardo Muti, Orchestra Luigi Cherubini",
+   "uri": "spotify:track:63lqZSS5ay1lV53aNb8Z8k",
+   "duration_ms": 988281,
+   "url": "https://open.spotify.com/track/63lqZSS5ay1lV53aNb8Z8k",
+   "album": "Symphonic Masterworks, Vol. 4 - Schubert: Symphonies Nos. 4 \"Tragic\" & 8 \"Unfinished\"",
+   "release_date": "2026-11-20"
+  },
+  {
+   "position": 13,
+   "title": "33 Miniatures: No. 32, Theme from Mother Courage and Her Children",
+   "artists": "Giya Kancheli, Olga Jegunova-Oppetit",
+   "uri": "spotify:track:6m0qH95lvgQR9Dj8RtFVGn",
+   "duration_ms": 88280,
+   "url": "https://open.spotify.com/track/6m0qH95lvgQR9Dj8RtFVGn",
+   "album": "33 Miniatures: No. 32, Theme from Mother Courage and Her Children",
+   "release_date": "2026-11-20"
+  },
+  {
+   "position": 14,
+   "title": "Elizabeth Remembered",
+   "artists": "Debbie Wiseman, Yuqiao",
+   "uri": "spotify:track:6FCcKDOERpdUSetmKTlXDC",
+   "duration_ms": 133780,
+   "url": "https://open.spotify.com/track/6FCcKDOERpdUSetmKTlXDC",
+   "album": "Elizabeth Remembered",
+   "release_date": "2026-11-20"
+  },
+  {
+   "position": 15,
+   "title": "Werther, Act III: Toute mon âme est là – Pourquoi me réveiller",
+   "artists": "Jules Massenet, Benjamin Bernheim, Les Siècles, Marc Leroy-Calatayud",
+   "uri": "spotify:track:2PD7JiwS5BoI9D4sJgwheK",
+   "duration_ms": 194906,
+   "url": "https://open.spotify.com/track/2PD7JiwS5BoI9D4sJgwheK",
+   "album": "Massenet: Werther",
+   "release_date": "2026-11-20"
+  },
+  {
+   "position": 16,
+   "title": "Echo Salvation",
+   "artists": "Martin Stadtfeld",
+   "uri": "spotify:track:5t4EF0vixzrVX74nDZXUsk",
+   "duration_ms": 113541,
+   "url": "https://open.spotify.com/track/5t4EF0vixzrVX74nDZXUsk",
+   "album": "Echo Salvation",
+   "release_date": "2026-11-20"
+  },
+  {
+   "position": 17,
+   "title": "At the Tabard Inn",
+   "artists": "George Dyson, BBC Concert Orchestra, John Andrews",
+   "uri": "spotify:track:2NPHZTZG7S1tEaIs6cHkQa",
+   "duration_ms": 672800,
+   "url": "https://open.spotify.com/track/2NPHZTZG7S1tEaIs6cHkQa",
+   "album": "Dyson: Violin Concerto, Hierusalem & At the Tabard Inn",
+   "release_date": "2026-11-20"
+  },
+  {
+   "position": 18,
+   "title": "Orphée Suite: II. Orphée's Bedroom (Arr. for Harp by Lavinia Meijer)",
+   "artists": "Philip Glass, Lavinia Meijer",
+   "uri": "spotify:track:22a3vguizBYoD5YUzpz2aD",
+   "duration_ms": 104779,
+   "url": "https://open.spotify.com/track/22a3vguizBYoD5YUzpz2aD",
+   "album": "Orphée Suite: II. Orphée's Bedroom (Arr. for Harp by Lavinia Meijer)",
+   "release_date": "2026-11-20"
+  },
+  {
+   "position": 19,
+   "title": "Paix, Op. 18 No. 1 (Arr. For Cello & Piano)",
+   "artists": "Charlotte Sohy, Laura van der Heijden, Jâms Coleman",
+   "uri": "spotify:track:2EzKjlTQIKPV1eWJHrj1lv",
+   "duration_ms": 239933,
+   "url": "https://open.spotify.com/track/2EzKjlTQIKPV1eWJHrj1lv",
+   "album": "Sohy: Paix, Op. 18 No. 1 (Arr. For Cello & Piano)",
+   "release_date": "2026-11-20"
+  },
+  {
+   "position": 20,
+   "title": "Hym Worship We Now Borne so Fre",
+   "artists": "Piers Connor Kennedy, The Choir Of Trinity College, Cambridge, Steven Grahl",
+   "uri": "spotify:track:0iNX8WGQg8ADAQBHYQNgBJ",
+   "duration_ms": 207333,
+   "url": "https://open.spotify.com/track/0iNX8WGQg8ADAQBHYQNgBJ",
+   "album": "Song for Snow (A Cambridge Christmas)",
+   "release_date": "2026-11-20"
+  },
+  {
+   "position": 21,
+   "title": "A Midsummer Night’s Dream, Op. 61: I. Scherzo",
+   "artists": "Felix Mendelssohn, Maxim Emelyanychev, Scottish Chamber Orchestra",
+   "uri": "spotify:track:7jdJtRAGzewcG5o79w75I7",
+   "duration_ms": 280961,
+   "url": "https://open.spotify.com/track/7jdJtRAGzewcG5o79w75I7",
+   "album": "Felix Mendelssohn: Hebrides Overture, Calm Sea and Prosperous Voyage & A Midsummer Night’s Dream",
+   "release_date": "2026-11-20"
+  },
+  {
+   "position": 22,
+   "title": "Miles Apart",
+   "artists": "Luka Sulic",
+   "uri": "spotify:track:53cBcd6dkIIKCzWa5Jz0bv",
+   "duration_ms": 216173,
+   "url": "https://open.spotify.com/track/53cBcd6dkIIKCzWa5Jz0bv",
+   "album": "Miles Apart",
+   "release_date": "2026-11-20"
+  },
+  {
+   "position": 23,
+   "title": "The Song of James the Son of Zebedee",
+   "artists": "Lucy Walker, The Sixteen, Harry Christophers",
+   "uri": "spotify:track:4AIzE7ZJO3UkZ22AZOXQOG",
+   "duration_ms": 445182,
+   "url": "https://open.spotify.com/track/4AIzE7ZJO3UkZ22AZOXQOG",
+   "album": "Lucy Walker: The Song of James the Son of Zebedee",
+   "release_date": "2026-11-20"
+  },
+  {
+   "position": 24,
+   "title": "Ifigenia in Aulide, Atto primo. Scena 3: Aria. Non corrisponde al ver (Ifigenia)",
+   "artists": "Nicola Porpora, Mélissa Petit, Les Talens Lyriques, Christophe Rousset",
+   "uri": "spotify:track:1EClIzYkGN3E8s4bVTbzyW",
+   "duration_ms": 226173,
+   "url": "https://open.spotify.com/track/1EClIzYkGN3E8s4bVTbzyW",
+   "album": "Porpora: Ifigenia in Aulide",
+   "release_date": "2026-11-20"
+  },
+  {
+   "position": 25,
+   "title": "Leise rieselt der Schnee (Arr. for Guitar by Rosie Bennet)",
+   "artists": "Traditional, Rosie Bennet",
+   "uri": "spotify:track:5ORzKoSdn9Ji4ymDfwLcOQ",
+   "duration_ms": 116040,
+   "url": "https://open.spotify.com/track/5ORzKoSdn9Ji4ymDfwLcOQ",
+   "album": "Leise rieselt der Schnee (Arr. for Guitar by Rosie Bennet)",
+   "release_date": "2026-11-20"
+  },
+  {
+   "position": 26,
+   "title": "Hodie Christus natus est",
+   "artists": "Jan Pieterszoon Sweelinck, Dresdner Kreuzchor",
+   "uri": "spotify:track:4RJl5QTNw6ExuxxrLJCnr4",
+   "duration_ms": 209433,
+   "url": "https://open.spotify.com/track/4RJl5QTNw6ExuxxrLJCnr4",
+   "album": "Lux Natalis - Christmas with Dresdner Kreuzchor",
+   "release_date": "2026-11-20"
+  },
+  {
+   "position": 27,
+   "title": "6 Sonatas for Two Violins, Op. 3: No. 5: I. Allegro ma poco",
+   "artists": "Jean-Marie Leclair, Duo Yakovlev",
+   "uri": "spotify:track:0Ct8icDt3Ep7ya7tnAZZx2",
+   "duration_ms": 199320,
+   "url": "https://open.spotify.com/track/0Ct8icDt3Ep7ya7tnAZZx2",
+   "album": "Twin Voices",
+   "release_date": "2026-11-20"
+  },
+  {
+   "position": 28,
+   "title": "Images of Times Past",
+   "artists": "Mark John McEncroe, Miran Vaupotić, Zagreb Philharmonic Orchestra",
+   "uri": "spotify:track:7utKfhtlZt2YrkAzYR24TQ",
+   "duration_ms": 452046,
+   "url": "https://open.spotify.com/track/7utKfhtlZt2YrkAzYR24TQ",
+   "album": "Images of Times Past",
+   "release_date": "2026-11-20"
+  },
+  {
+   "position": 29,
+   "title": "Cello Concerto in E Minor, Op. 85: III. Adagio",
+   "artists": "Edward Elgar, Hayoung Choi, Antwerp Symphony Orchestra, Tomáš Netopil",
+   "uri": "spotify:track:2tDYMoMWCAWYQSReFXpZAx",
+   "duration_ms": 273333,
+   "url": "https://open.spotify.com/track/2tDYMoMWCAWYQSReFXpZAx",
+   "album": "Lutosławski: Cello Concerto - Elgar: Cello Concerto in E Minor",
+   "release_date": "2026-11-20"
+  },
+  {
+   "position": 30,
+   "title": "Grand Piano Sonata No. 6 in D Minor, Op. 124: VI. Presto scherzando",
+   "artists": "Carl Czerny, Kaori Saeki",
+   "uri": "spotify:track:0Qk2cyqwOEotwbFFFcNiZJ",
+   "duration_ms": 249853,
+   "url": "https://open.spotify.com/track/0Qk2cyqwOEotwbFFFcNiZJ",
+   "album": "Carl Czerny: Piano Sonatas II \"Bel Canto\"",
+   "release_date": "2026-11-20"
+  },
+  {
+   "position": 31,
+   "title": "Stabat Mater: Introduction",
+   "artists": "Clémence de Grandval, Anne Le Bozec, Sarah Kim, Lionel Sow",
+   "uri": "spotify:track:7wx0wqks44BTXSkmKC43ks",
+   "duration_ms": 279226,
+   "url": "https://open.spotify.com/track/7wx0wqks44BTXSkmKC43ks",
+   "album": "Clémence Grandval: Au cœur du romantisme français Vol. 4",
+   "release_date": "2026-11-20"
+  },
+  {
+   "position": 32,
+   "title": "Entrʼacte 1 – Allegro assai",
+   "artists": "Franz Paul Lachner, Evergreen Symphony Orchestra, Gernot Schmalfuss",
+   "uri": "spotify:track:1p1V1HpXp6uN0w5M4O0nWp",
+   "duration_ms": 279881,
+   "url": "https://open.spotify.com/track/1p1V1HpXp6uN0w5M4O0nWp",
+   "album": "Franz Lachner: Symphony No. 7 & Entr’actes 1–9",
+   "release_date": "2026-11-20"
+  },
+  {
+   "position": 33,
+   "title": "7 Piano Pieces: 2. Mirage",
+   "artists": "Adam Khudoyan, Lilit Grigoryan",
+   "uri": "spotify:track:6lRffVXaMHQUHTibujENr3",
+   "duration_ms": 41280,
+   "url": "https://open.spotify.com/track/6lRffVXaMHQUHTibujENr3",
+   "album": "Khudoyan: 7 Piano Pieces, 2. Mirage",
+   "release_date": "2026-11-20"
+  },
+  {
+   "position": 34,
+   "title": "Dance, Clarion Air",
+   "artists": "Michael Tippett, Christopher Fry, The Carice Singers, George Parris",
+   "uri": "spotify:track:0LUbUyuqsE1seJGooL42Kq",
+   "duration_ms": 265640,
+   "url": "https://open.spotify.com/track/0LUbUyuqsE1seJGooL42Kq",
+   "album": "Tippett: Unaccompanied Choral Music",
+   "release_date": "2026-11-20"
+  },
+  {
+   "position": 35,
+   "title": "The Christmas Life",
+   "artists": "Lucy Walker, National Youth Choir Of Great Britain, Ellie Slorach",
+   "uri": "spotify:track:4YQ9wTTKS8rDlOC61Uw5e4",
+   "duration_ms": 227503,
+   "url": "https://open.spotify.com/track/4YQ9wTTKS8rDlOC61Uw5e4",
+   "album": "Lucy Walker: The Christmas Life",
+   "release_date": "2026-11-20"
+  },
+  {
+   "position": 36,
+   "title": "Flooded With Light",
+   "artists": "Laurent Dury, Hungarian Studio Orchestra, Abel Tompa",
+   "uri": "spotify:track:0z5LcX9sju36lPbCGWM1Ta",
+   "duration_ms": 115883,
+   "url": "https://open.spotify.com/track/0z5LcX9sju36lPbCGWM1Ta",
+   "album": "Flooded With Light",
+   "release_date": "2026-11-20"
+  },
+  {
+   "position": 37,
+   "title": "Le Dernier Jour de Pompéi, Act II Scene 6: Prelude and Aria. Quels sourds mugissements en ce lieu solitaire ! (La Saga)",
+   "artists": "Victorin Joncières, Aude Extrémo, Concerto Budapest Symphony Orchestra, Gyorgy Vashegyi",
+   "uri": "spotify:track:3RDi1teWMtuVX5eNruFvGq",
+   "duration_ms": 495195,
+   "url": "https://open.spotify.com/track/3RDi1teWMtuVX5eNruFvGq",
+   "album": "Abysses. French Arias for Contralto",
+   "release_date": "2026-11-20"
+  },
+  {
+   "position": 38,
+   "title": "Black Swan: VII. —",
+   "artists": "Lisa Streich, Bavarian Radio Symphony Orchestra, Matthias Pintscher, Tamara Stefanovich",
+   "uri": "spotify:track:6QvmDJccdQGFZfAkuhe7Hf",
+   "duration_ms": 119320,
+   "url": "https://open.spotify.com/track/6QvmDJccdQGFZfAkuhe7Hf",
+   "album": "Lisa Streich: Black Swan",
+   "release_date": "2026-11-20"
+  },
+  {
+   "position": 39,
+   "title": "and the swallow",
+   "artists": "Caroline Shaw, Netherlands Chamber Choir, Peter Dijkstra",
+   "uri": "spotify:track:4Mgi4dZwAYXVmAp5ENuYu1",
+   "duration_ms": 184586,
+   "url": "https://open.spotify.com/track/4Mgi4dZwAYXVmAp5ENuYu1",
+   "album": "and the swallow",
+   "release_date": "2026-11-20"
+  },
+  {
+   "position": 40,
+   "title": "Piano Quartet No. 3 in C Major, WoO 36: III. Rondo. Allegro",
+   "artists": "Ludwig van Beethoven, Trio Goldberg, David Bismuth",
+   "uri": "spotify:track:0jQ0S7LNUqO77dqwfuCZBS",
+   "duration_ms": 218586,
+   "url": "https://open.spotify.com/track/0jQ0S7LNUqO77dqwfuCZBS",
+   "album": "Beethoven: Quartets with Piano",
+   "release_date": "2026-11-20"
+  },
+  {
+   "position": 41,
+   "title": "Cello Suite No. 2 in D Minor, BWV 1008: VII. Gigue",
+   "artists": "Johann Sebastian Bach, Estelle Revaz",
+   "uri": "spotify:track:7DQWzs4XwNJxCfIIipEtoi",
+   "duration_ms": 160000,
+   "url": "https://open.spotify.com/track/7DQWzs4XwNJxCfIIipEtoi",
+   "album": "Bach to Groove",
+   "release_date": "2026-11-20"
+  },
+  {
+   "position": 42,
+   "title": "String Septet No. 1 “The Women of Gairsay”: I. “Women’s lament”",
+   "artists": "Ivor Hodgson, I Musicanti, Leon Bosch",
+   "uri": "spotify:track:0WjFqmamh9oRcMVMxdufPg",
+   "duration_ms": 211186,
+   "url": "https://open.spotify.com/track/0WjFqmamh9oRcMVMxdufPg",
+   "album": "Hodgson: String Quintets Nos. 1 & 2; String Septet No. 1",
+   "release_date": "2026-11-20"
+  },
+  {
+   "position": 43,
+   "title": "San Giovanni Battista, G.3.3, Pt. I: Aria. Soffin pur rabbiosi fremiti (Il Battista)",
+   "artists": "Alessandro Stradella, Danilo Pastore, Ensemble Mare Nostrum, Andrea De Carlo",
+   "uri": "spotify:track:7icfv3H3gu5z894DQ7z1N2",
+   "duration_ms": 125172,
+   "url": "https://open.spotify.com/track/7icfv3H3gu5z894DQ7z1N2",
+   "album": "Stradella: San Giovanni Battista",
+   "release_date": "2026-11-20"
+  },
+  {
+   "position": 44,
+   "title": "Glow of Dawn or Dusk",
+   "artists": "João Marcondes",
+   "uri": "spotify:track:75jsFaBuJ7BXcefBZDZ1hs",
+   "duration_ms": 213752,
+   "url": "https://open.spotify.com/track/75jsFaBuJ7BXcefBZDZ1hs",
+   "album": "Marcondes: Glow of Dawn or Dusk for Chamber Orchestra",
+   "release_date": "2026-11-20"
+  },
+  {
+   "position": 45,
+   "title": "Das schöne Milchmädchen: No. 3, Aria. Mein Herz gleicht einem schwanken Rohr (Rose)",
+   "artists": "Joseph Woelfl, Anna Herbst, Kölner Akademie, Michael Alexander Willens",
+   "uri": "spotify:track:2DR7j6Qbi6sOMgSmp5fLOo",
+   "duration_ms": 149227,
+   "url": "https://open.spotify.com/track/2DR7j6Qbi6sOMgSmp5fLOo",
+   "album": "Woelfl: Das schöne Milchmädchen",
+   "release_date": "2026-11-20"
+  },
+  {
+   "position": 46,
+   "title": "Piano Sonata in A Minor, D. 784: III. Allegro vivace",
+   "artists": "Franz Schubert, Can Çakmur",
+   "uri": "spotify:track:36CCVm3QApmNz14Q3JzSJr",
+   "duration_ms": 330333,
+   "url": "https://open.spotify.com/track/36CCVm3QApmNz14Q3JzSJr",
+   "album": "Schubert + Lachenmann",
+   "release_date": "2026-11-20"
+  },
+  {
+   "position": 47,
+   "title": "Till Eulenspiegels lustige Streich, Op. 28, TrV 171",
+   "artists": "Richard Strauss, Alexander Shelley, Canada's National Arts Centre Orchestra",
+   "uri": "spotify:track:3NMSek9n9i4xccj8uOocVK",
+   "duration_ms": 923413,
+   "url": "https://open.spotify.com/track/3NMSek9n9i4xccj8uOocVK",
+   "album": "Poema 3. Comœdia",
+   "release_date": "2026-11-20"
+  },
+  {
+   "position": 48,
+   "title": "Foliage at Night (Kodaiji, Kyoto - String Quartet Version)",
+   "artists": "Jo-Yu Chen",
+   "uri": "spotify:track:4v5IJ0JWQvt6Psz9J7DvAu",
+   "duration_ms": 362134,
+   "url": "https://open.spotify.com/track/4v5IJ0JWQvt6Psz9J7DvAu",
+   "album": "Modern Love",
+   "release_date": "2026-11-20"
+  },
+  {
+   "position": 49,
+   "title": "Opus 56: Letting Go",
+   "artists": "Carsten Bo Eriksen, My Beautiful Decay 1973, Rikke Sandberg, Kirstine Schneider",
+   "uri": "spotify:track:2StgenIO9Ffov2Tb2TXEPb",
+   "duration_ms": 190081,
+   "url": "https://open.spotify.com/track/2StgenIO9Ffov2Tb2TXEPb",
+   "album": "Letters from the winter sky",
+   "release_date": "2026-11-20"
+  },
+  {
+   "position": 50,
+   "title": "Sonate No. 2 in G Major, M. 77: II. Blues. Moderato",
+   "artists": "Maurice Ravel, Cristina Papini, Andrea Napoleoni",
+   "uri": "spotify:track:2TzZ5QIywMuIRiylb5xTzS",
+   "duration_ms": 331605,
+   "url": "https://open.spotify.com/track/2TzZ5QIywMuIRiylb5xTzS",
+   "album": "Debussy, Ravel: Works for Violin and Piano",
+   "release_date": "2026-11-20"
+  },
+  {
+   "position": 51,
+   "title": "Prelude No. 2 for Solo Harp",
+   "artists": "João Marcondes, New Frequency",
+   "uri": "spotify:track:4blZ7iOzYSDy6nl8ijAY8E",
+   "duration_ms": 246815,
+   "url": "https://open.spotify.com/track/4blZ7iOzYSDy6nl8ijAY8E",
+   "album": "Opus 6 for Solo Harp",
+   "release_date": "2026-11-20"
+  },
+  {
+   "position": 52,
+   "title": "Serenade for String Quartet in G major op. 14: Allegro moderato, ma con spirito",
+   "artists": "Adolf Busch, Sarastro String Quartet",
+   "uri": "spotify:track:1G6w6hA8669A666LcgnOfx",
+   "duration_ms": 350120,
+   "url": "https://open.spotify.com/track/1G6w6hA8669A666LcgnOfx",
+   "album": "Adolf Busch: String Quartets G minor & op. 29|Serenade op. 14|Five Preludes and Fugues op. 36",
+   "release_date": "2026-11-20"
+  },
+  {
+   "position": 53,
+   "title": "Tango in Temple Street V",
+   "artists": "Alfred Wong, Maurice Ravel, Musicus Soloists Hong Kong, Anna-Liisa Bezrodny",
+   "uri": "spotify:track:0sHhyrm9SRK30JHO3YmKmM",
+   "duration_ms": 305333,
+   "url": "https://open.spotify.com/track/0sHhyrm9SRK30JHO3YmKmM",
+   "album": "Wong: Tango in Temple Street V",
+   "release_date": "2026-11-18"
+  },
+  {
+   "position": 54,
+   "title": "Concert aria for Soprano and Orchestra \"La Primavera\"",
+   "artists": "Antoine Reicha, Chen Reiss, Beethoven Orchestra Bonn, Dirk Kaftan",
+   "uri": "spotify:track:2RStzoVDkw4A7vJwAz1hfO",
+   "duration_ms": 407359,
+   "url": "https://open.spotify.com/track/2RStzoVDkw4A7vJwAz1hfO",
+   "album": "Edition Hofkapelle 3",
+   "release_date": "2026-11-20"
+  },
+  {
+   "position": 55,
+   "title": "25 Études, Op. 60: No. 1, Study in C Major. Allegro",
+   "artists": "Matteo Carcassi, Sam Desmet",
+   "uri": "spotify:track:78xyZ8NeAe4Q423XFJHMhP",
+   "duration_ms": 62933,
+   "url": "https://open.spotify.com/track/78xyZ8NeAe4Q423XFJHMhP",
+   "album": "25 Études, Op. 60: No. 1, Study in C Major. Allegro",
+   "release_date": "2026-11-20"
+  },
+  {
+   "position": 56,
+   "title": "Le Nozze di Figaro, K. 492: Overture (Arr. for Chamber Ensemble by Alexander Krampe)",
+   "artists": "Wolfgang Amadeus Mozart, Rudens Turku, Rudens Turku Festival Ensemble",
+   "uri": "spotify:track:0wZhq1hSnM7Qg106bJCz94",
+   "duration_ms": 257933,
+   "url": "https://open.spotify.com/track/0wZhq1hSnM7Qg106bJCz94",
+   "album": "Mozart: Le Nozze di Figaro, K. 492: Overture (Arr. for Chamber Ensemble by Alexander Krampe)",
+   "release_date": "2026-11-20"
+  },
+  {
+   "position": 57,
+   "title": "Regina cœli a 4: I. Regina cœli lætare",
+   "artists": "Joseph-Hector Fiocco, Wei-Lian Huang, Andrea Gavagnin, Maxime Melnik, Scherzi Musicali, Nicolas Achten",
+   "uri": "spotify:track:0jTMSuOhxjDlDM5LSYCV7o",
+   "duration_ms": 108760,
+   "url": "https://open.spotify.com/track/0jTMSuOhxjDlDM5LSYCV7o",
+   "album": "Joseph-Hector Fiocco: Petits motets, Vol. 3",
+   "release_date": "2026-11-20"
+  },
+  {
+   "position": 58,
+   "title": "Sleep Dissolve",
+   "artists": "Monty Hancock",
+   "uri": "spotify:track:5so95mJXvrgYXN0FmfSSYv",
+   "duration_ms": 176000,
+   "url": "https://open.spotify.com/track/5so95mJXvrgYXN0FmfSSYv",
+   "album": "Sleep Dissolve",
+   "release_date": "2026-11-18"
+  },
+  {
+   "position": 59,
+   "title": "Passagework",
+   "artists": "Christopher Cerrone, David Kaplan",
+   "uri": "spotify:track:0zX9iz7tbgvfrr7314snU6",
+   "duration_ms": 473400,
+   "url": "https://open.spotify.com/track/0zX9iz7tbgvfrr7314snU6",
+   "album": "Quasi una fantasia",
+   "release_date": "2026-11-20"
+  },
+  {
+   "position": 60,
+   "title": "Holberg Suite, Op. 40: Prelude",
+   "artists": "Edvard Grieg, Ellisiv Tandberg",
+   "uri": "spotify:track:2HwhpwSTghQWmlZuzTFjSy",
+   "duration_ms": 170563,
+   "url": "https://open.spotify.com/track/2HwhpwSTghQWmlZuzTFjSy",
+   "album": "The Fire Sermon - Norse Saga",
+   "release_date": "2026-11-20"
+  },
+  {
+   "position": 61,
+   "title": "Der Frühling",
+   "artists": "Carl Philipp Emanuel Bach, Christoph Martin Wieland, Gunta Smirnova, Mikayel Balyan",
+   "uri": "spotify:track:2GN0pvKirV2c90nzQFOkg1",
+   "duration_ms": 349933,
+   "url": "https://open.spotify.com/track/2GN0pvKirV2c90nzQFOkg1",
+   "album": "Gewitternacht",
+   "release_date": "2026-11-20"
+  },
+  {
+   "position": 62,
+   "title": "Missa Papae Marcelli, PdPWV Mis013: I. Kyrie - 6-stimmige Originalfassung",
+   "artists": "Giovanni Pierluigi da Palestrina, Vokalkapelle der Theatinerkirche München, Robert Mehlhart",
+   "uri": "spotify:track:5Ehm4LfCwJo5b5Q7Oyj31j",
+   "duration_ms": 230489,
+   "url": "https://open.spotify.com/track/5Ehm4LfCwJo5b5Q7Oyj31j",
+   "album": "Missa Papae Marcelli - Magnificat",
+   "release_date": "2026-11-20"
+  },
+  {
+   "position": 63,
+   "title": "Slavonic Dances, Op. 46",
+   "artists": "Antonín Dvořák, Matthew Zalkind, Julio Elizalde",
+   "uri": "spotify:track:7befEBYlqTtBtg7LkHWP8D",
+   "duration_ms": 263029,
+   "url": "https://open.spotify.com/track/7befEBYlqTtBtg7LkHWP8D",
+   "album": "DVOŘÁK: Slavonic Dances, Op. 48: No. 8 in G minor",
+   "release_date": "2026-11-20"
+  },
+  {
+   "position": 64,
+   "title": "La lutherie enchantée: No. 9, Pas de deux",
+   "artists": "Jean Françaix, Ransom Wilson, Orchestre Pasdeloup",
+   "uri": "spotify:track:5qly4r7f82KKgV08DjV1cc",
+   "duration_ms": 236240,
+   "url": "https://open.spotify.com/track/5qly4r7f82KKgV08DjV1cc",
+   "album": "Françaix: La lutherie enchantée, No. 9, Pas de deux",
+   "release_date": "2026-11-20"
+  },
+  {
+   "position": 65,
+   "title": "Solilóquio",
+   "artists": " Giovanna Conde, Sonoras",
+   "uri": "spotify:track:0IbJyIOM5kLqBiXqqCIrEk",
+   "duration_ms": 224464,
+   "url": "https://open.spotify.com/track/0IbJyIOM5kLqBiXqqCIrEk",
+   "album": "Conde: Solilóquio",
+   "release_date": "2026-11-20"
+  },
+  {
+   "position": 66,
+   "title": "Love, Friendship and Longing: No. 9, Alone with No-One in Sight",
+   "artists": "Nicholas Michael Smith, Mimi Doulton, Susan Legg, Ben Hancox-Lachman, Christopher Foster, Shen Yue, William Hancox",
+   "uri": "spotify:track:6MzZOx0Mtr1fFYkI5dz5wB",
+   "duration_ms": 139213,
+   "url": "https://open.spotify.com/track/6MzZOx0Mtr1fFYkI5dz5wB",
+   "album": "Love, Friendship & Longing: No. 9, Alone With No-one in Sight",
+   "release_date": "2026-11-20"
+  },
+  {
+   "position": 67,
+   "title": "Mountain Fado",
+   "artists": "Steven Serpa, Holly Mulcahy, Yujung Um",
+   "uri": "spotify:track:2eJS9QjhHjrukc44dTpBTT",
+   "duration_ms": 269909,
+   "url": "https://open.spotify.com/track/2eJS9QjhHjrukc44dTpBTT",
+   "album": "These Landscapes: I Remember Them Differently Now",
+   "release_date": "2026-11-20"
+  },
+  {
+   "position": 68,
+   "title": "Das Jahr - September ´Am Flusse´",
+   "artists": "Fanny Mendelssohn, Bas Verheijden",
+   "uri": "spotify:track:4OQc67bKjCLfv074HHKskU",
+   "duration_ms": 171560,
+   "url": "https://open.spotify.com/track/4OQc67bKjCLfv074HHKskU",
+   "album": "Italian Dreams - Fanny & Felix Mendelssohn",
+   "release_date": "2026-11-20"
+  },
+  {
+   "position": 69,
+   "title": "Time to Act: Scene 2: Alethia, If you knew the beauty of that day - Live",
+   "artists": "Laura Kaminsky, Crystal Manich, Jared Kellman-Medina, Elizabeth Marlow, Daniel Esteban Lugo, Andrew Bisantz, Boston Conservatory at Berklee Opera and Orchestra",
+   "uri": "spotify:track:62g2WTWbQtEfOcSrPah822",
+   "duration_ms": 444200,
+   "url": "https://open.spotify.com/track/62g2WTWbQtEfOcSrPah822",
+   "album": "Laura Kaminsky: Time to Act (Live)",
+   "release_date": "2026-11-20"
+  },
+  {
+   "position": 70,
+   "title": "Celestial Miniatures: 6. Enceladus",
+   "artists": "Robert McClure, Emely Phelps",
+   "uri": "spotify:track:3Z6JYP5bSalPLvjcJC8eF4",
+   "duration_ms": 204253,
+   "url": "https://open.spotify.com/track/3Z6JYP5bSalPLvjcJC8eF4",
+   "album": "American Counterpoint",
+   "release_date": "2026-11-20"
+  },
+  {
+   "position": 71,
+   "title": "Amor l'alma m'allaccia",
+   "artists": "Carlo Alessandro Landini, Fleur-de-Lys",
+   "uri": "spotify:track:0uYJDvJL10HOrZMm801tmn",
+   "duration_ms": 223059,
+   "url": "https://open.spotify.com/track/0uYJDvJL10HOrZMm801tmn",
+   "album": "Carlo alessandro landini: libro di madrigali",
+   "release_date": "2026-11-20"
+  },
+  {
+   "position": 72,
+   "title": "Ich steh mit einem Fuß im Grabe, BWV 156: I. Sinfonia \"Arioso\" (Arr. for Guitar by Luis Leite)",
+   "artists": "Johann Sebastian Bach, Ivory Compass",
+   "uri": "spotify:track:4qxxRFdBsIMmaY7q3WTbxk",
+   "duration_ms": 202998,
+   "url": "https://open.spotify.com/track/4qxxRFdBsIMmaY7q3WTbxk",
+   "album": "Arioso",
+   "release_date": "2026-11-20"
+  }
+ ]
+}
